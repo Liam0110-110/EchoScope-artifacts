@@ -1,0 +1,16 @@
+{
+  "E1_paraphrase_fits": 12,
+  "E1_readout_cells_zero": 24,
+  "E2_exact_para_means_equal": true,
+  "E3_complete_cells": 12840,
+  "G7_human_adjudication_complete": true,
+  "body_last_page": 8,
+  "total_pages": 12,
+  "figure_pages": {
+    "1": 2,
+    "2": 5,
+    "3": 7
+  },
+  "no_overfull_or_undefined_references": true,
+  "bibliography_class_and_overview_unchanged": true
+}

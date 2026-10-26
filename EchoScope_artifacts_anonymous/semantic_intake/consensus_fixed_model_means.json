@@ -1,0 +1,402 @@
+[
+  {
+    "branch": "fixed",
+    "method": "exact_text",
+    "condition": "A_exact",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.8240740740740741,
+    "semantic_upper": 0.8296296296296296
+  },
+  {
+    "branch": "fixed",
+    "method": "exact_text",
+    "condition": "A_para",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.018518518518518517,
+    "semantic_upper": 0.018518518518518517
+  },
+  {
+    "branch": "fixed",
+    "method": "exact_text",
+    "condition": "B_para",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 1.0,
+    "semantic_upper": 1.0
+  },
+  {
+    "branch": "fixed",
+    "method": "exact_text",
+    "condition": "N",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.9555555555555556,
+    "semantic_upper": 0.9638888888888889
+  },
+  {
+    "branch": "fixed",
+    "method": "no_graph",
+    "condition": "A_exact",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.016666666666666666,
+    "semantic_upper": 0.016666666666666666
+  },
+  {
+    "branch": "fixed",
+    "method": "no_graph",
+    "condition": "A_para",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.018518518518518517,
+    "semantic_upper": 0.018518518518518517
+  },
+  {
+    "branch": "fixed",
+    "method": "no_graph",
+    "condition": "B_para",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 1.0,
+    "semantic_upper": 1.0
+  },
+  {
+    "branch": "fixed",
+    "method": "no_graph",
+    "condition": "N",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.9555555555555556,
+    "semantic_upper": 0.9638888888888889
+  },
+  {
+    "branch": "fixed",
+    "method": "semantic_0.90",
+    "condition": "A_exact",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.5962962962962963,
+    "semantic_upper": 0.6018518518518519
+  },
+  {
+    "branch": "fixed",
+    "method": "semantic_0.90",
+    "condition": "A_para",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.5962962962962963,
+    "semantic_upper": 0.6018518518518519
+  },
+  {
+    "branch": "fixed",
+    "method": "semantic_0.90",
+    "condition": "B_para",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 1.0,
+    "semantic_upper": 1.0
+  },
+  {
+    "branch": "fixed",
+    "method": "semantic_0.90",
+    "condition": "N",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.9555555555555556,
+    "semantic_upper": 0.9638888888888889
+  },
+  {
+    "branch": "fixed",
+    "method": "vanilla",
+    "condition": "A_exact",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.5444444444444444,
+    "semantic_upper": 0.5444444444444444
+  },
+  {
+    "branch": "fixed",
+    "method": "vanilla",
+    "condition": "A_para",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.46111111111111114,
+    "semantic_upper": 0.46111111111111114
+  },
+  {
+    "branch": "fixed",
+    "method": "vanilla",
+    "condition": "B_para",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 1.0,
+    "semantic_upper": 1.0
+  },
+  {
+    "branch": "fixed",
+    "method": "vanilla",
+    "condition": "N",
+    "calibration_size": 0,
+    "readout": "expected",
+    "n": 180,
+    "semantic_lower": 0.9555555555555556,
+    "semantic_upper": 0.9555555555555556
+  },
+  {
+    "branch": "learned",
+    "method": "F1S1",
+    "condition": "A_exact",
+    "calibration_size": 13,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.0,
+    "semantic_upper": 0.0
+  },
+  {
+    "branch": "learned",
+    "method": "F1S1",
+    "condition": "A_exact",
+    "calibration_size": 13,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.0,
+    "semantic_upper": 0.0
+  },
+  {
+    "branch": "learned",
+    "method": "F1S1",
+    "condition": "A_exact",
+    "calibration_size": 26,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.0,
+    "semantic_upper": 0.0
+  },
+  {
+    "branch": "learned",
+    "method": "F1S1",
+    "condition": "A_exact",
+    "calibration_size": 26,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.0,
+    "semantic_upper": 0.0
+  },
+  {
+    "branch": "learned",
+    "method": "F1S1",
+    "condition": "N",
+    "calibration_size": 13,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.7843137254901961,
+    "semantic_upper": 0.7843137254901961
+  },
+  {
+    "branch": "learned",
+    "method": "F1S1",
+    "condition": "N",
+    "calibration_size": 13,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.7843137254901961,
+    "semantic_upper": 0.7843137254901961
+  },
+  {
+    "branch": "learned",
+    "method": "F1S1",
+    "condition": "N",
+    "calibration_size": 26,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.7843137254901961,
+    "semantic_upper": 0.7843137254901961
+  },
+  {
+    "branch": "learned",
+    "method": "F1S1",
+    "condition": "N",
+    "calibration_size": 26,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.7843137254901961,
+    "semantic_upper": 0.7843137254901961
+  },
+  {
+    "branch": "learned",
+    "method": "GroupVote",
+    "condition": "A_exact",
+    "calibration_size": 13,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.9411764705882353,
+    "semantic_upper": 0.9411764705882353
+  },
+  {
+    "branch": "learned",
+    "method": "GroupVote",
+    "condition": "A_exact",
+    "calibration_size": 13,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.7875816993464052,
+    "semantic_upper": 0.7875816993464052
+  },
+  {
+    "branch": "learned",
+    "method": "GroupVote",
+    "condition": "A_exact",
+    "calibration_size": 26,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.9411764705882353,
+    "semantic_upper": 0.9411764705882353
+  },
+  {
+    "branch": "learned",
+    "method": "GroupVote",
+    "condition": "A_exact",
+    "calibration_size": 26,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.7875816993464052,
+    "semantic_upper": 0.7875816993464052
+  },
+  {
+    "branch": "learned",
+    "method": "GroupVote",
+    "condition": "N",
+    "calibration_size": 13,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.9411764705882353,
+    "semantic_upper": 0.9411764705882353
+  },
+  {
+    "branch": "learned",
+    "method": "GroupVote",
+    "condition": "N",
+    "calibration_size": 13,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.946078431372549,
+    "semantic_upper": 0.946078431372549
+  },
+  {
+    "branch": "learned",
+    "method": "GroupVote",
+    "condition": "N",
+    "calibration_size": 26,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.9411764705882353,
+    "semantic_upper": 0.9411764705882353
+  },
+  {
+    "branch": "learned",
+    "method": "GroupVote",
+    "condition": "N",
+    "calibration_size": 26,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.946078431372549,
+    "semantic_upper": 0.946078431372549
+  },
+  {
+    "branch": "learned",
+    "method": "SourceFit",
+    "condition": "A_exact",
+    "calibration_size": 13,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.0,
+    "semantic_upper": 0.0
+  },
+  {
+    "branch": "learned",
+    "method": "SourceFit",
+    "condition": "A_exact",
+    "calibration_size": 13,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.0,
+    "semantic_upper": 0.0
+  },
+  {
+    "branch": "learned",
+    "method": "SourceFit",
+    "condition": "A_exact",
+    "calibration_size": 26,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.0,
+    "semantic_upper": 0.0
+  },
+  {
+    "branch": "learned",
+    "method": "SourceFit",
+    "condition": "A_exact",
+    "calibration_size": 26,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.0,
+    "semantic_upper": 0.0
+  },
+  {
+    "branch": "learned",
+    "method": "SourceFit",
+    "condition": "N",
+    "calibration_size": 13,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.9411764705882353,
+    "semantic_upper": 0.9411764705882353
+  },
+  {
+    "branch": "learned",
+    "method": "SourceFit",
+    "condition": "N",
+    "calibration_size": 13,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.946078431372549,
+    "semantic_upper": 0.946078431372549
+  },
+  {
+    "branch": "learned",
+    "method": "SourceFit",
+    "condition": "N",
+    "calibration_size": 26,
+    "readout": "R0",
+    "n": 102,
+    "semantic_lower": 0.9411764705882353,
+    "semantic_upper": 0.9411764705882353
+  },
+  {
+    "branch": "learned",
+    "method": "SourceFit",
+    "condition": "N",
+    "calibration_size": 26,
+    "readout": "R2",
+    "n": 102,
+    "semantic_lower": 0.946078431372549,
+    "semantic_upper": 0.946078431372549
+  }
+]

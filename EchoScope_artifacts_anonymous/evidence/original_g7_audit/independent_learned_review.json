@@ -1,0 +1,1125 @@
+{
+  "status": "PASS_NO_MATERIAL_IMPLEMENTATION_OR_REPORT_SCOPE_ERROR_FOUND",
+  "checked_fit_count": 24,
+  "checked_cells": 36,
+  "checked_predictions": 1224,
+  "test_denominator_each_cell": 34,
+  "fit_protocol": {
+    "max_iter": 100,
+    "tol": 1e-20,
+    "negative_weights": true,
+    "zero_observation_reliability": 0
+  },
+  "vendor100_and_default20_parity_independently_verified": true,
+  "fit_checks": [
+    {
+      "fit_id": "qwen35|N|cal13|SourceFit",
+      "iterations": 3,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "qwen35|N|cal13|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "qwen35|N|cal26|SourceFit",
+      "iterations": 3,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "qwen35|N|cal26|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "qwen35|A_exact|cal13|SourceFit",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "qwen35|A_exact|cal13|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "qwen35|A_exact|cal26|SourceFit",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "qwen35|A_exact|cal26|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "ministral3|N|cal13|SourceFit",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "ministral3|N|cal13|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "ministral3|N|cal26|SourceFit",
+      "iterations": 3,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "ministral3|N|cal26|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "ministral3|A_exact|cal13|SourceFit",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "ministral3|A_exact|cal13|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "ministral3|A_exact|cal26|SourceFit",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "ministral3|A_exact|cal26|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "gemma3_4b|N|cal13|SourceFit",
+      "iterations": 3,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "gemma3_4b|N|cal13|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "gemma3_4b|N|cal26|SourceFit",
+      "iterations": 3,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "gemma3_4b|N|cal26|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "gemma3_4b|A_exact|cal13|SourceFit",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "gemma3_4b|A_exact|cal13|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "gemma3_4b|A_exact|cal26|SourceFit",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    },
+    {
+      "fit_id": "gemma3_4b|A_exact|cal26|F1S1",
+      "iterations": 2,
+      "pure_python_equals_vendor100_and_default20": true
+    }
+  ],
+  "GroupVote_attack_R0_R2": [
+    {
+      "model": "qwen35",
+      "calibration_size": 13,
+      "R0": 0.9117647058823529,
+      "R2": 0.8676470588235294,
+      "effective_attack_mass_per_test_event": [
+        {
+          "event_id": "G7-formula1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-hugo-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-dublin-literary-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-georgia-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-club-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-blue-ghost-mission1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-stanley-cup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-test-championship-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-timor-leste-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-g20-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-nobel-peace-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-g7-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-goncourt-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-berlinale-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-astrid-lindgren-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-fide-women-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-icc-champions-trophy-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-womens-prize-fiction-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-eurovision-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-cesar-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-suriname-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-athletics-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-indy500-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-brics-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-u20-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-templeton-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-unesco-maratha-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-abel-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-womens-euro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-giro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-six-nations-men-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-pulitzer-fiction-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-world-food-prize-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-roland-garros-2025",
+          "R0_attack_weight": 0.5
+        }
+      ]
+    },
+    {
+      "model": "qwen35",
+      "calibration_size": 26,
+      "R0": 0.9117647058823529,
+      "R2": 0.8676470588235294,
+      "effective_attack_mass_per_test_event": [
+        {
+          "event_id": "G7-formula1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-hugo-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-dublin-literary-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-georgia-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-club-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-blue-ghost-mission1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-stanley-cup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-test-championship-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-timor-leste-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-g20-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-nobel-peace-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-g7-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-goncourt-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-berlinale-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-astrid-lindgren-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-fide-women-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-icc-champions-trophy-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-womens-prize-fiction-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-eurovision-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-cesar-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-suriname-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-athletics-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-indy500-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-brics-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-u20-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-templeton-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-unesco-maratha-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-abel-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-womens-euro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-giro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-six-nations-men-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-pulitzer-fiction-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-world-food-prize-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-roland-garros-2025",
+          "R0_attack_weight": 0.5
+        }
+      ]
+    },
+    {
+      "model": "ministral3",
+      "calibration_size": 13,
+      "R0": 0.8823529411764706,
+      "R2": 0.6911764705882353,
+      "effective_attack_mass_per_test_event": [
+        {
+          "event_id": "G7-formula1-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-hugo-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-dublin-literary-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-georgia-malaria-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-club-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-blue-ghost-mission1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-stanley-cup-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-world-test-championship-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-timor-leste-malaria-2025",
+          "R0_attack_weight": 1.0
+        },
+        {
+          "event_id": "G7-g20-summit-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-nobel-peace-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-g7-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-goncourt-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-berlinale-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-astrid-lindgren-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-fide-women-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-icc-champions-trophy-2025",
+          "R0_attack_weight": 1.0
+        },
+        {
+          "event_id": "G7-womens-prize-fiction-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-eurovision-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-cesar-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-suriname-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-athletics-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-indy500-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-brics-summit-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-u20-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-templeton-2025",
+          "R0_attack_weight": 1.0
+        },
+        {
+          "event_id": "G7-unesco-maratha-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-abel-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-womens-euro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-giro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-six-nations-men-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-pulitzer-fiction-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-world-food-prize-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-roland-garros-2025",
+          "R0_attack_weight": 0.75
+        }
+      ]
+    },
+    {
+      "model": "ministral3",
+      "calibration_size": 26,
+      "R0": 0.8823529411764706,
+      "R2": 0.6911764705882353,
+      "effective_attack_mass_per_test_event": [
+        {
+          "event_id": "G7-formula1-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-hugo-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-dublin-literary-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-georgia-malaria-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-club-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-blue-ghost-mission1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-stanley-cup-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-world-test-championship-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-timor-leste-malaria-2025",
+          "R0_attack_weight": 1.0
+        },
+        {
+          "event_id": "G7-g20-summit-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-nobel-peace-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-g7-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-goncourt-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-berlinale-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-astrid-lindgren-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-fide-women-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-icc-champions-trophy-2025",
+          "R0_attack_weight": 1.0
+        },
+        {
+          "event_id": "G7-womens-prize-fiction-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-eurovision-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-cesar-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-suriname-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-athletics-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-indy500-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-brics-summit-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-u20-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-templeton-2025",
+          "R0_attack_weight": 1.0
+        },
+        {
+          "event_id": "G7-unesco-maratha-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-abel-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-womens-euro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-giro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-six-nations-men-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-pulitzer-fiction-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-world-food-prize-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-roland-garros-2025",
+          "R0_attack_weight": 0.75
+        }
+      ]
+    },
+    {
+      "model": "gemma3_4b",
+      "calibration_size": 13,
+      "R0": 0.6176470588235294,
+      "R2": 0.5098039215686274,
+      "effective_attack_mass_per_test_event": [
+        {
+          "event_id": "G7-formula1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-hugo-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-dublin-literary-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-georgia-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-club-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-blue-ghost-mission1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-stanley-cup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-test-championship-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-timor-leste-malaria-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-g20-summit-2025",
+          "R0_attack_weight": 1.0
+        },
+        {
+          "event_id": "G7-nobel-peace-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-g7-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-goncourt-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-berlinale-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-astrid-lindgren-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-fide-women-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-icc-champions-trophy-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-womens-prize-fiction-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-eurovision-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-cesar-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-suriname-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-athletics-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-indy500-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-brics-summit-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-u20-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-templeton-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-unesco-maratha-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-abel-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-womens-euro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-giro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-six-nations-men-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-pulitzer-fiction-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-food-prize-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-roland-garros-2025",
+          "R0_attack_weight": 0.75
+        }
+      ]
+    },
+    {
+      "model": "gemma3_4b",
+      "calibration_size": 26,
+      "R0": 0.6176470588235294,
+      "R2": 0.5098039215686274,
+      "effective_attack_mass_per_test_event": [
+        {
+          "event_id": "G7-formula1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-hugo-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-dublin-literary-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-georgia-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-club-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-blue-ghost-mission1-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-stanley-cup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-test-championship-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-timor-leste-malaria-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-g20-summit-2025",
+          "R0_attack_weight": 1.0
+        },
+        {
+          "event_id": "G7-nobel-peace-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-g7-summit-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-goncourt-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-berlinale-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-astrid-lindgren-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-fide-women-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-icc-champions-trophy-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-womens-prize-fiction-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-eurovision-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-cesar-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-suriname-malaria-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-athletics-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-indy500-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-brics-summit-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-u20-worldcup-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-templeton-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-unesco-maratha-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-abel-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-womens-euro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-giro-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-six-nations-men-2025",
+          "R0_attack_weight": 0.75
+        },
+        {
+          "event_id": "G7-pulitzer-fiction-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-world-food-prize-2025",
+          "R0_attack_weight": 0.5
+        },
+        {
+          "event_id": "G7-roland-garros-2025",
+          "R0_attack_weight": 0.75
+        }
+      ]
+    }
+  ],
+  "attacked_fit_observed_source_checks": [
+    {
+      "fit_id": "qwen35|A_exact|cal13|SourceFit",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 31,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 0
+    },
+    {
+      "fit_id": "qwen35|A_exact|cal13|F1S1",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 25,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 4
+    },
+    {
+      "fit_id": "qwen35|A_exact|cal26|SourceFit",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 43,
+      "effective_benign_mean": 0.013289036544850497,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 0
+    },
+    {
+      "fit_id": "qwen35|A_exact|cal26|F1S1",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 35,
+      "effective_benign_mean": 0.04857142857142857,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 4
+    },
+    {
+      "fit_id": "ministral3|A_exact|cal13|SourceFit",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 26,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 3
+    },
+    {
+      "fit_id": "ministral3|A_exact|cal13|F1S1",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 22,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 6
+    },
+    {
+      "fit_id": "ministral3|A_exact|cal26|SourceFit",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 40,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 1
+    },
+    {
+      "fit_id": "ministral3|A_exact|cal26|F1S1",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 34,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 4
+    },
+    {
+      "fit_id": "gemma3_4b|A_exact|cal13|SourceFit",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 29,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 1
+    },
+    {
+      "fit_id": "gemma3_4b|A_exact|cal13|F1S1",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 23,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 5
+    },
+    {
+      "fit_id": "gemma3_4b|A_exact|cal26|SourceFit",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 42,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 0
+    },
+    {
+      "fit_id": "gemma3_4b|A_exact|cal26|F1S1",
+      "attack_reliability": 1.0,
+      "effective_benign_count": 34,
+      "effective_benign_mean": 0.0,
+      "attack_exceeds_effectively_observed_benign_mean": true,
+      "test_publishers_with_zero_effective_calibration": 4
+    }
+  ],
+  "paired_contrast_point_effects_checked": 160,
+  "bootstrap_resamples_rerun": 0,
+  "key_scope_checks": {
+    "learned_conditions_N_A_exact_only": true,
+    "cal13_nested_cal26_common_test34": true,
+    "natural_origins_unknown_not_independent": true,
+    "zero_observation_not_claimed_observed_unreliability": true,
+    "GroupVote_top4_effect_not_gold_selection": true,
+    "semantic_factoring_pending_not_claimed_complete": true
+  },
+  "original_core_files_unchanged": {
+    "analyze_learned.py": "f3fed925bb758e6fc7d2821f2bf1c7b0625a9bbc6a150f8ed3c2b36f8187f3ee",
+    "summary_36.json": "c5e51748dc4508c7c8cabd01ceef90d3511075ad4eee619b2c40917c2e33f714",
+    "predictions_1224.jsonl": "30722d8f7634876bdc71eb4c62e618fa7bf54896d07d5770839923ebd0048420",
+    "fit_trajectories_24.jsonl": "12dffefe055202c0e456042cfb06d03cfb4f5abfdf35fa2b7983959a30633fad",
+    "publisher_observations_and_reliability.jsonl": "863c2144a992c2a14db3207fa06f777254e21256d38797f0bf868d9c01c79ec6",
+    "paired_bootstrap_contrasts_160.json": "c38b87698ad91bf4d82223c7e7fde9151cf4b5a5ae40d4641b9bebdece77c88f"
+  },
+  "new_model_calls": 0,
+  "notes": [
+    "Pure-Python fit and readout reconstructed independently; vendor imported read-only with bytecode writes disabled.",
+    "All 12 attacked learned fits retain attack>observed-benign mean even after excluding zero-observation publishers; the 43-slot mean is not the only evidence.",
+    "GroupVote R0 intentionally applies the frozen top-four rule after weights, which keeps fewer 0.25 copy votes when natural sources have unit weights; this is a readout-conditioned control, not provenance discovery.",
+    "All 160 stored contrast effects were recomputed, but percentile confidence endpoints were not re-bootstrapped in this focused check."
+  ]
+}

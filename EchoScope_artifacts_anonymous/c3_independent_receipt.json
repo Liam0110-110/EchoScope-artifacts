@@ -1,0 +1,137 @@
+{
+  "audit": "INDEPENDENT_CPU_ARITHMETIC_AND_RECONSTRUCTION_NO_MODEL_CALLS",
+  "facts": 40,
+  "clusters": 20,
+  "physical_documents": 73,
+  "fact_document_uses": 73,
+  "document_use_multiplicity": {
+    "1": 73
+  },
+  "multidoc_facts": 17,
+  "singleton_facts": 23,
+  "canonical_pairs": 59,
+  "canonical_labels": {
+    "same_origin": 24,
+    "uncertain": 35
+  },
+  "human_cases": 165,
+  "human_conflicts": 1,
+  "all_360_derived_outputs_reconstructed": true,
+  "all_360_semantic_scores_match_original_human_labels": true,
+  "methods": [
+    {
+      "model": "qwen35",
+      "method": "source_raw_majority",
+      "n": 40,
+      "lexical_correct": 36,
+      "lexical_EM": 0.9,
+      "semantic_correct": 37,
+      "semantic_accuracy": 0.925,
+      "failures": 1,
+      "abstentions": 2
+    },
+    {
+      "model": "qwen35",
+      "method": "source_exact_text_url_majority",
+      "n": 40,
+      "lexical_correct": 36,
+      "lexical_EM": 0.9,
+      "semantic_correct": 37,
+      "semantic_accuracy": 0.925,
+      "failures": 1,
+      "abstentions": 2
+    },
+    {
+      "model": "qwen35",
+      "method": "source_known_dependency_reference",
+      "n": 40,
+      "lexical_correct": 36,
+      "lexical_EM": 0.9,
+      "semantic_correct": 37,
+      "semantic_accuracy": 0.925,
+      "failures": 1,
+      "abstentions": 2
+    },
+    {
+      "model": "ministral3",
+      "method": "source_raw_majority",
+      "n": 40,
+      "lexical_correct": 34,
+      "lexical_EM": 0.85,
+      "semantic_correct": 36,
+      "semantic_accuracy": 0.9,
+      "failures": 1,
+      "abstentions": 3
+    },
+    {
+      "model": "ministral3",
+      "method": "source_exact_text_url_majority",
+      "n": 40,
+      "lexical_correct": 34,
+      "lexical_EM": 0.85,
+      "semantic_correct": 36,
+      "semantic_accuracy": 0.9,
+      "failures": 1,
+      "abstentions": 3
+    },
+    {
+      "model": "ministral3",
+      "method": "source_known_dependency_reference",
+      "n": 40,
+      "lexical_correct": 34,
+      "lexical_EM": 0.85,
+      "semantic_correct": 36,
+      "semantic_accuracy": 0.9,
+      "failures": 1,
+      "abstentions": 3
+    },
+    {
+      "model": "gemma3_4b",
+      "method": "source_raw_majority",
+      "n": 40,
+      "lexical_correct": 25,
+      "lexical_EM": 0.625,
+      "semantic_correct": 30,
+      "semantic_accuracy": 0.75,
+      "failures": 4,
+      "abstentions": 6
+    },
+    {
+      "model": "gemma3_4b",
+      "method": "source_exact_text_url_majority",
+      "n": 40,
+      "lexical_correct": 25,
+      "lexical_EM": 0.625,
+      "semantic_correct": 30,
+      "semantic_accuracy": 0.75,
+      "failures": 4,
+      "abstentions": 6
+    },
+    {
+      "model": "gemma3_4b",
+      "method": "source_known_dependency_reference",
+      "n": 40,
+      "lexical_correct": 26,
+      "lexical_EM": 0.65,
+      "semantic_correct": 31,
+      "semantic_accuracy": 0.775,
+      "failures": 4,
+      "abstentions": 5
+    }
+  ],
+  "hashes": {
+    "work/history/later/ELB_C3_GPU执行包_v1_2_修复版_20261010/tools/common.py": "6191728e158d8ff2ca1d5beac3b470f971f070b18d715f0584285fdc45b48395",
+    "work/history/later/ELB_C3_GPU执行包_v1_2_修复版_20261010/tools/score_results.py": "f83bfa6f579feed1ad7b2613ac3018e7998b89d7e751b837d92d44570b4c3cf0",
+    "work/history/later/ELB_C3_GPU执行包_v1_2_修复版_20261010/private/relations.jsonl": "71286f34b6a83c19f59bd1a5c4e016a8ee81995ccfb8e0b1871872e83f1a655f",
+    "work/history/later/ELB_C3_GPU执行包_v1_2_修复版_20261010/private/golds.jsonl": "f4d36bedb3612a1ea4d5fb1b05366eaa694cbd9df3deaf37a857ca1ca9a6f172",
+    "work/history/later/ELB_C3_GPU执行包_v1_2_修复版_20261010/public/documents.jsonl": "ad8867ab71ff0bb8754e1538c3f322582cc59e6cd45514eb473bd50010e069a6",
+    "work/history/later/ELB_C3_GPU执行包_v1_2_修复版_20261010/public/questions.jsonl": "26b4390c4e757cf1226d8b8e65db64a37f929eacce7a135eb4acab4b14202120",
+    "work/history/later/ELB_C3_GPU执行包_v1_2_修复版_20261010/public/task_plan.jsonl": "15e7198c6f7745cdfac13d9845f7b2dcc2450fbd147a12d4fce1fc64d02d6e08",
+    "work/history/later/ELB_C3_GPU执行包_v1_2_修复版_20261010/reference/resource/canonical_relations_59.csv": "3c65fa04d4f93e5454e226dda22ba36323da22a8f85e314768df925141249859",
+    "work/history/later/ELB_C3_最终语义评分与裁决闭合_20261010/analysis_semantic_final/scores.jsonl": "81806086b4d93156fd1b973b2d5f11203c003ba21600d8b50471cd34fab9d935",
+    "work/history/later/ELB_C3_最终语义评分与裁决闭合_20261010/analysis_semantic_final/private_case_links.json": "803fb2431d8b5c9865a44b99e60e99c8ecd69f6a3c1992f7e06cb9251fd440b0",
+    "work/history/later/ELB_C3_最终语义评分与裁决闭合_20261010/human_return/R1_answers.jsonl": "0908e806144ce1cf17b21864669c54d6a7f6d6b2a661e82c815b8987d3d757d5",
+    "work/history/later/ELB_C3_最终语义评分与裁决闭合_20261010/human_return/R2_answers.jsonl": "6042c2bcd321535a16762190a8198d861a1a9a35dc886d979081770ec2970f56",
+    "work/history/later/ELB_C3_最终语义评分与裁决闭合_20261010/human_return/ADJ3_answers.jsonl": "6f9cc40426443316fdcf000f90b772cfe518ace555c58ebfaaa1dca8ba3f252d"
+  }
+}

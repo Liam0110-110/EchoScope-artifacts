@@ -1,0 +1,95 @@
+{
+  "status": "50_CONSENSUS_LABELS_2_AWAIT_ADJUDICATION",
+  "cards": 52,
+  "agreed": 50,
+  "disputed": 2,
+  "ambiguous": 0,
+  "agreed_correctness": {
+    "1": 41,
+    "0": 9
+  },
+  "duplicate_return_8_excluded": true,
+  "input_files": [
+    {
+      "name": "return_completed-7.jsonl",
+      "sha256": "2961ac65a5dc0b6aedbaa255cda27cc70906227e37c88d88774fb0d14ef6f8ec"
+    },
+    {
+      "name": "return_completed-8.jsonl",
+      "sha256": "2961ac65a5dc0b6aedbaa255cda27cc70906227e37c88d88774fb0d14ef6f8ec"
+    },
+    {
+      "name": "return_completed-9.jsonl",
+      "sha256": "d23493b7b8f6dac618b2e6c28022011db958bfec1b60fe4a9057fb0d5ea9e2b7"
+    }
+  ],
+  "distinct_reviewers": [
+    "003",
+    "004"
+  ],
+  "unresolved_case": "One question, two capitalization variants of Machine learning vs Modern Machine Learning.",
+  "bound_method": "Enumerate all four shared-candidate 0/1 label assignments, preserving each question/candidate across all uses. Conservative: allows the two case variants to differ. These are identification bounds, not confidence intervals.",
+  "votes_changed": false,
+  "aliases_changed": false,
+  "new_model_calls": 0,
+  "effects": {
+    "H1": {
+      "lower": 0.49444444444444446,
+      "upper": 0.49444444444444446
+    },
+    "H2": {
+      "lower": 0.5777777777777778,
+      "upper": 0.5833333333333334
+    },
+    "correct_copy_cost": {
+      "lower": 0.0,
+      "upper": 0.0
+    },
+    "learned_GroupVote_R2_attack_minus_clean": {
+      "lower": -0.15849673202614378,
+      "upper": -0.15849673202614378
+    }
+  },
+  "scenarios": [
+    {
+      "labels": {
+        "G7ANS-4a07da9be02ebe76": 0,
+        "G7ANS-ed4872a16ce11c41": 0
+      },
+      "H1": 0.49444444444444446,
+      "H2": 0.5777777777777778,
+      "correct_copy_cost": 0.0,
+      "learned_GroupVote_R2_attack_minus_clean": -0.15849673202614378
+    },
+    {
+      "labels": {
+        "G7ANS-4a07da9be02ebe76": 0,
+        "G7ANS-ed4872a16ce11c41": 1
+      },
+      "H1": 0.49444444444444446,
+      "H2": 0.5796296296296296,
+      "correct_copy_cost": 0.0,
+      "learned_GroupVote_R2_attack_minus_clean": -0.15849673202614378
+    },
+    {
+      "labels": {
+        "G7ANS-4a07da9be02ebe76": 1,
+        "G7ANS-ed4872a16ce11c41": 0
+      },
+      "H1": 0.49444444444444446,
+      "H2": 0.5814814814814815,
+      "correct_copy_cost": 0.0,
+      "learned_GroupVote_R2_attack_minus_clean": -0.15849673202614378
+    },
+    {
+      "labels": {
+        "G7ANS-4a07da9be02ebe76": 1,
+        "G7ANS-ed4872a16ce11c41": 1
+      },
+      "H1": 0.49444444444444446,
+      "H2": 0.5833333333333334,
+      "correct_copy_cost": 0.0,
+      "learned_GroupVote_R2_attack_minus_clean": -0.15849673202614378
+    }
+  ]
+}

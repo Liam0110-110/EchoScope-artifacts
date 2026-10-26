@@ -1,0 +1,136 @@
+[
+  {
+    "panel": "a",
+    "fit": 0,
+    "vote": 0,
+    "method": "SourceFit",
+    "em": 0.0
+  },
+  {
+    "panel": "a",
+    "fit": 0,
+    "vote": 0,
+    "method": "F1S1",
+    "em": 0.0
+  },
+  {
+    "panel": "a",
+    "fit": 0,
+    "vote": 1,
+    "method": "SourceFit",
+    "em": 0.0
+  },
+  {
+    "panel": "a",
+    "fit": 0,
+    "vote": 1,
+    "method": "F1S1",
+    "em": 0.0
+  },
+  {
+    "panel": "a",
+    "fit": 1,
+    "vote": 0,
+    "method": "SourceFit",
+    "em": 76.96078431372548
+  },
+  {
+    "panel": "a",
+    "fit": 1,
+    "vote": 0,
+    "method": "F1S1",
+    "em": 17.647058823529413
+  },
+  {
+    "panel": "a",
+    "fit": 1,
+    "vote": 1,
+    "method": "SourceFit",
+    "em": 76.96078431372548
+  },
+  {
+    "panel": "a",
+    "fit": 1,
+    "vote": 1,
+    "method": "F1S1",
+    "em": 55.88235294117647
+  },
+  {
+    "panel": "b",
+    "condition": "A_para",
+    "metric": "Lexical EM",
+    "semantic_minus_exact_pp": 51.57407407407407
+  },
+  {
+    "panel": "b",
+    "condition": "A_para",
+    "metric": "Human",
+    "semantic_minus_exact_pp": 58.333333333333336
+  },
+  {
+    "panel": "b",
+    "condition": "B_para",
+    "metric": "Lexical EM",
+    "semantic_minus_exact_pp": -4.351851851851876
+  },
+  {
+    "panel": "b",
+    "condition": "B_para",
+    "metric": "Human",
+    "semantic_minus_exact_pp": 0.0
+  },
+  {
+    "panel": "c",
+    "model": "Q",
+    "condition": "Clean",
+    "em": 94.11764705882352
+  },
+  {
+    "panel": "c",
+    "model": "Q",
+    "condition": "4 copies",
+    "em": 0
+  },
+  {
+    "panel": "c",
+    "model": "Q",
+    "condition": "Collapsed",
+    "em": 94.11764705882352
+  },
+  {
+    "panel": "c",
+    "model": "M",
+    "condition": "Clean",
+    "em": 91.17647058823529
+  },
+  {
+    "panel": "c",
+    "model": "M",
+    "condition": "4 copies",
+    "em": 0
+  },
+  {
+    "panel": "c",
+    "model": "M",
+    "condition": "Collapsed",
+    "em": 82.35294117647058
+  },
+  {
+    "panel": "c",
+    "model": "G",
+    "condition": "Clean",
+    "em": 61.76470588235294
+  },
+  {
+    "panel": "c",
+    "model": "G",
+    "condition": "4 copies",
+    "em": 0
+  },
+  {
+    "panel": "c",
+    "model": "G",
+    "condition": "Collapsed",
+    "em": 55.88235294117647
+  }
+]

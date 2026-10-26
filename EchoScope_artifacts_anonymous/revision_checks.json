@@ -1,0 +1,36 @@
+{
+  "prior_result_tables_byte_identical": {
+    "c1_main.tex": true,
+    "c2_contrasts.tex": true,
+    "c2_cost.tex": true,
+    "c2_full.tex": true,
+    "c2_orders.tex": true,
+    "construction.tex": true,
+    "first_terminal.tex": true,
+    "fxs.tex": true,
+    "fxs_r2.tex": true,
+    "init_diagnostic.tex": true,
+    "init_vectors.tex": true,
+    "modules.tex": true,
+    "semantic_losses_13.tex": true,
+    "semantic_sensitivity.tex": true
+  },
+  "prior_bibliography_byte_identical": true,
+  "prior_figures_byte_identical": {
+    "fig1_fitted_reliability.pdf": true,
+    "fig4_actual_resampling.pdf": true,
+    "fig3_same_cache_dose.pdf": true
+  },
+  "natural_pilot_unchanged": true,
+  "fixed_cells": 2880,
+  "learned_predictions": 1224,
+  "semantic_scoring_rows_including_two_readouts": 5328,
+  "dual_review_cards": 52,
+  "consensus": 50,
+  "unresolved": 2,
+  "attacked_semantic_learning_cells_R0_and_R2": 24,
+  "attacked_semantic_learning_all_zero": true,
+  "fixed_correct_copy_semantic_difference_label_invariant_zero": true,
+  "new_model_calls": 0,
+  "prior_evidence_scope": "C1/C2 inherited without rerunning; C3 previously reconstructed. G7 evidence copied from completed independent receipt audit. Human rescoring newly recomputed in this revision."
+}

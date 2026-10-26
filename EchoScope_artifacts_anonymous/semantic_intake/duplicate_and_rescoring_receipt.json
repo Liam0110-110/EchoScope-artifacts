@@ -1,0 +1,36 @@
+{
+  "status": "SINGLE_REVIEW_BINDING_PASS_NOT_FINAL_CONSENSUS",
+  "input_files": [
+    {
+      "name": "return_completed-7.jsonl",
+      "sha256": "2961ac65a5dc0b6aedbaa255cda27cc70906227e37c88d88774fb0d14ef6f8ec",
+      "rows": 52
+    },
+    {
+      "name": "return_completed-8.jsonl",
+      "sha256": "2961ac65a5dc0b6aedbaa255cda27cc70906227e37c88d88774fb0d14ef6f8ec",
+      "rows": 52
+    }
+  ],
+  "byte_identical": true,
+  "distinct_reviewers": [
+    "审查者004号（人工）"
+  ],
+  "judgments": {
+    "correct": 43,
+    "incorrect": 9
+  },
+  "n_cards": 52,
+  "n_automatic_candidate_pairs": 153,
+  "lexical_reconstruction_rows": 5328,
+  "all_lexical_values_match": true,
+  "votes_changed": false,
+  "aliases_changed": false,
+  "new_model_calls": 0,
+  "semantic_status": "Provisional single-reviewer scoring sensitivity; two-return consensus unavailable.",
+  "provisional_effects": {
+    "fixed_vanilla_N_minus_A_para": 0.49444444444444446,
+    "fixed_A_para_semantic_minus_exact": 0.5833333333333334,
+    "fixed_B_para_semantic_minus_exact": 0.0
+  }
+}

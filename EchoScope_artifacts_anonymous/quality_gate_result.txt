@@ -1,0 +1,1 @@
+Research quality gate passed with 0 failures for mode=full-paper, stage=reviewing. Numeric provenance, artifact presence, citation key graph and current build attestation checked. This stage intentionally retains two human adjudications, unexecuted pooling and final submission checks as disclosed boundaries.

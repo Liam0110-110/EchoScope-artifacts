@@ -1,0 +1,38 @@
+{
+  "publisher_panel_size": 43,
+  "constructed_copy_slots": 4,
+  "panel_size_N": 43,
+  "panel_size_A_exact": 47,
+  "missing_panels_are_IDK_not_replicated_documents": true,
+  "test_publishers": [
+    "afp",
+    "ap",
+    "bbc",
+    "booksandpublishing_com_au",
+    "csmonitor_com",
+    "euronews_com",
+    "guardian",
+    "icc_cricket_com",
+    "indianexpress_com",
+    "irishtimes_com",
+    "pti",
+    "publishersweekly_com",
+    "reuters",
+    "screendaily_com",
+    "skysports_com",
+    "uefa_com",
+    "un_secretariat",
+    "variety",
+    "who_int",
+    "za_presidency"
+  ],
+  "natural_origin_relations": {
+    "unknown": 134
+  },
+  "warning_rows": 134,
+  "warnings_by_kind": {
+    "TEST_PUBLISHER_WITH_ZERO_EFFECTIVE_CALIBRATION": 64,
+    "TEST_PUBLISHER_ZERO_INITIAL_ELIGIBLE_OBSERVATIONS": 70
+  },
+  "interpretation": "Material text coverage, first-eligible-row coverage and actual non-IDK coverage are distinct. A 43-publisher mean includes inactive sources; use the reported test-publisher and observed-source means as well. Publisher identity does not establish origin independence."
+}

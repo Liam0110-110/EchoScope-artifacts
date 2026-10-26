@@ -1,0 +1,608 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "rows_verified": 2880,
+  "rational_condition_sums": [
+    {
+      "model": "qwen35",
+      "condition": "N",
+      "method": "vanilla",
+      "exact_sum": "59",
+      "mean_fraction": "59/60",
+      "mean_percent": 98.33333333333333
+    },
+    {
+      "model": "qwen35",
+      "condition": "N",
+      "method": "no_graph",
+      "exact_sum": "329/6",
+      "mean_fraction": "329/360",
+      "mean_percent": 91.38888888888889
+    },
+    {
+      "model": "qwen35",
+      "condition": "N",
+      "method": "exact_text",
+      "exact_sum": "329/6",
+      "mean_fraction": "329/360",
+      "mean_percent": 91.38888888888889
+    },
+    {
+      "model": "qwen35",
+      "condition": "N",
+      "method": "semantic_0.90",
+      "exact_sum": "111/2",
+      "mean_fraction": "37/40",
+      "mean_percent": 92.5
+    },
+    {
+      "model": "qwen35",
+      "condition": "A_exact",
+      "method": "vanilla",
+      "exact_sum": "36",
+      "mean_fraction": "3/5",
+      "mean_percent": 60.0
+    },
+    {
+      "model": "qwen35",
+      "condition": "A_exact",
+      "method": "no_graph",
+      "exact_sum": "2",
+      "mean_fraction": "1/30",
+      "mean_percent": 3.3333333333333335
+    },
+    {
+      "model": "qwen35",
+      "condition": "A_exact",
+      "method": "exact_text",
+      "exact_sum": "637/12",
+      "mean_fraction": "637/720",
+      "mean_percent": 88.47222222222221
+    },
+    {
+      "model": "qwen35",
+      "condition": "A_exact",
+      "method": "semantic_0.90",
+      "exact_sum": "42",
+      "mean_fraction": "7/10",
+      "mean_percent": 70.0
+    },
+    {
+      "model": "qwen35",
+      "condition": "A_para",
+      "method": "vanilla",
+      "exact_sum": "28",
+      "mean_fraction": "7/15",
+      "mean_percent": 46.666666666666664
+    },
+    {
+      "model": "qwen35",
+      "condition": "A_para",
+      "method": "no_graph",
+      "exact_sum": "3/2",
+      "mean_fraction": "1/40",
+      "mean_percent": 2.5
+    },
+    {
+      "model": "qwen35",
+      "condition": "A_para",
+      "method": "exact_text",
+      "exact_sum": "3/2",
+      "mean_fraction": "1/40",
+      "mean_percent": 2.5
+    },
+    {
+      "model": "qwen35",
+      "condition": "A_para",
+      "method": "semantic_0.90",
+      "exact_sum": "42",
+      "mean_fraction": "7/10",
+      "mean_percent": 70.0
+    },
+    {
+      "model": "qwen35",
+      "condition": "B_para",
+      "method": "vanilla",
+      "exact_sum": "60",
+      "mean_fraction": "1",
+      "mean_percent": 100.0
+    },
+    {
+      "model": "qwen35",
+      "condition": "B_para",
+      "method": "no_graph",
+      "exact_sum": "60",
+      "mean_fraction": "1",
+      "mean_percent": 100.0
+    },
+    {
+      "model": "qwen35",
+      "condition": "B_para",
+      "method": "exact_text",
+      "exact_sum": "60",
+      "mean_fraction": "1",
+      "mean_percent": 100.0
+    },
+    {
+      "model": "qwen35",
+      "condition": "B_para",
+      "method": "semantic_0.90",
+      "exact_sum": "117/2",
+      "mean_fraction": "39/40",
+      "mean_percent": 97.5
+    },
+    {
+      "model": "ministral3",
+      "condition": "N",
+      "method": "vanilla",
+      "exact_sum": "52",
+      "mean_fraction": "13/15",
+      "mean_percent": 86.66666666666667
+    },
+    {
+      "model": "ministral3",
+      "condition": "N",
+      "method": "no_graph",
+      "exact_sum": "167/3",
+      "mean_fraction": "167/180",
+      "mean_percent": 92.77777777777779
+    },
+    {
+      "model": "ministral3",
+      "condition": "N",
+      "method": "exact_text",
+      "exact_sum": "167/3",
+      "mean_fraction": "167/180",
+      "mean_percent": 92.77777777777779
+    },
+    {
+      "model": "ministral3",
+      "condition": "N",
+      "method": "semantic_0.90",
+      "exact_sum": "167/3",
+      "mean_fraction": "167/180",
+      "mean_percent": 92.77777777777779
+    },
+    {
+      "model": "ministral3",
+      "condition": "A_exact",
+      "method": "vanilla",
+      "exact_sum": "40",
+      "mean_fraction": "2/3",
+      "mean_percent": 66.66666666666666
+    },
+    {
+      "model": "ministral3",
+      "condition": "A_exact",
+      "method": "no_graph",
+      "exact_sum": "1/2",
+      "mean_fraction": "1/120",
+      "mean_percent": 0.8333333333333334
+    },
+    {
+      "model": "ministral3",
+      "condition": "A_exact",
+      "method": "exact_text",
+      "exact_sum": "44",
+      "mean_fraction": "11/15",
+      "mean_percent": 73.33333333333333
+    },
+    {
+      "model": "ministral3",
+      "condition": "A_exact",
+      "method": "semantic_0.90",
+      "exact_sum": "30",
+      "mean_fraction": "1/2",
+      "mean_percent": 50.0
+    },
+    {
+      "model": "ministral3",
+      "condition": "A_para",
+      "method": "vanilla",
+      "exact_sum": "37",
+      "mean_fraction": "37/60",
+      "mean_percent": 61.66666666666667
+    },
+    {
+      "model": "ministral3",
+      "condition": "A_para",
+      "method": "no_graph",
+      "exact_sum": "1",
+      "mean_fraction": "1/60",
+      "mean_percent": 1.6666666666666667
+    },
+    {
+      "model": "ministral3",
+      "condition": "A_para",
+      "method": "exact_text",
+      "exact_sum": "1",
+      "mean_fraction": "1/60",
+      "mean_percent": 1.6666666666666667
+    },
+    {
+      "model": "ministral3",
+      "condition": "A_para",
+      "method": "semantic_0.90",
+      "exact_sum": "30",
+      "mean_fraction": "1/2",
+      "mean_percent": 50.0
+    },
+    {
+      "model": "ministral3",
+      "condition": "B_para",
+      "method": "vanilla",
+      "exact_sum": "60",
+      "mean_fraction": "1",
+      "mean_percent": 100.0
+    },
+    {
+      "model": "ministral3",
+      "condition": "B_para",
+      "method": "no_graph",
+      "exact_sum": "59",
+      "mean_fraction": "59/60",
+      "mean_percent": 98.33333333333333
+    },
+    {
+      "model": "ministral3",
+      "condition": "B_para",
+      "method": "exact_text",
+      "exact_sum": "59",
+      "mean_fraction": "59/60",
+      "mean_percent": 98.33333333333333
+    },
+    {
+      "model": "ministral3",
+      "condition": "B_para",
+      "method": "semantic_0.90",
+      "exact_sum": "59",
+      "mean_fraction": "59/60",
+      "mean_percent": 98.33333333333333
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "N",
+      "method": "vanilla",
+      "exact_sum": "52",
+      "mean_fraction": "13/15",
+      "mean_percent": 86.66666666666667
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "N",
+      "method": "no_graph",
+      "exact_sum": "36",
+      "mean_fraction": "3/5",
+      "mean_percent": 60.0
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "N",
+      "method": "exact_text",
+      "exact_sum": "36",
+      "mean_fraction": "3/5",
+      "mean_percent": 60.0
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "N",
+      "method": "semantic_0.90",
+      "exact_sum": "110/3",
+      "mean_fraction": "11/18",
+      "mean_percent": 61.111111111111114
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "A_exact",
+      "method": "vanilla",
+      "exact_sum": "17",
+      "mean_fraction": "17/60",
+      "mean_percent": 28.333333333333332
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "A_exact",
+      "method": "no_graph",
+      "exact_sum": "1/2",
+      "mean_fraction": "1/120",
+      "mean_percent": 0.8333333333333334
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "A_exact",
+      "method": "exact_text",
+      "exact_sum": "373/12",
+      "mean_fraction": "373/720",
+      "mean_percent": 51.80555555555556
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "A_exact",
+      "method": "semantic_0.90",
+      "exact_sum": "143/6",
+      "mean_fraction": "143/360",
+      "mean_percent": 39.72222222222222
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "A_para",
+      "method": "vanilla",
+      "exact_sum": "15",
+      "mean_fraction": "1/4",
+      "mean_percent": 25.0
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "A_para",
+      "method": "no_graph",
+      "exact_sum": "1/2",
+      "mean_fraction": "1/120",
+      "mean_percent": 0.8333333333333334
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "A_para",
+      "method": "exact_text",
+      "exact_sum": "1/2",
+      "mean_fraction": "1/120",
+      "mean_percent": 0.8333333333333334
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "A_para",
+      "method": "semantic_0.90",
+      "exact_sum": "143/6",
+      "mean_fraction": "143/360",
+      "mean_percent": 39.72222222222222
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "B_para",
+      "method": "vanilla",
+      "exact_sum": "60",
+      "mean_fraction": "1",
+      "mean_percent": 100.0
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "B_para",
+      "method": "no_graph",
+      "exact_sum": "56",
+      "mean_fraction": "14/15",
+      "mean_percent": 93.33333333333333
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "B_para",
+      "method": "exact_text",
+      "exact_sum": "56",
+      "mean_fraction": "14/15",
+      "mean_percent": 93.33333333333333
+    },
+    {
+      "model": "gemma3_4b",
+      "condition": "B_para",
+      "method": "semantic_0.90",
+      "exact_sum": "149/3",
+      "mean_fraction": "149/180",
+      "mean_percent": 82.77777777777777
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "N",
+      "method": "vanilla",
+      "exact_sum": "163",
+      "mean_fraction": "163/180",
+      "mean_percent": 90.55555555555556
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "N",
+      "method": "no_graph",
+      "exact_sum": "293/2",
+      "mean_fraction": "293/360",
+      "mean_percent": 81.38888888888889
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "N",
+      "method": "exact_text",
+      "exact_sum": "293/2",
+      "mean_fraction": "293/360",
+      "mean_percent": 81.38888888888889
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "N",
+      "method": "semantic_0.90",
+      "exact_sum": "887/6",
+      "mean_fraction": "887/1080",
+      "mean_percent": 82.12962962962963
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "A_exact",
+      "method": "vanilla",
+      "exact_sum": "93",
+      "mean_fraction": "31/60",
+      "mean_percent": 51.66666666666667
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "A_exact",
+      "method": "no_graph",
+      "exact_sum": "3",
+      "mean_fraction": "1/60",
+      "mean_percent": 1.6666666666666667
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "A_exact",
+      "method": "exact_text",
+      "exact_sum": "769/6",
+      "mean_fraction": "769/1080",
+      "mean_percent": 71.2037037037037
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "A_exact",
+      "method": "semantic_0.90",
+      "exact_sum": "575/6",
+      "mean_fraction": "115/216",
+      "mean_percent": 53.24074074074075
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "A_para",
+      "method": "vanilla",
+      "exact_sum": "80",
+      "mean_fraction": "4/9",
+      "mean_percent": 44.44444444444444
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "A_para",
+      "method": "no_graph",
+      "exact_sum": "3",
+      "mean_fraction": "1/60",
+      "mean_percent": 1.6666666666666667
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "A_para",
+      "method": "exact_text",
+      "exact_sum": "3",
+      "mean_fraction": "1/60",
+      "mean_percent": 1.6666666666666667
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "A_para",
+      "method": "semantic_0.90",
+      "exact_sum": "575/6",
+      "mean_fraction": "115/216",
+      "mean_percent": 53.24074074074075
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "B_para",
+      "method": "vanilla",
+      "exact_sum": "180",
+      "mean_fraction": "1",
+      "mean_percent": 100.0
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "B_para",
+      "method": "no_graph",
+      "exact_sum": "175",
+      "mean_fraction": "35/36",
+      "mean_percent": 97.22222222222221
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "B_para",
+      "method": "exact_text",
+      "exact_sum": "175",
+      "mean_fraction": "35/36",
+      "mean_percent": 97.22222222222221
+    },
+    {
+      "model": "fixed_three_model_mean",
+      "condition": "B_para",
+      "method": "semantic_0.90",
+      "exact_sum": "1003/6",
+      "mean_fraction": "1003/1080",
+      "mean_percent": 92.87037037037037
+    }
+  ],
+  "event_units": 60,
+  "contrasts": [
+    {
+      "id": "H1",
+      "exact_event_difference_sum": "83/3",
+      "effect_fraction": "83/180",
+      "effect_pp": 46.111111111111114,
+      "ci95_pp": [
+        36.666666666666664,
+        55.00000000000001
+      ],
+      "raw_p": 9.99990000099999e-06,
+      "extreme": 0,
+      "signflips": 100000
+    },
+    {
+      "id": "H2",
+      "exact_event_difference_sum": "557/18",
+      "effect_fraction": "557/1080",
+      "effect_pp": 51.57407407407407,
+      "ci95_pp": [
+        44.44444444444445,
+        58.88888888888889
+      ],
+      "raw_p": 9.99990000099999e-06,
+      "extreme": 0,
+      "signflips": 100000
+    },
+    {
+      "id": "S1",
+      "exact_event_difference_sum": "751/18",
+      "effect_fraction": "751/1080",
+      "effect_pp": 69.53703703703704,
+      "ci95_pp": [
+        64.07291666666667,
+        75.0
+      ]
+    },
+    {
+      "id": "S2",
+      "exact_event_difference_sum": "-47/18",
+      "effect_fraction": "-47/1080",
+      "effect_pp": -4.351851851851852,
+      "ci95_pp": [
+        -6.944444444444444,
+        -2.0370370370370368
+      ]
+    }
+  ],
+  "holm_exactly_two": [
+    1.999980000199998e-05,
+    1.999980000199998e-05
+  ],
+  "bootstrap": {
+    "replicates": 20000,
+    "seed": 20261021
+  },
+  "signflip": {
+    "replicates": 100000,
+    "seed": 20261022,
+    "two_sided": true,
+    "plus_one": true
+  },
+  "candidate_pairs": 201,
+  "pending_fixed_review": 52,
+  "resolved_rules": {
+    "FROZEN_ALIAS": 68,
+    "FROZEN_WRONG_ENTITY": 60,
+    "ABSTENTION": 21
+  },
+  "review_count_not_final_until_learned_branch_union": true,
+  "codebook_sources": [
+    {
+      "archive": "/users/[redacted]/Downloads/ELB_R20_SEMANTIC_R1_385_20261010.zip",
+      "archive_sha256": "fdbd6508af1dd9c030815dcfcb1d4b5d5eb231867afd39355fac8761f55b9b76",
+      "member": "DEFAULT_385_R1/Codebook_中文.txt",
+      "member_sha256": "78d6587e08d6219396e2ae32942899017553185f8e7c79d60dfe39ff58ffff10",
+      "copied_path": "/users/[redacted]/Documents/Codex/2026-10-23/p2a-b4-p0-c1-c2-bench/outputs/ELB_G7_回传核验与统计_20261023/audit/codebook/R20_R1_Codebook_中文.txt"
+    },
+    {
+      "archive": "/users/[redacted]/Downloads/ELB_R20_SEMANTIC_R2_385_20261010.zip",
+      "archive_sha256": "4961dcc8b3fb8eb8395f9bfe459592b0fa8f264a2125ba3dbcf8dc1ece57a8a6",
+      "member": "DEFAULT_385_R2/Codebook_中文.txt",
+      "member_sha256": "78d6587e08d6219396e2ae32942899017553185f8e7c79d60dfe39ff58ffff10",
+      "copied_path": "/users/[redacted]/Documents/Codex/2026-10-23/p2a-b4-p0-c1-c2-bench/outputs/ELB_G7_回传核验与统计_20261023/audit/codebook/R20_R2_Codebook_中文.txt"
+    }
+  ],
+  "codebook_R1_R2_identical": true,
+  "scope": "Independent rational scores, winners, masses, aggregate means, event differences, all four bootstrap CIs and two primary MonteCarlo p/Holm checked; no model rerun."
+}

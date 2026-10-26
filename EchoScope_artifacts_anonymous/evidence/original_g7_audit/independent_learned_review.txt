@@ -1,0 +1,47 @@
+G7 learned 分支独立快速复核
+2026-10-23
+
+结论：可交付。未发现会改变当前学习支结论的实质实现、计数或报告范围错误。
+
+范围
+只读analyze_learned.py、冻结aux_template/protocol.json、vendor/p0_blind.py、继承C1/G6读出脚本、derived矩阵、36格汇总、1224逐题结果、24轨迹、逐出版者覆盖及160对比记录；并核对00_G7核收与研究判断.txt。使用独立纯Python实现重建全部24拟合与1224读出，再对照冻结vendor100/1e-20和默认20/1e-6。未调用原analyze脚本，不重跑160对比的bootstrap，不修改learned脚本/结果或原来源。
+
+协议和数字通过
+— 3模型×2条件N/A_exact×2校准规模×2学习方法=24 fits；GroupVote有12个不拟合控制格；共36cells×34TEST=1224结果。
+— cal13确为cal26前13项，两者使用同一34TEST，并与cal26不交。排序规则可由冻结seed+event_id SHA独立重建。
+— 首轮使用非IDK的unique plurality行；没有合格行时回退全校准行。随后全行；上限100、tol=1e-20；负权重保留，零有效观察可靠性设0，w=S*r−1。
+— 独立拟合的每轮active rows、provisional answers、逐源有效计数、可靠性与权重均匹配原24轨迹。所有fit均≤3轮；vendor100和默认20在此缓存上也逐权重一致。
+— IDK的上游不一致规则得到保留：拟合投票substring跳过，可靠性更新exact equality跳过；R0先按权重稳定排序，再按lowercase/strip排除IDK，取最多4；候选raw string投票按first encountered最大值决胜。
+— R2使用全部源权重，最终raw-string ties按原1e-12容差计算均匀expected EM。Gold只进入冻结别名评分，不进入拟合、权重、代表选择或tie选择。
+— 全部1224逐题R0预测、选中source IDs/weights、候选票重、R2赢家集、EM与分母标识均独立匹配；全部36均值重算一致。
+— 160对比的逐事件差与平均effect均独立重算一致；本轮未重新生成其bootstrap端点。
+
+关键结果复算
+A_exact下SourceFit和F1S1，3模型×2校准规模的12拟合，R0与R2均为0/34。四个构造copy槽r=1。
+这不是仅由inactive publisher设0而制造的总体均值现象：排除所有零有效校准的自然出版者后，12个攻击fit的有效benign均值仍仅在0至0.048571之间，全部低于copy的1。仍不能把无观察r=0说成经过经验测量的真实不可靠；覆盖诊断将inactive、有效观察、首轮观察和TEST来源分开，当前报告也保留了该限制。
+
+GroupVote（cal13/cal26相同）：
+Qwen：攻击R0 91.176471%，R2 86.764706%。
+Ministral：攻击R0 88.235294%，R2 69.117647%。
+Gemma：攻击R0 61.764706%，R2 50.980392%。
+三模型事件内平均的R2 attack-minus-clean为−11.437908个百分点，与记录一致。
+
+GroupVote解释边界
+自然出版者均按singleton权重1，四个已知构造copy槽各0.25。R0在这些权重下优先留下非弃答自然源，通常只保留更少copy票重；这是事前冻结、无需gold的top-four规则，不是按答案对错挑源。R2保留全部copy质量，因此不能把R0恢复直接写为组质量守恒后必然恢复。
+R0/R2还同时不同于最终tie处理：前者first-encounter，后者expected ties。因此可说“恢复受读出规则影响、top-four减少保留copy质量”，不宜把全部EM差额严格归因于截断一个因素。当前00报告使用的是前一种有限说法，没有实质过度归因。
+
+报告范围复核
+00_G7核收与研究判断.txt正确注明：
+— 学习分支只有N/A_exact，A_para归固定聚合，未声称完成错误改写的学习反转验证。
+— 134自然文本origin_relation全unknown，出版者多样性不等于独立起源。
+— GroupVote依赖给定构造分组，未称自动发现自然同源。
+— 语义短答案复核未加入现有EM，文档分组×语义答案合票联合实验仍未完成。
+— Gemma cal26唯一清洁SourceFit改善是Suriname词面变体，不宣传成已确认语义能力提升。
+— H1 grounded F1与G7 EM为不同任务，不合成总分。
+
+非阻断的措辞建议
+“24次拟合均…4个构造copy槽终态可靠性均为1”可更精确写为“24次拟合均收敛；其中12个A_exact拟合的4个copy槽均为1”，避免把无copy的N条件也读进去。当前上下文已经足以解释，非实质错误。
+
+复验产物
+check_learned_independent.py可只读复跑；independent_learned_review.json保留24fit检查、GroupVote逐事件所选copy质量、排除零观察源后的benign均值及所有核心文件前后hash。
+所有被核核心文件hash在检查前后保持不变。新模型调用0，bootstrap重跑0。

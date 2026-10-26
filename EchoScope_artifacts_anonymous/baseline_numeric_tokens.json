@@ -1,0 +1,4910 @@
+[
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 129,
+    "token": "1"
+  },
+  {
+    "value": 27.0,
+    "artifact": "main.tex",
+    "char_offset": 206,
+    "token": "27"
+  },
+  {
+    "value": 2027.0,
+    "artifact": "main.tex",
+    "char_offset": 229,
+    "token": "2027"
+  },
+  {
+    "value": 2027.0,
+    "artifact": "main.tex",
+    "char_offset": 235,
+    "token": "2027"
+  },
+  {
+    "value": 2027.0,
+    "artifact": "main.tex",
+    "char_offset": 269,
+    "token": "2027"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 947,
+    "token": "13"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 965,
+    "token": "79"
+  },
+  {
+    "value": 79.75,
+    "artifact": "main.tex",
+    "char_offset": 1063,
+    "token": "79.75"
+  },
+  {
+    "value": -88.61,
+    "artifact": "main.tex",
+    "char_offset": 1069,
+    "token": "-88.61"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 1093,
+    "token": "0.00"
+  },
+  {
+    "value": -5.06,
+    "artifact": "main.tex",
+    "char_offset": 1098,
+    "token": "-5.06"
+  },
+  {
+    "value": 87.34,
+    "artifact": "main.tex",
+    "char_offset": 1341,
+    "token": "87.34"
+  },
+  {
+    "value": 3.8,
+    "artifact": "main.tex",
+    "char_offset": 1381,
+    "token": "3.80"
+  },
+  {
+    "value": 59.0,
+    "artifact": "main.tex",
+    "char_offset": 1533,
+    "token": "59"
+  },
+  {
+    "value": 20.0,
+    "artifact": "main.tex",
+    "char_offset": 1564,
+    "token": "20"
+  },
+  {
+    "value": 46.59,
+    "artifact": "main.tex",
+    "char_offset": 1650,
+    "token": "46.59"
+  },
+  {
+    "value": 6.28,
+    "artifact": "main.tex",
+    "char_offset": 1734,
+    "token": "6.28"
+  },
+  {
+    "value": 3.39,
+    "artifact": "main.tex",
+    "char_offset": 1822,
+    "token": "3.39"
+  },
+  {
+    "value": 12.0,
+    "artifact": "main.tex",
+    "char_offset": 2119,
+    "token": "012"
+  },
+  {
+    "value": 10002951.10003317,
+    "artifact": "main.tex",
+    "char_offset": 2144,
+    "token": "10002951.10003317"
+  },
+  {
+    "value": 10003347.0,
+    "artifact": "main.tex",
+    "char_offset": 2162,
+    "token": "10003347"
+  },
+  {
+    "value": 500.0,
+    "artifact": "main.tex",
+    "char_offset": 2275,
+    "token": "500"
+  },
+  {
+    "value": 10010147.10010178,
+    "artifact": "main.tex",
+    "char_offset": 2332,
+    "token": "10010147.10010178"
+  },
+  {
+    "value": 300.0,
+    "artifact": "main.tex",
+    "char_offset": 2460,
+    "token": "300"
+  },
+  {
+    "value": 12.0,
+    "artifact": "main.tex",
+    "char_offset": 2502,
+    "token": "012"
+  },
+  {
+    "value": 500.0,
+    "artifact": "main.tex",
+    "char_offset": 2529,
+    "token": "500"
+  },
+  {
+    "value": 300.0,
+    "artifact": "main.tex",
+    "char_offset": 2586,
+    "token": "300"
+  },
+  {
+    "value": 92.0,
+    "artifact": "main.tex",
+    "char_offset": 8904,
+    "token": "92"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 8973,
+    "token": "13"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 9000,
+    "token": "79"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 9459,
+    "token": "0"
+  },
+  {
+    "value": -3.0,
+    "artifact": "main.tex",
+    "char_offset": 9461,
+    "token": "-3"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 9481,
+    "token": "4"
+  },
+  {
+    "value": -7.0,
+    "artifact": "main.tex",
+    "char_offset": 9483,
+    "token": "-7"
+  },
+  {
+    "value": 59.0,
+    "artifact": "main.tex",
+    "char_offset": 9686,
+    "token": "59"
+  },
+  {
+    "value": 20.0,
+    "artifact": "main.tex",
+    "char_offset": 9698,
+    "token": "20"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 10758,
+    "token": "1"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 10923,
+    "token": "1"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 10977,
+    "token": "1"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 11028,
+    "token": "1"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 11163,
+    "token": "0"
+  },
+  {
+    "value": 100.0,
+    "artifact": "main.tex",
+    "char_offset": 11517,
+    "token": "100"
+  },
+  {
+    "value": 10.0,
+    "artifact": "main.tex",
+    "char_offset": 11568,
+    "token": "10"
+  },
+  {
+    "value": -20.0,
+    "artifact": "main.tex",
+    "char_offset": 11572,
+    "token": "-20"
+  },
+  {
+    "value": -1.0,
+    "artifact": "main.tex",
+    "char_offset": 12896,
+    "token": "-1"
+  },
+  {
+    "value": 5.0,
+    "artifact": "main.tex",
+    "char_offset": 13042,
+    "token": "5"
+  },
+  {
+    "value": -9.0,
+    "artifact": "main.tex",
+    "char_offset": 13043,
+    "token": "-9"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 13058,
+    "token": "3"
+  },
+  {
+    "value": -14.0,
+    "artifact": "main.tex",
+    "char_offset": 13059,
+    "token": "-14"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 13075,
+    "token": "3"
+  },
+  {
+    "value": -4.0,
+    "artifact": "main.tex",
+    "char_offset": 13076,
+    "token": "-4"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 13813,
+    "token": "79"
+  },
+  {
+    "value": 20.0,
+    "artifact": "main.tex",
+    "char_offset": 14012,
+    "token": "20"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 14587,
+    "token": "0.00"
+  },
+  {
+    "value": 5.06,
+    "artifact": "main.tex",
+    "char_offset": 14617,
+    "token": "5.06"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 15245,
+    "token": "13"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 15414,
+    "token": "1.00"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 15464,
+    "token": "1"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 15466,
+    "token": "13"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 15702,
+    "token": "1"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 15740,
+    "token": "0"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 15758,
+    "token": "1"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 15760,
+    "token": "13"
+  },
+  {
+    "value": 7.0,
+    "artifact": "main.tex",
+    "char_offset": 15853,
+    "token": "7"
+  },
+  {
+    "value": -1.0,
+    "artifact": "main.tex",
+    "char_offset": 15865,
+    "token": "-1"
+  },
+  {
+    "value": -0.385,
+    "artifact": "main.tex",
+    "char_offset": 15887,
+    "token": "-0.385"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 16072,
+    "token": "13"
+  },
+  {
+    "value": 28.0,
+    "artifact": "main.tex",
+    "char_offset": 16541,
+    "token": "28"
+  },
+  {
+    "value": 24.0,
+    "artifact": "main.tex",
+    "char_offset": 16622,
+    "token": "24"
+  },
+  {
+    "value": 84.81,
+    "artifact": "main.tex",
+    "char_offset": 16810,
+    "token": "84.81"
+  },
+  {
+    "value": 83.54,
+    "artifact": "main.tex",
+    "char_offset": 16817,
+    "token": "83.54"
+  },
+  {
+    "value": 79.75,
+    "artifact": "main.tex",
+    "char_offset": 16828,
+    "token": "79.75"
+  },
+  {
+    "value": 75.95,
+    "artifact": "main.tex",
+    "char_offset": 16908,
+    "token": "75.95"
+  },
+  {
+    "value": 92.41,
+    "artifact": "main.tex",
+    "char_offset": 16915,
+    "token": "92.41"
+  },
+  {
+    "value": 74.68,
+    "artifact": "main.tex",
+    "char_offset": 16924,
+    "token": "74.68"
+  },
+  {
+    "value": 91.14,
+    "artifact": "main.tex",
+    "char_offset": 16931,
+    "token": "91.14"
+  },
+  {
+    "value": 70.89,
+    "artifact": "main.tex",
+    "char_offset": 16944,
+    "token": "70.89"
+  },
+  {
+    "value": 88.61,
+    "artifact": "main.tex",
+    "char_offset": 16951,
+    "token": "88.61"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 16983,
+    "token": "0.00"
+  },
+  {
+    "value": -1.27,
+    "artifact": "main.tex",
+    "char_offset": 16990,
+    "token": "-1.27"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 17002,
+    "token": "0.00"
+  },
+  {
+    "value": -3.8,
+    "artifact": "main.tex",
+    "char_offset": 17032,
+    "token": "-3.80"
+  },
+  {
+    "value": 3.8,
+    "artifact": "main.tex",
+    "char_offset": 17040,
+    "token": "3.80"
+  },
+  {
+    "value": -3.8,
+    "artifact": "main.tex",
+    "char_offset": 17049,
+    "token": "-3.80"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 17057,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 17069,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 17075,
+    "token": "0.00"
+  },
+  {
+    "value": 0.1,
+    "artifact": "main.tex",
+    "char_offset": 17749,
+    "token": "0.1"
+  },
+  {
+    "value": 87.34,
+    "artifact": "main.tex",
+    "char_offset": 17949,
+    "token": "87.34"
+  },
+  {
+    "value": 3.8,
+    "artifact": "main.tex",
+    "char_offset": 18012,
+    "token": "3.80"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 18756,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 18758,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 18760,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 18762,
+    "token": "0"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 18764,
+    "token": "2"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 18766,
+    "token": "2"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 18768,
+    "token": "2"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 18770,
+    "token": "2"
+  },
+  {
+    "value": -1.0,
+    "artifact": "main.tex",
+    "char_offset": 18869,
+    "token": "-1"
+  },
+  {
+    "value": 7.0,
+    "artifact": "main.tex",
+    "char_offset": 18909,
+    "token": "7"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 19175,
+    "token": "13"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 19628,
+    "token": "0.00"
+  },
+  {
+    "value": 5.06,
+    "artifact": "main.tex",
+    "char_offset": 19635,
+    "token": "5.06"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 19642,
+    "token": "0.00"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 19868,
+    "token": "13"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 19929,
+    "token": "0.00"
+  },
+  {
+    "value": 5.06,
+    "artifact": "main.tex",
+    "char_offset": 19936,
+    "token": "5.06"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 19943,
+    "token": "0.00"
+  },
+  {
+    "value": 84.81,
+    "artifact": "main.tex",
+    "char_offset": 20442,
+    "token": "84.81"
+  },
+  {
+    "value": 88.61,
+    "artifact": "main.tex",
+    "char_offset": 20450,
+    "token": "88.61"
+  },
+  {
+    "value": 79.75,
+    "artifact": "main.tex",
+    "char_offset": 20458,
+    "token": "79.75"
+  },
+  {
+    "value": 11.0,
+    "artifact": "main.tex",
+    "char_offset": 20506,
+    "token": "11"
+  },
+  {
+    "value": 84.81,
+    "artifact": "main.tex",
+    "char_offset": 21194,
+    "token": "84.81"
+  },
+  {
+    "value": 89.87,
+    "artifact": "main.tex",
+    "char_offset": 21203,
+    "token": "89.87"
+  },
+  {
+    "value": 79.75,
+    "artifact": "main.tex",
+    "char_offset": 21216,
+    "token": "79.75"
+  },
+  {
+    "value": 55.7,
+    "artifact": "main.tex",
+    "char_offset": 21227,
+    "token": "55.70"
+  },
+  {
+    "value": 64.56,
+    "artifact": "main.tex",
+    "char_offset": 21236,
+    "token": "64.56"
+  },
+  {
+    "value": 53.16,
+    "artifact": "main.tex",
+    "char_offset": 21249,
+    "token": "53.16"
+  },
+  {
+    "value": 70.04,
+    "artifact": "main.tex",
+    "char_offset": 21278,
+    "token": "70.04"
+  },
+  {
+    "value": 76.58,
+    "artifact": "main.tex",
+    "char_offset": 21287,
+    "token": "76.58"
+  },
+  {
+    "value": 66.03,
+    "artifact": "main.tex",
+    "char_offset": 21300,
+    "token": "66.03"
+  },
+  {
+    "value": 24.0,
+    "artifact": "main.tex",
+    "char_offset": 21614,
+    "token": "24"
+  },
+  {
+    "value": 102.0,
+    "artifact": "main.tex",
+    "char_offset": 21647,
+    "token": "102"
+  },
+  {
+    "value": 100.0,
+    "artifact": "main.tex",
+    "char_offset": 21690,
+    "token": "100"
+  },
+  {
+    "value": 66.0,
+    "artifact": "main.tex",
+    "char_offset": 21794,
+    "token": "66"
+  },
+  {
+    "value": -68.0,
+    "artifact": "main.tex",
+    "char_offset": 21797,
+    "token": "-68"
+  },
+  {
+    "value": 70.0,
+    "artifact": "main.tex",
+    "char_offset": 21825,
+    "token": "70"
+  },
+  {
+    "value": -71.0,
+    "artifact": "main.tex",
+    "char_offset": 21828,
+    "token": "-71"
+  },
+  {
+    "value": 63.0,
+    "artifact": "main.tex",
+    "char_offset": 21843,
+    "token": "63"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 21859,
+    "token": "79"
+  },
+  {
+    "value": 67.0,
+    "artifact": "main.tex",
+    "char_offset": 21901,
+    "token": "67"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 21904,
+    "token": "79"
+  },
+  {
+    "value": 70.5,
+    "artifact": "main.tex",
+    "char_offset": 21908,
+    "token": "70.5"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 21913,
+    "token": "79"
+  },
+  {
+    "value": 63.0,
+    "artifact": "main.tex",
+    "char_offset": 21921,
+    "token": "63"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 21924,
+    "token": "79"
+  },
+  {
+    "value": 0.97,
+    "artifact": "main.tex",
+    "char_offset": 22146,
+    "token": "0.97"
+  },
+  {
+    "value": 16.0,
+    "artifact": "main.tex",
+    "char_offset": 22825,
+    "token": "16"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 23602,
+    "token": "13"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 23674,
+    "token": "79"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 23717,
+    "token": "13"
+  },
+  {
+    "value": 92.0,
+    "artifact": "main.tex",
+    "char_offset": 23747,
+    "token": "92"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 23781,
+    "token": "79"
+  },
+  {
+    "value": 200.0,
+    "artifact": "main.tex",
+    "char_offset": 23832,
+    "token": "200"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 23907,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 23912,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 23917,
+    "token": "0.00"
+  },
+  {
+    "value": 5.06,
+    "artifact": "main.tex",
+    "char_offset": 23931,
+    "token": "5.06"
+  },
+  {
+    "value": 5.06,
+    "artifact": "main.tex",
+    "char_offset": 23936,
+    "token": "5.06"
+  },
+  {
+    "value": 89.87,
+    "artifact": "main.tex",
+    "char_offset": 23941,
+    "token": "89.87"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 23960,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 23965,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 23970,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 24001,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 24006,
+    "token": "0.00"
+  },
+  {
+    "value": 87.34,
+    "artifact": "main.tex",
+    "char_offset": 24011,
+    "token": "87.34"
+  },
+  {
+    "value": 6.27,
+    "artifact": "main.tex",
+    "char_offset": 24020,
+    "token": "6.27"
+  },
+  {
+    "value": 91.14,
+    "artifact": "main.tex",
+    "char_offset": 24025,
+    "token": "91.14"
+  },
+  {
+    "value": 92.41,
+    "artifact": "main.tex",
+    "char_offset": 24031,
+    "token": "92.41"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 24044,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 24049,
+    "token": "0.00"
+  },
+  {
+    "value": 82.28,
+    "artifact": "main.tex",
+    "char_offset": 24054,
+    "token": "82.28"
+  },
+  {
+    "value": 1200.0,
+    "artifact": "main.tex",
+    "char_offset": 24591,
+    "token": "1,200"
+  },
+  {
+    "value": 746.0,
+    "artifact": "main.tex",
+    "char_offset": 24621,
+    "token": "746"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 24645,
+    "token": "0"
+  },
+  {
+    "value": 301.0,
+    "artifact": "main.tex",
+    "char_offset": 24674,
+    "token": "301"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 24693,
+    "token": "0"
+  },
+  {
+    "value": 153.0,
+    "artifact": "main.tex",
+    "char_offset": 24721,
+    "token": "153"
+  },
+  {
+    "value": 152.0,
+    "artifact": "main.tex",
+    "char_offset": 24741,
+    "token": "152"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 25761,
+    "token": "1"
+  },
+  {
+    "value": 5.0,
+    "artifact": "main.tex",
+    "char_offset": 26014,
+    "token": "5"
+  },
+  {
+    "value": 0.9,
+    "artifact": "main.tex",
+    "char_offset": 26101,
+    "token": "0.90"
+  },
+  {
+    "value": 0.85,
+    "artifact": "main.tex",
+    "char_offset": 26131,
+    "token": "0.85"
+  },
+  {
+    "value": 0.95,
+    "artifact": "main.tex",
+    "char_offset": 26140,
+    "token": "0.95"
+  },
+  {
+    "value": 354.0,
+    "artifact": "main.tex",
+    "char_offset": 26461,
+    "token": "354"
+  },
+  {
+    "value": 36.0,
+    "artifact": "main.tex",
+    "char_offset": 26496,
+    "token": "36"
+  },
+  {
+    "value": 70.0,
+    "artifact": "main.tex",
+    "char_offset": 26527,
+    "token": "70"
+  },
+  {
+    "value": 10.0,
+    "artifact": "main.tex",
+    "char_offset": 26546,
+    "token": "10"
+  },
+  {
+    "value": 46.89,
+    "artifact": "main.tex",
+    "char_offset": 27054,
+    "token": "46.89"
+  },
+  {
+    "value": 0.9,
+    "artifact": "main.tex",
+    "char_offset": 27099,
+    "token": "0.90"
+  },
+  {
+    "value": 46.59,
+    "artifact": "main.tex",
+    "char_offset": 27144,
+    "token": "46.59"
+  },
+  {
+    "value": 22.6,
+    "artifact": "main.tex",
+    "char_offset": 27270,
+    "token": "22.60"
+  },
+  {
+    "value": 2.82,
+    "artifact": "main.tex",
+    "char_offset": 27381,
+    "token": "2.82"
+  },
+  {
+    "value": 20000.0,
+    "artifact": "main.tex",
+    "char_offset": 27538,
+    "token": "20,000"
+  },
+  {
+    "value": 20000.0,
+    "artifact": "main.tex",
+    "char_offset": 27590,
+    "token": "20,000"
+  },
+  {
+    "value": 20.0,
+    "artifact": "main.tex",
+    "char_offset": 27664,
+    "token": "20"
+  },
+  {
+    "value": 0.9,
+    "artifact": "main.tex",
+    "char_offset": 28087,
+    "token": "0.90"
+  },
+  {
+    "value": 19.77,
+    "artifact": "main.tex",
+    "char_offset": 28121,
+    "token": "19.77"
+  },
+  {
+    "value": 66.37,
+    "artifact": "main.tex",
+    "char_offset": 28132,
+    "token": "66.37"
+  },
+  {
+    "value": 93.5,
+    "artifact": "main.tex",
+    "char_offset": 28162,
+    "token": "93.50"
+  },
+  {
+    "value": 87.22,
+    "artifact": "main.tex",
+    "char_offset": 28173,
+    "token": "87.22"
+  },
+  {
+    "value": 6.28,
+    "artifact": "main.tex",
+    "char_offset": 28184,
+    "token": "6.28"
+  },
+  {
+    "value": -10.23,
+    "artifact": "main.tex",
+    "char_offset": 28293,
+    "token": "-10.23"
+  },
+  {
+    "value": -2.94,
+    "artifact": "main.tex",
+    "char_offset": 28303,
+    "token": "-2.94"
+  },
+  {
+    "value": 0.9,
+    "artifact": "main.tex",
+    "char_offset": 28436,
+    "token": "0.90"
+  },
+  {
+    "value": 0.95,
+    "artifact": "main.tex",
+    "char_offset": 28531,
+    "token": "0.95"
+  },
+  {
+    "value": 55.69,
+    "artifact": "main.tex",
+    "char_offset": 29355,
+    "token": "+55.69"
+  },
+  {
+    "value": -3.39,
+    "artifact": "main.tex",
+    "char_offset": 29386,
+    "token": "-3.39"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 29745,
+    "token": "13"
+  },
+  {
+    "value": 25.0,
+    "artifact": "main.tex",
+    "char_offset": 30288,
+    "token": "25"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 30451,
+    "token": "4"
+  },
+  {
+    "value": 10.0,
+    "artifact": "main.tex",
+    "char_offset": 30453,
+    "token": "10"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 30461,
+    "token": "1"
+  },
+  {
+    "value": 7.0,
+    "artifact": "main.tex",
+    "char_offset": 30463,
+    "token": "7"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 30555,
+    "token": "1"
+  },
+  {
+    "value": 7.0,
+    "artifact": "main.tex",
+    "char_offset": 30557,
+    "token": "7"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 30717,
+    "token": "2"
+  },
+  {
+    "value": 7.0,
+    "artifact": "main.tex",
+    "char_offset": 30719,
+    "token": "7"
+  },
+  {
+    "value": 20.0,
+    "artifact": "main.tex",
+    "char_offset": 32654,
+    "token": "20"
+  },
+  {
+    "value": 3.2,
+    "artifact": "main.tex",
+    "char_offset": 34604,
+    "token": "3.2"
+  },
+  {
+    "value": 6.0,
+    "artifact": "main.tex",
+    "char_offset": 34621,
+    "token": "6"
+  },
+  {
+    "value": 6.0,
+    "artifact": "main.tex",
+    "char_offset": 34679,
+    "token": "6"
+  },
+  {
+    "value": 20000.0,
+    "artifact": "main.tex",
+    "char_offset": 34838,
+    "token": "20,000"
+  },
+  {
+    "value": 20261021.0,
+    "artifact": "main.tex",
+    "char_offset": 34881,
+    "token": "20261021"
+  },
+  {
+    "value": 200.0,
+    "artifact": "main.tex",
+    "char_offset": 34933,
+    "token": "200"
+  },
+  {
+    "value": 6.0,
+    "artifact": "main.tex",
+    "char_offset": 34994,
+    "token": "6"
+  },
+  {
+    "value": 16384.0,
+    "artifact": "main.tex",
+    "char_offset": 35028,
+    "token": "16,384"
+  },
+  {
+    "value": 32.0,
+    "artifact": "main.tex",
+    "char_offset": 35062,
+    "token": "32"
+  },
+  {
+    "value": 64.0,
+    "artifact": "main.tex",
+    "char_offset": 35087,
+    "token": "64"
+  },
+  {
+    "value": 256.0,
+    "artifact": "main.tex",
+    "char_offset": 35119,
+    "token": "256"
+  },
+  {
+    "value": 1024.0,
+    "artifact": "main.tex",
+    "char_offset": 35139,
+    "token": "1,024"
+  },
+  {
+    "value": 20261005.0,
+    "artifact": "main.tex",
+    "char_offset": 35188,
+    "token": "20261005"
+  },
+  {
+    "value": 20261006.0,
+    "artifact": "main.tex",
+    "char_offset": 35198,
+    "token": "20261006"
+  },
+  {
+    "value": 20261007.0,
+    "artifact": "main.tex",
+    "char_offset": 35212,
+    "token": "20261007"
+  },
+  {
+    "value": 20261005.0,
+    "artifact": "main.tex",
+    "char_offset": 35252,
+    "token": "20261005"
+  },
+  {
+    "value": 6.0,
+    "artifact": "main.tex",
+    "char_offset": 35261,
+    "token": "6"
+  },
+  {
+    "value": 384.0,
+    "artifact": "main.tex",
+    "char_offset": 35353,
+    "token": "384"
+  },
+  {
+    "value": 64.0,
+    "artifact": "main.tex",
+    "char_offset": 35375,
+    "token": "64"
+  },
+  {
+    "value": 49.0,
+    "artifact": "main.tex",
+    "char_offset": 35835,
+    "token": "49"
+  },
+  {
+    "value": 0.1,
+    "artifact": "main.tex",
+    "char_offset": 35922,
+    "token": "0.1"
+  },
+  {
+    "value": 200.0,
+    "artifact": "main.tex",
+    "char_offset": 36562,
+    "token": "200"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 36608,
+    "token": "2"
+  },
+  {
+    "value": 56.0,
+    "artifact": "main.tex",
+    "char_offset": 36888,
+    "token": "56"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 36907,
+    "token": "2"
+  },
+  {
+    "value": 20260924.0,
+    "artifact": "main.tex",
+    "char_offset": 36915,
+    "token": "20260924"
+  },
+  {
+    "value": 79.0,
+    "artifact": "main.tex",
+    "char_offset": 36981,
+    "token": "79"
+  },
+  {
+    "value": 5.0,
+    "artifact": "main.tex",
+    "char_offset": 37003,
+    "token": "5"
+  },
+  {
+    "value": -9.0,
+    "artifact": "main.tex",
+    "char_offset": 37004,
+    "token": "-9"
+  },
+  {
+    "value": 92.0,
+    "artifact": "main.tex",
+    "char_offset": 37039,
+    "token": "92"
+  },
+  {
+    "value": 736.0,
+    "artifact": "main.tex",
+    "char_offset": 37532,
+    "token": "736"
+  },
+  {
+    "value": 365.0,
+    "artifact": "main.tex",
+    "char_offset": 37561,
+    "token": "365"
+  },
+  {
+    "value": 157.0,
+    "artifact": "main.tex",
+    "char_offset": 37603,
+    "token": "157"
+  },
+  {
+    "value": 316.0,
+    "artifact": "main.tex",
+    "char_offset": 37636,
+    "token": "316"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 37681,
+    "token": "3"
+  },
+  {
+    "value": 21.0,
+    "artifact": "main.tex",
+    "char_offset": 37688,
+    "token": "21"
+  },
+  {
+    "value": 0.0,
+    "artifact": "main.tex",
+    "char_offset": 37799,
+    "token": "0"
+  },
+  {
+    "value": -3.0,
+    "artifact": "main.tex",
+    "char_offset": 37801,
+    "token": "-3"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 37843,
+    "token": "4"
+  },
+  {
+    "value": -7.0,
+    "artifact": "main.tex",
+    "char_offset": 37845,
+    "token": "-7"
+  },
+  {
+    "value": 354.0,
+    "artifact": "main.tex",
+    "char_offset": 38284,
+    "token": "354"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 38313,
+    "token": "2"
+  },
+  {
+    "value": 2944.0,
+    "artifact": "main.tex",
+    "char_offset": 38318,
+    "token": "2,944"
+  },
+  {
+    "value": 42.0,
+    "artifact": "main.tex",
+    "char_offset": 38352,
+    "token": "42"
+  },
+  {
+    "value": 5.0,
+    "artifact": "main.tex",
+    "char_offset": 38368,
+    "token": "5"
+  },
+  {
+    "value": 70.0,
+    "artifact": "main.tex",
+    "char_offset": 38381,
+    "token": "70"
+  },
+  {
+    "value": 10.0,
+    "artifact": "main.tex",
+    "char_offset": 38397,
+    "token": "10"
+  },
+  {
+    "value": 34.0,
+    "artifact": "main.tex",
+    "char_offset": 38410,
+    "token": "34"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 38454,
+    "token": "01"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 38459,
+    "token": "2"
+  },
+  {
+    "value": 25.0,
+    "artifact": "main.tex",
+    "char_offset": 38493,
+    "token": "25"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 38498,
+    "token": "1"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 38506,
+    "token": "4"
+  },
+  {
+    "value": 24.0,
+    "artifact": "main.tex",
+    "char_offset": 38905,
+    "token": "24"
+  },
+  {
+    "value": 2048.0,
+    "artifact": "main.tex",
+    "char_offset": 39022,
+    "token": "2,048"
+  },
+  {
+    "value": 200.0,
+    "artifact": "main.tex",
+    "char_offset": 39630,
+    "token": "200"
+  },
+  {
+    "value": 200.0,
+    "artifact": "main.tex",
+    "char_offset": 39907,
+    "token": "200"
+  },
+  {
+    "value": 200.0,
+    "artifact": "main.tex",
+    "char_offset": 40218,
+    "token": "200"
+  },
+  {
+    "value": 54.0,
+    "artifact": "main.tex",
+    "char_offset": 40576,
+    "token": "54"
+  },
+  {
+    "value": 1.0,
+    "artifact": "main.tex",
+    "char_offset": 40800,
+    "token": "1"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 40802,
+    "token": "2"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 40804,
+    "token": "3"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 40806,
+    "token": "2"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 40808,
+    "token": "3"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 40810,
+    "token": "2"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 40812,
+    "token": "3"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 40839,
+    "token": "3"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 40841,
+    "token": "4"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 40843,
+    "token": "3"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 40845,
+    "token": "4"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 40847,
+    "token": "3"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 40849,
+    "token": "4"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 40851,
+    "token": "3"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 40853,
+    "token": "4"
+  },
+  {
+    "value": 2.0,
+    "artifact": "main.tex",
+    "char_offset": 41115,
+    "token": "2"
+  },
+  {
+    "value": 11.0,
+    "artifact": "main.tex",
+    "char_offset": 41118,
+    "token": "11"
+  },
+  {
+    "value": 2048.0,
+    "artifact": "main.tex",
+    "char_offset": 41122,
+    "token": "2,048"
+  },
+  {
+    "value": 1486.0,
+    "artifact": "main.tex",
+    "char_offset": 41211,
+    "token": "1,486"
+  },
+  {
+    "value": 1024.0,
+    "artifact": "main.tex",
+    "char_offset": 41237,
+    "token": "1,024"
+  },
+  {
+    "value": 1486.0,
+    "artifact": "main.tex",
+    "char_offset": 41254,
+    "token": "1,486"
+  },
+  {
+    "value": 252.0,
+    "artifact": "main.tex",
+    "char_offset": 41376,
+    "token": "252"
+  },
+  {
+    "value": 210.0,
+    "artifact": "main.tex",
+    "char_offset": 41451,
+    "token": "210"
+  },
+  {
+    "value": 20.0,
+    "artifact": "main.tex",
+    "char_offset": 42392,
+    "token": "20"
+  },
+  {
+    "value": 59.0,
+    "artifact": "main.tex",
+    "char_offset": 42582,
+    "token": "59"
+  },
+  {
+    "value": 230.0,
+    "artifact": "main.tex",
+    "char_offset": 42826,
+    "token": "230"
+  },
+  {
+    "value": 226.0,
+    "artifact": "main.tex",
+    "char_offset": 42869,
+    "token": "226"
+  },
+  {
+    "value": 354.0,
+    "artifact": "main.tex",
+    "char_offset": 43030,
+    "token": "354"
+  },
+  {
+    "value": 226.0,
+    "artifact": "main.tex",
+    "char_offset": 43165,
+    "token": "226"
+  },
+  {
+    "value": 179.0,
+    "artifact": "main.tex",
+    "char_offset": 43184,
+    "token": "179"
+  },
+  {
+    "value": 47.0,
+    "artifact": "main.tex",
+    "char_offset": 43296,
+    "token": "47"
+  },
+  {
+    "value": 193.0,
+    "artifact": "main.tex",
+    "char_offset": 44049,
+    "token": "193"
+  },
+  {
+    "value": 112.0,
+    "artifact": "main.tex",
+    "char_offset": 44111,
+    "token": "112"
+  },
+  {
+    "value": 177.0,
+    "artifact": "main.tex",
+    "char_offset": 44139,
+    "token": "177"
+  },
+  {
+    "value": 60.99,
+    "artifact": "main.tex",
+    "char_offset": 44287,
+    "token": "+60.99"
+  },
+  {
+    "value": 55.03,
+    "artifact": "main.tex",
+    "char_offset": 44294,
+    "token": "+55.03"
+  },
+  {
+    "value": 51.05,
+    "artifact": "main.tex",
+    "char_offset": 44301,
+    "token": "+51.05"
+  },
+  {
+    "value": -1.67,
+    "artifact": "main.tex",
+    "char_offset": 44332,
+    "token": "-1.67"
+  },
+  {
+    "value": -2.26,
+    "artifact": "main.tex",
+    "char_offset": 44338,
+    "token": "-2.26"
+  },
+  {
+    "value": -6.24,
+    "artifact": "main.tex",
+    "char_offset": 44344,
+    "token": "-6.24"
+  },
+  {
+    "value": -2.3,
+    "artifact": "main.tex",
+    "char_offset": 44394,
+    "token": "-2.30"
+  },
+  {
+    "value": -2.77,
+    "artifact": "main.tex",
+    "char_offset": 44400,
+    "token": "-2.77"
+  },
+  {
+    "value": -13.79,
+    "artifact": "main.tex",
+    "char_offset": 44406,
+    "token": "-13.79"
+  },
+  {
+    "value": 55.46,
+    "artifact": "main.tex",
+    "char_offset": 44504,
+    "token": "+55.46"
+  },
+  {
+    "value": -3.39,
+    "artifact": "main.tex",
+    "char_offset": 44544,
+    "token": "-3.39"
+  },
+  {
+    "value": 44.64,
+    "artifact": "main.tex",
+    "char_offset": 44686,
+    "token": "44.64"
+  },
+  {
+    "value": 49.15,
+    "artifact": "main.tex",
+    "char_offset": 44696,
+    "token": "49.15"
+  },
+  {
+    "value": -6.86,
+    "artifact": "main.tex",
+    "char_offset": 44742,
+    "token": "-6.86"
+  },
+  {
+    "value": -4.81,
+    "artifact": "main.tex",
+    "char_offset": 44754,
+    "token": "-4.81"
+  },
+  {
+    "value": 41.85,
+    "artifact": "main.tex",
+    "char_offset": 44792,
+    "token": "41.85"
+  },
+  {
+    "value": -5.58,
+    "artifact": "main.tex",
+    "char_offset": 44803,
+    "token": "-5.58"
+  },
+  {
+    "value": 20000.0,
+    "artifact": "main.tex",
+    "char_offset": 44946,
+    "token": "20,000"
+  },
+  {
+    "value": 20261005.0,
+    "artifact": "main.tex",
+    "char_offset": 44968,
+    "token": "20261005"
+  },
+  {
+    "value": 17.0,
+    "artifact": "main.tex",
+    "char_offset": 45287,
+    "token": "17"
+  },
+  {
+    "value": 11.0,
+    "artifact": "main.tex",
+    "char_offset": 45315,
+    "token": "11"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 45396,
+    "token": "13"
+  },
+  {
+    "value": 164.0,
+    "artifact": "main.tex",
+    "char_offset": 45430,
+    "token": "164"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 45612,
+    "token": "3"
+  },
+  {
+    "value": 3.0,
+    "artifact": "main.tex",
+    "char_offset": 45641,
+    "token": "3"
+  },
+  {
+    "value": 13.0,
+    "artifact": "main.tex",
+    "char_offset": 45655,
+    "token": "13"
+  },
+  {
+    "value": 4.0,
+    "artifact": "main.tex",
+    "char_offset": 46017,
+    "token": "4"
+  },
+  {
+    "value": 14.0,
+    "artifact": "main.tex",
+    "char_offset": 46023,
+    "token": "14"
+  },
+  {
+    "value": -2.36,
+    "artifact": "main.tex",
+    "char_offset": 46278,
+    "token": "-2.36"
+  },
+  {
+    "value": -1.03,
+    "artifact": "main.tex",
+    "char_offset": 46290,
+    "token": "-1.03"
+  },
+  {
+    "value": -3.39,
+    "artifact": "main.tex",
+    "char_offset": 46335,
+    "token": "-3.39"
+  },
+  {
+    "value": 177.0,
+    "artifact": "main.tex",
+    "char_offset": 46366,
+    "token": "177"
+  },
+  {
+    "value": 79.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 50,
+    "token": "79"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 382,
+    "token": "5"
+  },
+  {
+    "value": -9.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 383,
+    "token": "-9"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 399,
+    "token": "3"
+  },
+  {
+    "value": -14.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 400,
+    "token": "-14"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 413,
+    "token": "3"
+  },
+  {
+    "value": -4.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 414,
+    "token": "-4"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 433,
+    "token": "84.81"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 445,
+    "token": "0.00"
+  },
+  {
+    "value": 88.61,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 452,
+    "token": "88.61"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 464,
+    "token": "5.06"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 471,
+    "token": "79.75"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 483,
+    "token": "0.00"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 497,
+    "token": "84.81"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 509,
+    "token": "84.81"
+  },
+  {
+    "value": 88.61,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 517,
+    "token": "88.61"
+  },
+  {
+    "value": 88.61,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 529,
+    "token": "88.61"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 537,
+    "token": "79.75"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 549,
+    "token": "79.75"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 563,
+    "token": "84.81"
+  },
+  {
+    "value": 83.54,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 575,
+    "token": "83.54"
+  },
+  {
+    "value": 89.87,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 583,
+    "token": "89.87"
+  },
+  {
+    "value": 88.61,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 595,
+    "token": "88.61"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 603,
+    "token": "79.75"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 615,
+    "token": "79.75"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 629,
+    "token": "84.81"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 641,
+    "token": "84.81"
+  },
+  {
+    "value": 89.87,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 649,
+    "token": "89.87"
+  },
+  {
+    "value": 89.87,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 661,
+    "token": "89.87"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 669,
+    "token": "79.75"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 681,
+    "token": "79.75"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 714,
+    "token": "84.81"
+  },
+  {
+    "value": 42.41,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 726,
+    "token": "42.41"
+  },
+  {
+    "value": 89.24,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 734,
+    "token": "89.24"
+  },
+  {
+    "value": 50.42,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 746,
+    "token": "50.42"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 754,
+    "token": "79.75"
+  },
+  {
+    "value": 39.87,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 766,
+    "token": "39.87"
+  },
+  {
+    "value": 82.28,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 785,
+    "token": "82.28"
+  },
+  {
+    "value": 51.9,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 797,
+    "token": "51.90"
+  },
+  {
+    "value": 91.14,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 805,
+    "token": "91.14"
+  },
+  {
+    "value": 30.38,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 817,
+    "token": "30.38"
+  },
+  {
+    "value": 74.68,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 825,
+    "token": "74.68"
+  },
+  {
+    "value": 35.44,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 837,
+    "token": "35.44"
+  },
+  {
+    "value": 55.7,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 863,
+    "token": "55.70"
+  },
+  {
+    "value": 56.96,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 875,
+    "token": "56.96"
+  },
+  {
+    "value": 87.34,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 883,
+    "token": "87.34"
+  },
+  {
+    "value": 64.56,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 895,
+    "token": "64.56"
+  },
+  {
+    "value": 41.77,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 903,
+    "token": "41.77"
+  },
+  {
+    "value": 27.85,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 915,
+    "token": "27.85"
+  },
+  {
+    "value": 22.78,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 938,
+    "token": "22.78"
+  },
+  {
+    "value": 39.24,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 946,
+    "token": "39.24"
+  },
+  {
+    "value": 20.25,
+    "artifact": "tables/c1_main.tex",
+    "char_offset": 954,
+    "token": "20.25"
+  },
+  {
+    "value": 59.0,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 94,
+    "token": "59"
+  },
+  {
+    "value": 20.0,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 104,
+    "token": "20"
+  },
+  {
+    "value": 95.0,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 159,
+    "token": "95"
+  },
+  {
+    "value": 0.9,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 257,
+    "token": "0.90"
+  },
+  {
+    "value": 46.89,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 489,
+    "token": "46.89"
+  },
+  {
+    "value": 33.33,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 498,
+    "token": "33.33"
+  },
+  {
+    "value": 57.53,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 505,
+    "token": "57.53"
+  },
+  {
+    "value": 0.0006,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 514,
+    "token": "0.0006"
+  },
+  {
+    "value": 22.6,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 568,
+    "token": "22.60"
+  },
+  {
+    "value": 5.93,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 577,
+    "token": "5.93"
+  },
+  {
+    "value": 36.44,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 583,
+    "token": "36.44"
+  },
+  {
+    "value": 0.0879,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 592,
+    "token": "0.0879"
+  },
+  {
+    "value": 46.59,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 656,
+    "token": "46.59"
+  },
+  {
+    "value": 36.51,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 665,
+    "token": "36.51"
+  },
+  {
+    "value": 53.35,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 672,
+    "token": "53.35"
+  },
+  {
+    "value": 0.0002,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 681,
+    "token": "0.0002"
+  },
+  {
+    "value": 2.82,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 741,
+    "token": "2.82"
+  },
+  {
+    "value": -6.37,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 749,
+    "token": "-6.37"
+  },
+  {
+    "value": 14.07,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 756,
+    "token": "14.07"
+  },
+  {
+    "value": 0.6541,
+    "artifact": "tables/c2_contrasts.tex",
+    "char_offset": 765,
+    "token": "0.6541"
+  },
+  {
+    "value": 19.77,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 295,
+    "token": "19.77"
+  },
+  {
+    "value": 93.5,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 303,
+    "token": "93.50"
+  },
+  {
+    "value": 0.85,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 321,
+    "token": "0.85"
+  },
+  {
+    "value": 63.79,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 328,
+    "token": "63.79"
+  },
+  {
+    "value": 87.54,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 336,
+    "token": "87.54"
+  },
+  {
+    "value": 0.9,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 354,
+    "token": "0.90"
+  },
+  {
+    "value": 66.37,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 361,
+    "token": "66.37"
+  },
+  {
+    "value": 87.22,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 369,
+    "token": "87.22"
+  },
+  {
+    "value": 0.95,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 387,
+    "token": "0.95"
+  },
+  {
+    "value": 59.17,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 394,
+    "token": "59.17"
+  },
+  {
+    "value": 90.11,
+    "artifact": "tables/c2_cost.tex",
+    "char_offset": 402,
+    "token": "90.11"
+  },
+  {
+    "value": 59.0,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 101,
+    "token": "59"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 331,
+    "token": "3"
+  },
+  {
+    "value": 73.45,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 468,
+    "token": "73.45"
+  },
+  {
+    "value": 45.2,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 476,
+    "token": "45.20"
+  },
+  {
+    "value": 26.55,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 484,
+    "token": "26.55"
+  },
+  {
+    "value": 92.66,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 492,
+    "token": "92.66"
+  },
+  {
+    "value": 96.61,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 500,
+    "token": "96.61"
+  },
+  {
+    "value": 51.98,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 526,
+    "token": "51.98"
+  },
+  {
+    "value": 33.9,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 534,
+    "token": "33.90"
+  },
+  {
+    "value": 29.38,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 542,
+    "token": "29.38"
+  },
+  {
+    "value": 70.62,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 550,
+    "token": "70.62"
+  },
+  {
+    "value": 75.14,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 558,
+    "token": "75.14"
+  },
+  {
+    "value": 74.96,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 586,
+    "token": "74.96"
+  },
+  {
+    "value": 22.32,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 594,
+    "token": "22.32"
+  },
+  {
+    "value": 21.47,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 602,
+    "token": "21.47"
+  },
+  {
+    "value": 90.96,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 610,
+    "token": "90.96"
+  },
+  {
+    "value": 93.5,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 618,
+    "token": "93.50"
+  },
+  {
+    "value": 74.68,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 645,
+    "token": "74.68"
+  },
+  {
+    "value": 68.92,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 653,
+    "token": "68.92"
+  },
+  {
+    "value": 19.77,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 661,
+    "token": "19.77"
+  },
+  {
+    "value": 85.76,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 669,
+    "token": "85.76"
+  },
+  {
+    "value": 93.5,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 677,
+    "token": "93.50"
+  },
+  {
+    "value": 0.9,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 700,
+    "token": "0.90"
+  },
+  {
+    "value": 75.7,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 707,
+    "token": "75.70"
+  },
+  {
+    "value": 67.6,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 715,
+    "token": "67.60"
+  },
+  {
+    "value": 66.37,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 723,
+    "token": "66.37"
+  },
+  {
+    "value": 87.76,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 731,
+    "token": "87.76"
+  },
+  {
+    "value": 87.22,
+    "artifact": "tables/c2_full.tex",
+    "char_offset": 739,
+    "token": "87.22"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 274,
+    "token": "3"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 329,
+    "token": "3"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 353,
+    "token": "3"
+  },
+  {
+    "value": 84.75,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 446,
+    "token": "84.75"
+  },
+  {
+    "value": 81.36,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 454,
+    "token": "81.36"
+  },
+  {
+    "value": 86.44,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 462,
+    "token": "86.44"
+  },
+  {
+    "value": 30.51,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 470,
+    "token": "30.51"
+  },
+  {
+    "value": 32.2,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 478,
+    "token": "32.20"
+  },
+  {
+    "value": 38.98,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 486,
+    "token": "38.98"
+  },
+  {
+    "value": 54.24,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 516,
+    "token": "54.24"
+  },
+  {
+    "value": 52.54,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 524,
+    "token": "52.54"
+  },
+  {
+    "value": 52.54,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 532,
+    "token": "52.54"
+  },
+  {
+    "value": 33.9,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 540,
+    "token": "33.90"
+  },
+  {
+    "value": 33.9,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 548,
+    "token": "33.90"
+  },
+  {
+    "value": 32.2,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 556,
+    "token": "32.20"
+  },
+  {
+    "value": 71.19,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 579,
+    "token": "71.19"
+  },
+  {
+    "value": 71.19,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 587,
+    "token": "71.19"
+  },
+  {
+    "value": 67.8,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 595,
+    "token": "67.80"
+  },
+  {
+    "value": 37.29,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 603,
+    "token": "37.29"
+  },
+  {
+    "value": 40.68,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 611,
+    "token": "40.68"
+  },
+  {
+    "value": 44.07,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 619,
+    "token": "44.07"
+  },
+  {
+    "value": 49.15,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 649,
+    "token": "49.15"
+  },
+  {
+    "value": 45.76,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 657,
+    "token": "45.76"
+  },
+  {
+    "value": 47.46,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 665,
+    "token": "47.46"
+  },
+  {
+    "value": 42.37,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 673,
+    "token": "42.37"
+  },
+  {
+    "value": 37.29,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 681,
+    "token": "37.29"
+  },
+  {
+    "value": 37.29,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 689,
+    "token": "37.29"
+  },
+  {
+    "value": 64.41,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 712,
+    "token": "64.41"
+  },
+  {
+    "value": 69.49,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 720,
+    "token": "69.49"
+  },
+  {
+    "value": 64.41,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 728,
+    "token": "64.41"
+  },
+  {
+    "value": 11.86,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 736,
+    "token": "11.86"
+  },
+  {
+    "value": 13.56,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 744,
+    "token": "13.56"
+  },
+  {
+    "value": 10.17,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 752,
+    "token": "10.17"
+  },
+  {
+    "value": 52.54,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 782,
+    "token": "52.54"
+  },
+  {
+    "value": 50.85,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 790,
+    "token": "50.85"
+  },
+  {
+    "value": 52.54,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 798,
+    "token": "52.54"
+  },
+  {
+    "value": 11.86,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 806,
+    "token": "11.86"
+  },
+  {
+    "value": 16.95,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 814,
+    "token": "16.95"
+  },
+  {
+    "value": 13.56,
+    "artifact": "tables/c2_orders.tex",
+    "char_offset": 822,
+    "token": "13.56"
+  },
+  {
+    "value": 52.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 121,
+    "token": "52"
+  },
+  {
+    "value": 316.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 124,
+    "token": "316"
+  },
+  {
+    "value": 23.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 377,
+    "token": "23"
+  },
+  {
+    "value": 157.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 380,
+    "token": "157"
+  },
+  {
+    "value": 15.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 386,
+    "token": "15"
+  },
+  {
+    "value": 86.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 389,
+    "token": "86"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 394,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 396,
+    "token": "0"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 400,
+    "token": "4"
+  },
+  {
+    "value": 22.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 418,
+    "token": "22"
+  },
+  {
+    "value": 163.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 421,
+    "token": "163"
+  },
+  {
+    "value": 13.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 427,
+    "token": "13"
+  },
+  {
+    "value": 89.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 430,
+    "token": "89"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 435,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 437,
+    "token": "0"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 441,
+    "token": "1"
+  },
+  {
+    "value": 23.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 459,
+    "token": "23"
+  },
+  {
+    "value": 157.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 462,
+    "token": "157"
+  },
+  {
+    "value": 14.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 468,
+    "token": "14"
+  },
+  {
+    "value": 83.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 471,
+    "token": "83"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 476,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 478,
+    "token": "0"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 482,
+    "token": "4"
+  },
+  {
+    "value": 22.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 500,
+    "token": "22"
+  },
+  {
+    "value": 163.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 503,
+    "token": "163"
+  },
+  {
+    "value": 12.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 509,
+    "token": "12"
+  },
+  {
+    "value": 91.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 512,
+    "token": "91"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 517,
+    "token": "4"
+  },
+  {
+    "value": 6.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 519,
+    "token": "6"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 523,
+    "token": "1"
+  },
+  {
+    "value": 23.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 541,
+    "token": "23"
+  },
+  {
+    "value": 157.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 544,
+    "token": "157"
+  },
+  {
+    "value": 14.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 550,
+    "token": "14"
+  },
+  {
+    "value": 86.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 553,
+    "token": "86"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 558,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 560,
+    "token": "0"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 564,
+    "token": "4"
+  },
+  {
+    "value": 22.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 582,
+    "token": "22"
+  },
+  {
+    "value": 163.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 585,
+    "token": "163"
+  },
+  {
+    "value": 13.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 591,
+    "token": "13"
+  },
+  {
+    "value": 87.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 594,
+    "token": "87"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 599,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 601,
+    "token": "0"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/construction.tex",
+    "char_offset": 605,
+    "token": "1"
+  },
+  {
+    "value": 200.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 184,
+    "token": "200"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 339,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 354,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 369,
+    "token": "0"
+  },
+  {
+    "value": 200.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 391,
+    "token": "200"
+  },
+  {
+    "value": 200.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 395,
+    "token": "200"
+  },
+  {
+    "value": 102.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 419,
+    "token": "102"
+  },
+  {
+    "value": 102.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 423,
+    "token": "102"
+  },
+  {
+    "value": 46.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 429,
+    "token": "46"
+  },
+  {
+    "value": 46.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 432,
+    "token": "46"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 437,
+    "token": "0"
+  },
+  {
+    "value": 52.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 439,
+    "token": "52"
+  },
+  {
+    "value": 146.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 452,
+    "token": "146"
+  },
+  {
+    "value": 146.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 456,
+    "token": "146"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 467,
+    "token": "0"
+  },
+  {
+    "value": 54.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 469,
+    "token": "54"
+  },
+  {
+    "value": 26.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 482,
+    "token": "26"
+  },
+  {
+    "value": 26.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 485,
+    "token": "26"
+  },
+  {
+    "value": 29.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 490,
+    "token": "29"
+  },
+  {
+    "value": 30.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 493,
+    "token": "30"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 498,
+    "token": "0"
+  },
+  {
+    "value": 144.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 500,
+    "token": "144"
+  },
+  {
+    "value": 157.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 514,
+    "token": "157"
+  },
+  {
+    "value": 157.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 518,
+    "token": "157"
+  },
+  {
+    "value": 43.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 524,
+    "token": "43"
+  },
+  {
+    "value": 43.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 527,
+    "token": "43"
+  },
+  {
+    "value": 115.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 545,
+    "token": "115"
+  },
+  {
+    "value": 115.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 549,
+    "token": "115"
+  },
+  {
+    "value": 34.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 555,
+    "token": "34"
+  },
+  {
+    "value": 34.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 558,
+    "token": "34"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 563,
+    "token": "0"
+  },
+  {
+    "value": 51.0,
+    "artifact": "tables/first_terminal.tex",
+    "char_offset": 565,
+    "token": "51"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 56,
+    "token": "3"
+  },
+  {
+    "value": 79.0,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 152,
+    "token": "79"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 390,
+    "token": "84.81"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 396,
+    "token": "0.00"
+  },
+  {
+    "value": 88.61,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 403,
+    "token": "88.61"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 409,
+    "token": "5.06"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 416,
+    "token": "79.75"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 422,
+    "token": "0.00"
+  },
+  {
+    "value": 83.54,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 456,
+    "token": "83.54"
+  },
+  {
+    "value": 3.8,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 462,
+    "token": "3.80"
+  },
+  {
+    "value": 86.08,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 469,
+    "token": "86.08"
+  },
+  {
+    "value": 8.86,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 475,
+    "token": "8.86"
+  },
+  {
+    "value": 78.48,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 482,
+    "token": "78.48"
+  },
+  {
+    "value": 3.8,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 488,
+    "token": "3.80"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 525,
+    "token": "84.81"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 531,
+    "token": "0.00"
+  },
+  {
+    "value": 89.87,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 538,
+    "token": "89.87"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 544,
+    "token": "5.06"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 551,
+    "token": "79.75"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 557,
+    "token": "0.00"
+  },
+  {
+    "value": 83.54,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 583,
+    "token": "83.54"
+  },
+  {
+    "value": 3.8,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 589,
+    "token": "3.80"
+  },
+  {
+    "value": 87.34,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 596,
+    "token": "87.34"
+  },
+  {
+    "value": 87.34,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 602,
+    "token": "87.34"
+  },
+  {
+    "value": 78.48,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 610,
+    "token": "78.48"
+  },
+  {
+    "value": 3.8,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 616,
+    "token": "3.80"
+  },
+  {
+    "value": 83.54,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 645,
+    "token": "83.54"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 651,
+    "token": "0.00"
+  },
+  {
+    "value": 88.61,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 658,
+    "token": "88.61"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 664,
+    "token": "5.06"
+  },
+  {
+    "value": 81.01,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 671,
+    "token": "81.01"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs.tex",
+    "char_offset": 677,
+    "token": "0.00"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 56,
+    "token": "3"
+  },
+  {
+    "value": 79.0,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 172,
+    "token": "79"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 413,
+    "token": "84.81"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 419,
+    "token": "0.00"
+  },
+  {
+    "value": 88.61,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 426,
+    "token": "88.61"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 432,
+    "token": "5.06"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 439,
+    "token": "79.75"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 445,
+    "token": "0.00"
+  },
+  {
+    "value": 83.54,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 479,
+    "token": "83.54"
+  },
+  {
+    "value": 4.43,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 485,
+    "token": "4.43"
+  },
+  {
+    "value": 86.08,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 492,
+    "token": "86.08"
+  },
+  {
+    "value": 8.86,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 498,
+    "token": "8.86"
+  },
+  {
+    "value": 78.48,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 505,
+    "token": "78.48"
+  },
+  {
+    "value": 3.8,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 511,
+    "token": "3.80"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 548,
+    "token": "84.81"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 554,
+    "token": "0.00"
+  },
+  {
+    "value": 89.87,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 561,
+    "token": "89.87"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 567,
+    "token": "5.06"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 574,
+    "token": "79.75"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 580,
+    "token": "0.00"
+  },
+  {
+    "value": 83.54,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 606,
+    "token": "83.54"
+  },
+  {
+    "value": 3.8,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 612,
+    "token": "3.80"
+  },
+  {
+    "value": 87.34,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 619,
+    "token": "87.34"
+  },
+  {
+    "value": 87.34,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 625,
+    "token": "87.34"
+  },
+  {
+    "value": 78.48,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 633,
+    "token": "78.48"
+  },
+  {
+    "value": 3.8,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 639,
+    "token": "3.80"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 668,
+    "token": "84.81"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 674,
+    "token": "0.00"
+  },
+  {
+    "value": 89.87,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 681,
+    "token": "89.87"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 687,
+    "token": "5.06"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 694,
+    "token": "79.75"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/fxs_r2.tex",
+    "char_offset": 700,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 325,
+    "token": "0.00"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 332,
+    "token": "5.06"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 339,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 375,
+    "token": "0.00"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 382,
+    "token": "5.06"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 389,
+    "token": "0.00"
+  },
+  {
+    "value": 84.81,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 428,
+    "token": "84.81"
+  },
+  {
+    "value": 88.61,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 436,
+    "token": "88.61"
+  },
+  {
+    "value": 79.75,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 444,
+    "token": "79.75"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 482,
+    "token": "0.00"
+  },
+  {
+    "value": 5.06,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 489,
+    "token": "5.06"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/init_diagnostic.tex",
+    "char_offset": 496,
+    "token": "0.00"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 112,
+    "token": "0"
+  },
+  {
+    "value": -3.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 114,
+    "token": "-3"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 136,
+    "token": "4"
+  },
+  {
+    "value": -7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 138,
+    "token": "-7"
+  },
+  {
+    "value": 13.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 326,
+    "token": "13"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 524,
+    "token": "7"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 530,
+    "token": "-1"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 537,
+    "token": "7"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 544,
+    "token": "-1"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 548,
+    "token": "-1"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 552,
+    "token": "-1"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 556,
+    "token": "-1"
+  },
+  {
+    "value": 0.231,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 579,
+    "token": "0.231"
+  },
+  {
+    "value": 5.769,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 589,
+    "token": "5.769"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 599,
+    "token": "-1"
+  },
+  {
+    "value": 5.769,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 607,
+    "token": "5.769"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 614,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 617,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 620,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 642,
+    "token": "7"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 648,
+    "token": "-0.385"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 659,
+    "token": "7"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 666,
+    "token": "-0.385"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 674,
+    "token": "-0.385"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 682,
+    "token": "-0.385"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 690,
+    "token": "-0.385"
+  },
+  {
+    "value": -0.333,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 717,
+    "token": "-0.333"
+  },
+  {
+    "value": 6.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 728,
+    "token": "6.385"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 738,
+    "token": "-1"
+  },
+  {
+    "value": 6.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 746,
+    "token": "6.385"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 753,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 756,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 759,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 781,
+    "token": "7"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 787,
+    "token": "-0.385"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 798,
+    "token": "7"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 805,
+    "token": "-0.385"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 813,
+    "token": "-0.385"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 821,
+    "token": "-0.385"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 829,
+    "token": "-0.385"
+  },
+  {
+    "value": 0.231,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 856,
+    "token": "0.231"
+  },
+  {
+    "value": 6.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 866,
+    "token": "6.385"
+  },
+  {
+    "value": -0.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 876,
+    "token": "-0.385"
+  },
+  {
+    "value": 6.385,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 888,
+    "token": "6.385"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 895,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 898,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/init_vectors.tex",
+    "char_offset": 901,
+    "token": "7"
+  },
+  {
+    "value": 4.1,
+    "artifact": "tables/modules.tex",
+    "char_offset": 112,
+    "token": "4.1"
+  },
+  {
+    "value": -4.2,
+    "artifact": "tables/modules.tex",
+    "char_offset": 116,
+    "token": "-4.2"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/modules.tex",
+    "char_offset": 863,
+    "token": "1"
+  },
+  {
+    "value": 0.9,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 242,
+    "token": "0.90"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 371,
+    "token": "1"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 443,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 447,
+    "token": "8"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 451,
+    "token": "5"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 455,
+    "token": "2"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 459,
+    "token": "1"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 463,
+    "token": "7"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 467,
+    "token": "8"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 484,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 488,
+    "token": "8"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 492,
+    "token": "5"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 496,
+    "token": "4"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 500,
+    "token": "1"
+  },
+  {
+    "value": 6.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 504,
+    "token": "6"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 508,
+    "token": "8"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 528,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 532,
+    "token": "8"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 536,
+    "token": "5"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 540,
+    "token": "4"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 544,
+    "token": "5"
+  },
+  {
+    "value": 6.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 548,
+    "token": "6"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 552,
+    "token": "4"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 578,
+    "token": "3"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 582,
+    "token": "5"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 586,
+    "token": "3"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 590,
+    "token": "4"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 594,
+    "token": "3"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 598,
+    "token": "5"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 602,
+    "token": "7"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 621,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 625,
+    "token": "8"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 629,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 633,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 637,
+    "token": "0"
+  },
+  {
+    "value": 6.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 641,
+    "token": "6"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 645,
+    "token": "3"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 662,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 666,
+    "token": "8"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 670,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 674,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 678,
+    "token": "0"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 682,
+    "token": "0"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 686,
+    "token": "3"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 706,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 710,
+    "token": "8"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 714,
+    "token": "2"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 718,
+    "token": "1"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 722,
+    "token": "3"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 726,
+    "token": "3"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 730,
+    "token": "1"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 756,
+    "token": "1"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 760,
+    "token": "8"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 764,
+    "token": "4"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 768,
+    "token": "2"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 772,
+    "token": "2"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 776,
+    "token": "8"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 780,
+    "token": "8"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 799,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 803,
+    "token": "8"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 807,
+    "token": "3"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 811,
+    "token": "0"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 815,
+    "token": "1"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 819,
+    "token": "7"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 823,
+    "token": "7"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 840,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 844,
+    "token": "8"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 848,
+    "token": "3"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 852,
+    "token": "2"
+  },
+  {
+    "value": 1.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 856,
+    "token": "1"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 860,
+    "token": "5"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 864,
+    "token": "7"
+  },
+  {
+    "value": 0.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 884,
+    "token": "0"
+  },
+  {
+    "value": 8.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 888,
+    "token": "8"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 892,
+    "token": "4"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 896,
+    "token": "2"
+  },
+  {
+    "value": 6.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 900,
+    "token": "6"
+  },
+  {
+    "value": 6.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 904,
+    "token": "6"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 908,
+    "token": "3"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 934,
+    "token": "2"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 938,
+    "token": "5"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 942,
+    "token": "4"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 946,
+    "token": "2"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 950,
+    "token": "2"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 954,
+    "token": "5"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/semantic.tex",
+    "char_offset": 958,
+    "token": "7"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 407,
+    "token": "3"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 505,
+    "token": "007"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 516,
+    "token": "-1"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 519,
+    "token": "2"
+  },
+  {
+    "value": 24.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 543,
+    "token": "024"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 554,
+    "token": "-1"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 557,
+    "token": "2"
+  },
+  {
+    "value": 25.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 581,
+    "token": "025"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 592,
+    "token": "-1"
+  },
+  {
+    "value": 31.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 618,
+    "token": "031"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 629,
+    "token": "-1"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 632,
+    "token": "5"
+  },
+  {
+    "value": 32.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 656,
+    "token": "032"
+  },
+  {
+    "value": -2.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 667,
+    "token": "-2"
+  },
+  {
+    "value": 7.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 670,
+    "token": "7"
+  },
+  {
+    "value": 32.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 693,
+    "token": "032"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 704,
+    "token": "-1"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 707,
+    "token": "2"
+  },
+  {
+    "value": 32.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 730,
+    "token": "032"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 741,
+    "token": "-1"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 744,
+    "token": "3"
+  },
+  {
+    "value": 46.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 767,
+    "token": "046"
+  },
+  {
+    "value": -3.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 778,
+    "token": "-3"
+  },
+  {
+    "value": 5.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 781,
+    "token": "5"
+  },
+  {
+    "value": 53.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 804,
+    "token": "053"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 815,
+    "token": "-1"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 818,
+    "token": "2"
+  },
+  {
+    "value": 55.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 843,
+    "token": "055"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 854,
+    "token": "-1"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 857,
+    "token": "2"
+  },
+  {
+    "value": 57.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 881,
+    "token": "057"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 892,
+    "token": "-1"
+  },
+  {
+    "value": 2.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 895,
+    "token": "2"
+  },
+  {
+    "value": 57.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 919,
+    "token": "057"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 930,
+    "token": "-1"
+  },
+  {
+    "value": 3.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 933,
+    "token": "3"
+  },
+  {
+    "value": 57.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 957,
+    "token": "057"
+  },
+  {
+    "value": -1.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 968,
+    "token": "-1"
+  },
+  {
+    "value": 4.0,
+    "artifact": "tables/semantic_losses_13.tex",
+    "char_offset": 971,
+    "token": "4"
+  },
+  {
+    "value": 95.0,
+    "artifact": "tables/semantic_sensitivity.tex",
+    "char_offset": 301,
+    "token": "95"
+  },
+  {
+    "value": 55.69,
+    "artifact": "tables/semantic_sensitivity.tex",
+    "char_offset": 333,
+    "token": "+55.69"
+  },
+  {
+    "value": 51.16,
+    "artifact": "tables/semantic_sensitivity.tex",
+    "char_offset": 345,
+    "token": "51.16"
+  },
+  {
+    "value": 60.19,
+    "artifact": "tables/semantic_sensitivity.tex",
+    "char_offset": 351,
+    "token": "60.19"
+  },
+  {
+    "value": -3.39,
+    "artifact": "tables/semantic_sensitivity.tex",
+    "char_offset": 369,
+    "token": "-3.39"
+  },
+  {
+    "value": -5.15,
+    "artifact": "tables/semantic_sensitivity.tex",
+    "char_offset": 380,
+    "token": "-5.15"
+  },
+  {
+    "value": -1.3,
+    "artifact": "tables/semantic_sensitivity.tex",
+    "char_offset": 386,
+    "token": "-1.30"
+  }
+]

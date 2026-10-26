@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "return_code": 0,
+  "outputs_byte_identical": true,
+  "outputs_sha256": {
+    "consensus_receipt.json": "d5ae30998e4dbaf6ef588b42235282c77164f60e0300aad931872a24911a6944",
+    "consensus_summary.json": "68a945817389a5e39114ff1bdbbc83bf064c041bf34a5dbef5025c81942e2146",
+    "consensus_fixed_model_means.json": "69bb9e3031499e5bd7345da1fc5ba79edb152b687792d5305e58ff85ef3fcf29",
+    "consensus_score_bounds.jsonl": "72d68987e53b8a8400715b75f357dfb0eb614cb655bd28a4580e9c77ae43951f"
+  },
+  "model_calls": 0
+}

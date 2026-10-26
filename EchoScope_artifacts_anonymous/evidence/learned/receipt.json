@@ -1,0 +1,63 @@
+{
+  "status": "COMPLETE_CPU_LEARNED_BRANCH_ANALYSIS",
+  "models": [
+    "qwen35",
+    "ministral3",
+    "gemma3_4b"
+  ],
+  "conditions": [
+    "N",
+    "A_exact"
+  ],
+  "methods": [
+    "SourceFit",
+    "F1S1",
+    "GroupVote"
+  ],
+  "calibration_sizes": [
+    13,
+    26
+  ],
+  "fixed_test_events": 34,
+  "learned_fits": 24,
+  "control_cells_without_fitting": 12,
+  "summary_cells": 36,
+  "test_prediction_rows": 1224,
+  "calibration_count_records_matched": 540,
+  "raw_source_observation_bindings": 1524,
+  "unique_source_requests_audited": 582,
+  "unique_format_failures_in_learned_source_requests": 0,
+  "fit_max_iter": 100,
+  "fit_tol": 1e-20,
+  "main_readout": "R0 legacy stable top4; first encountered maximal raw string",
+  "diagnostic_readout": "R2 all source weights; uniform expected EM over final raw-string ties within 1e-12",
+  "weights": "n_sources * reliability - 1, negative allowed; zero eligible source reliability=0",
+  "GroupVote": "No fitting: every natural publisher singleton weight1, each of four same-constructed-origin copy slots weight1/4; same R0/R2 readout",
+  "all_learned_fits_converged": true,
+  "max_iterations_observed": 3,
+  "default20_parity_all_weights_equal": true,
+  "default20_parity_total_prediction_differences": 0,
+  "default20_parity_total_score_differences": 0,
+  "bootstrap": "20000 paired event draws, seed20261021 inherited from frozen G7 statistical protocol; no extra p-values",
+  "contrasts": 160,
+  "source_coverage_warnings": 134,
+  "new_main_generations": 0,
+  "new_auxiliary_inference": 0,
+  "envleaked_directories_used": false,
+  "gold_used_in_fitting": false,
+  "aliases_modified": false,
+  "numpy_version": "1.26.4",
+  "python_version": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "full_return_validation_receipt": "b78654bcb2fec438ce176b7604efde354ad042a3fbb7fd7677571a30263e6851",
+  "fit_protocol_sha256": "dc798ceb9e887b4507376d61ed1425077c722d56bae229543dd2869269f7b813",
+  "derived_matrix_sha256": "563fa8f1eb052897ed3370413745d50cf7d4b02231d3f91a129fe3cf07811ef0",
+  "partition_sha256": "7f92dcd79bcaabf999b40e2a07666d93c5d9ef0048af1cf07409897895153012",
+  "limitations": [
+    "Descriptive learned-branch analysis; fixed calibration samples are not resampled or selected using test outcomes.",
+    "Only N/A_exact; no learned-branch wrong-paraphrase or correct-repeat experiment.",
+    "Sparse calibration and filtering may yield zero effective observations even for text-covered test publishers.",
+    "Natural origins remain unknown; GroupVote is a construction-conditioned control, not verified natural-source independence.",
+    "EM uses frozen aliases and surface normalization only; semantic answer validity requires a separately bound evaluation.",
+    "Current auxiliary outputs only; abandoned envleaked caches are excluded."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "status": "FORMAT_AND_BINDING_PASS",
+  "cards": 52,
+  "errors": [],
+  "semantic_truth_certified": false,
+  "aliases_modified": false,
+  "model_calls": 0,
+  "agreed": 50,
+  "disputed": 2,
+  "ambiguous": 0
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "n_facts": 60,
+    "n_clusters": 60,
+    "effect": 0.4611111111111111,
+    "ci95_marginal": [
+      0.36666666666666664,
+      0.55
+    ],
+    "raw_p": 9.99990000099999e-06,
+    "p_method": "event_signflip_monte_carlo",
+    "signflip_count": 100000,
+    "interpretation": "Frozen lexical expected EM; 60 declared event units, three fixed models averaged within event; marginal percentile CI. Event independence and sign exchangeability are assumptions. Secondary results descriptive only.",
+    "id": "H1",
+    "left": "N/vanilla",
+    "right": "A_para/vanilla",
+    "primary": true,
+    "per_model_effect": {
+      "qwen35": 0.5166666666666667,
+      "ministral3": 0.25,
+      "gemma3_4b": 0.6166666666666667
+    },
+    "holm_p_two_tests": 1.999980000199998e-05,
+    "n_events": 60
+  },
+  {
+    "n_facts": 60,
+    "n_clusters": 60,
+    "effect": 0.5157407407407407,
+    "ci95_marginal": [
+      0.4444444444444444,
+      0.5888888888888889
+    ],
+    "raw_p": 9.99990000099999e-06,
+    "p_method": "event_signflip_monte_carlo",
+    "signflip_count": 100000,
+    "interpretation": "Frozen lexical expected EM; 60 declared event units, three fixed models averaged within event; marginal percentile CI. Event independence and sign exchangeability are assumptions. Secondary results descriptive only.",
+    "id": "H2",
+    "left": "A_para/semantic_0.90",
+    "right": "A_para/exact_text",
+    "primary": true,
+    "per_model_effect": {
+      "qwen35": 0.675,
+      "ministral3": 0.48333333333333334,
+      "gemma3_4b": 0.3888888888888889
+    },
+    "holm_p_two_tests": 1.999980000199998e-05,
+    "n_events": 60
+  },
+  {
+    "n_events": 60,
+    "effect": 0.6953703703703703,
+    "ci95_marginal": [
+      0.6407291666666667,
+      0.75
+    ],
+    "id": "S1",
+    "left": "A_exact/exact_text",
+    "right": "A_exact/no_graph",
+    "primary": false,
+    "per_model_effect": {
+      "qwen35": 0.851388888888889,
+      "ministral3": 0.725,
+      "gemma3_4b": 0.5097222222222222
+    },
+    "interpretation": "Frozen lexical expected EM; 60 declared event units, three fixed models averaged within event; marginal percentile CI. Event independence and sign exchangeability are assumptions. Secondary results descriptive only."
+  },
+  {
+    "n_events": 60,
+    "effect": -0.04351851851851852,
+    "ci95_marginal": [
+      -0.06944444444444443,
+      -0.02037037037037037
+    ],
+    "id": "S2",
+    "left": "B_para/semantic_0.90",
+    "right": "B_para/exact_text",
+    "primary": false,
+    "per_model_effect": {
+      "qwen35": -0.025,
+      "ministral3": 0.0,
+      "gemma3_4b": -0.10555555555555557
+    },
+    "interpretation": "Frozen lexical expected EM; 60 declared event units, three fixed models averaged within event; marginal percentile CI. Event independence and sign exchangeability are assumptions. Secondary results descriptive only."
+  }
+]

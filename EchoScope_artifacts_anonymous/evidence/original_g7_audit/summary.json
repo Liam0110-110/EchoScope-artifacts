@@ -1,0 +1,241 @@
+{
+  "status": "PASS_WITH_DISCLOSURES",
+  "blockers": [],
+  "check_counts": {
+    "current_code_freeze": 80,
+    "input_freeze": 9,
+    "prior_material_identity": 4,
+    "rebuild_tasks_references": 1,
+    "planned_task_counts": 1,
+    "task_stage_counts": 1,
+    "preflight_digest": 3,
+    "preflight_rendered_count": 3,
+    "complete_task_ids": 3,
+    "request_hash": 2580,
+    "record_hash": 2580,
+    "completion_cache_hash": 2562,
+    "request_task_binding": 2580,
+    "runtime_identity": 2580,
+    "runtime_preflight_identity": 2580,
+    "runtime_freeze": 2580,
+    "hardware_identity": 2580,
+    "parser_identity": 2580,
+    "historical_model_asset_identity": 2580,
+    "historical_main_env": 12900,
+    "attempt_budget": 2580,
+    "completed_state": 2580,
+    "reparse_output": 2580,
+    "format_retry_sequence": 2580,
+    "rendered_token_identity": 2580,
+    "output_token_count": 2580,
+    "no_input_overflow": 2580,
+    "old_dev_valid": 18,
+    "format_failure_accounting": 3,
+    "aux_freeze": 38,
+    "aux_success_status": 621,
+    "aux_request_hash": 621,
+    "aux_output_hash": 621,
+    "aux_input_binding": 621,
+    "active_aux_environment": 621,
+    "active_aux_freeze": 621,
+    "aux_protocol": 621,
+    "aux_assets_consistent": 621,
+    "aux_unique_input": 621,
+    "aux_complete_ids": 3,
+    "aux_model_lock": 2,
+    "aux_support_parent": 1,
+    "rebuild_aux_observations": 1,
+    "rebuild_qa2d_inputs": 1,
+    "rebuild_support_inputs": 1,
+    "rebuild_filtered_rows": 1,
+    "rebuild_nli_pairs": 1,
+    "nli_parent_filtered": 1,
+    "nli_active_parent_cache": 421,
+    "rebuild_derived360": 1,
+    "rebuild_calibration_coverage": 1,
+    "active_aux_completion_file": 670,
+    "aux_counts": 1,
+    "embedding_hash": 614,
+    "embedding_text_binding": 614,
+    "finite_vector": 614,
+    "embedding_coverage": 1,
+    "embedding_prior_asset_identity": 1,
+    "embedding_identity": 1,
+    "rebuild_embedding_groups240": 1,
+    "qa2d_render_binding": 171,
+    "qa2d_declaration": 171,
+    "qa2d_generation_contract": 171,
+    "active_qa2d_support_parent": 250,
+    "support_threshold": 250,
+    "nli_render_binding": 200,
+    "nli_numeric_contract": 200,
+    "prior_G6_aux_asset_manifest": 1
+  },
+  "main": {
+    "qwen35": {
+      "requests": 854,
+      "generation_attempts": 854,
+      "format_failures": 0,
+      "technical_errors": 0,
+      "source_format_failures": 0,
+      "vanilla_format_failures": 0,
+      "old_dev": 6
+    },
+    "ministral3": {
+      "requests": 854,
+      "generation_attempts": 854,
+      "format_failures": 0,
+      "technical_errors": 0,
+      "source_format_failures": 0,
+      "vanilla_format_failures": 0,
+      "old_dev": 6
+    },
+    "gemma3_4b": {
+      "requests": 854,
+      "generation_attempts": 854,
+      "format_failures": 0,
+      "technical_errors": 0,
+      "source_format_failures": 0,
+      "vanilla_format_failures": 0,
+      "old_dev": 6
+    }
+  },
+  "auxiliary": {
+    "qa2d": {
+      "inputs": 171,
+      "successes": 171,
+      "environment_sha256": "1a29316e1a819a633ca2bba700cffc914145b566dc564a0f447e96f7c2628f8e",
+      "packages": {
+        "transformers": "4.55.0",
+        "numpy": "1.26.4",
+        "scipy": "1.15.3",
+        "pytorch-lightning": "2.5.1",
+        "torchmetrics": "1.7.1",
+        "nltk": "3.9.1",
+        "sentencepiece": "0.2.0",
+        "safetensors": "0.5.3"
+      }
+    },
+    "support": {
+      "inputs": 250,
+      "successes": 250,
+      "environment_sha256": "1a29316e1a819a633ca2bba700cffc914145b566dc564a0f447e96f7c2628f8e",
+      "packages": {
+        "transformers": "4.55.0",
+        "numpy": "1.26.4",
+        "scipy": "1.15.3",
+        "pytorch-lightning": "2.5.1",
+        "torchmetrics": "1.7.1",
+        "nltk": "3.9.1",
+        "sentencepiece": "0.2.0",
+        "safetensors": "0.5.3"
+      }
+    },
+    "nli": {
+      "inputs": 200,
+      "successes": 200,
+      "environment_sha256": "1a29316e1a819a633ca2bba700cffc914145b566dc564a0f447e96f7c2628f8e",
+      "packages": {
+        "transformers": "4.55.0",
+        "numpy": "1.26.4",
+        "scipy": "1.15.3",
+        "pytorch-lightning": "2.5.1",
+        "torchmetrics": "1.7.1",
+        "nltk": "3.9.1",
+        "sentencepiece": "0.2.0",
+        "safetensors": "0.5.3"
+      }
+    }
+  },
+  "derived_rows": 360,
+  "source_observations": 1524,
+  "calibration_coverage_rows": 540,
+  "embedding_vectors": 614,
+  "embedding_group_rows": 240,
+  "code_and_environment_notes": [
+    {
+      "code_change_from_prior": [
+        "g7.py"
+      ],
+      "interpretation": "g7.py only: include SYSTEM_PROMPT.txt in config identity scan; current run freeze binds modified code. No generation/scoring algorithm edit in diff."
+    }
+  ],
+  "active_aux_asset_manifest_hashes": [
+    "d1b0bebb00c8fad96ee958e202ad253cdb9ac3e8bbc82a8055f69157804251fd"
+  ],
+  "archived_failed_rounds": {
+    "aux_support.envleaked_1132": {
+      "cache_files": 421,
+      "environment_keys": [
+        "89b920473b09c7f67aaeb0e111f285b4342d7096ee1de3091afb3e7db9c0267e",
+        "89b920473b09c7f67aaeb0e111f285b4342d7096ee1de3091afb3e7db9c0267e"
+      ],
+      "referenced_in_active_completion": false
+    },
+    "aux_nli.envleaked_1132": {
+      "cache_files": 0,
+      "environment_keys": [
+        "89b920473b09c7f67aaeb0e111f285b4342d7096ee1de3091afb3e7db9c0267e"
+      ],
+      "referenced_in_active_completion": false
+    }
+  },
+  "details": {
+    "embedded_original_package_manifest_differences": [
+      {
+        "path": "aux_template/vendor/punkt_tab.zip",
+        "exists": false,
+        "expected": "e57f64187974277726a3417ca6f181ec5403676c717672eef6a748a7b20e0106",
+        "actual": null
+      },
+      {
+        "path": "g7.py",
+        "exists": true,
+        "expected": "0cb7b3ea3fb9ae762588b01750fa7b1885eda5ae24cddc99f6b656802eafe62f",
+        "actual": "9fd139138edca4664e35cab7965ed6c75aaa037b0640af4c100720a409dc399a"
+      },
+      {
+        "path": "inputs/materials_60_FROZEN.jsonl",
+        "exists": false,
+        "expected": "13f1a8e3beca6b08a6930e715745edb663dc3253fa595a7186b4af20cd99c64f",
+        "actual": null
+      },
+      {
+        "path": "inputs/old_exposure.jsonl",
+        "exists": false,
+        "expected": "2e9f534a1086f1f423f2fdea5d5fbdbfc44de60518aab53019e9fe822bb47e5f",
+        "actual": null
+      },
+      {
+        "path": "inputs/references_FROZEN.jsonl",
+        "exists": false,
+        "expected": "a46a8cbbf28085f1667b3dfe2ada3358cb3c4dfca68160d345ddab3b24534a4d",
+        "actual": null
+      },
+      {
+        "path": "inputs/tasks_FROZEN.jsonl",
+        "exists": false,
+        "expected": "fdc97656a31a4e7b4d9cdacd5a82f9dcc8dd5f75475fa038344b1a76df7d5398",
+        "actual": null
+      },
+      {
+        "path": "tests/test_execution.py",
+        "exists": false,
+        "expected": "3394b1bd6b2c62614b5e36731ed2c7f97cfd745f90a9a5bfb2e8f0e1b114ca54",
+        "actual": null
+      }
+    ],
+    "active_nli_error_log": {
+      "records": 28,
+      "exceptions": {
+        "UnicodeEncodeError": 28
+      },
+      "resolved_input_ids": 28
+    }
+  },
+  "limitations": [
+    "Physical model weight/tokenizer binaries and aux asset_manifest.json are not included; verify returned runtime asset hashes against frozen identity, not independent rehash of remote disks.",
+    "Embedding outputs replayed and regrouped; no fresh neural inference performed.",
+    "Raw generation parsing and token/count bindings checked; tokenizer decode cannot be recomputed without omitted tokenizer assets."
+  ]
+}

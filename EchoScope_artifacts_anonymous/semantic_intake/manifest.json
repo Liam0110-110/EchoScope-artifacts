@@ -1,0 +1,11 @@
+{
+  "review_pairs": 52,
+  "question_count": 32,
+  "covers": "Union of all selected/tied winners from fixed2880 plus learned R0/R2 predictions1224",
+  "new_learning_only_pairs": 0,
+  "codebook_sha256": "78d6587e08d6219396e2ae32942899017553185f8e7c79d60dfe39ff58ffff10",
+  "automatic_pairs": 153,
+  "aliases_changed": false,
+  "new_model_calls": 0,
+  "no_model_or_condition_in_reviewer_cards": true
+}

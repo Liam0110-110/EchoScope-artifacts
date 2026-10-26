@@ -1,0 +1,163 @@
+{
+  "status": "PASS",
+  "checked_data_cells": 61,
+  "rows": [
+    {
+      "table": "g7_fixed",
+      "row": "N",
+      "values": [
+        90.56,
+        81.39,
+        81.39,
+        82.13
+      ]
+    },
+    {
+      "table": "g7_fixed",
+      "row": "A_exact",
+      "values": [
+        51.67,
+        1.67,
+        71.2,
+        53.24
+      ]
+    },
+    {
+      "table": "g7_fixed",
+      "row": "A_para",
+      "values": [
+        44.44,
+        1.67,
+        1.67,
+        53.24
+      ]
+    },
+    {
+      "table": "g7_fixed",
+      "row": "B_para",
+      "values": [
+        100.0,
+        97.22,
+        97.22,
+        92.87
+      ]
+    },
+    {
+      "table": "g7_learned",
+      "row": [
+        "qwen35",
+        13
+      ],
+      "values": [
+        94.12,
+        0.0,
+        79.41,
+        0.0,
+        91.18,
+        91.18
+      ]
+    },
+    {
+      "table": "g7_learned",
+      "row": [
+        "qwen35",
+        26
+      ],
+      "values": [
+        94.12,
+        0.0,
+        79.41,
+        0.0,
+        91.18,
+        91.18
+      ]
+    },
+    {
+      "table": "g7_learned",
+      "row": [
+        "ministral3",
+        13
+      ],
+      "values": [
+        91.18,
+        0.0,
+        73.53,
+        0.0,
+        88.24,
+        88.24
+      ]
+    },
+    {
+      "table": "g7_learned",
+      "row": [
+        "ministral3",
+        26
+      ],
+      "values": [
+        91.18,
+        0.0,
+        73.53,
+        0.0,
+        88.24,
+        88.24
+      ]
+    },
+    {
+      "table": "g7_learned",
+      "row": [
+        "gemma3_4b",
+        13
+      ],
+      "values": [
+        61.76,
+        0.0,
+        47.06,
+        0.0,
+        61.76,
+        61.76
+      ]
+    },
+    {
+      "table": "g7_learned",
+      "row": [
+        "gemma3_4b",
+        26
+      ],
+      "values": [
+        64.71,
+        0.0,
+        47.06,
+        0.0,
+        61.76,
+        61.76
+      ]
+    },
+    {
+      "table": "g7_semantic",
+      "row": "H1",
+      "values": [
+        46.11,
+        49.44,
+        49.44
+      ]
+    },
+    {
+      "table": "g7_semantic",
+      "row": "H2",
+      "values": [
+        51.57,
+        57.78,
+        58.33
+      ]
+    },
+    {
+      "table": "g7_semantic",
+      "row": "correct_copy_cost",
+      "values": [
+        -4.35,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

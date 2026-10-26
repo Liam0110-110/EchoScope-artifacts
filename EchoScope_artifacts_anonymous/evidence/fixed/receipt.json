@@ -1,0 +1,44 @@
+{
+  "status": "LEXICAL_SCORED_SEMANTIC_SENSITIVITY_PENDING",
+  "events": 60,
+  "models": [
+    "qwen35",
+    "ministral3",
+    "gemma3_4b"
+  ],
+  "primary_requests": 2562,
+  "expected_em_rows": 2880,
+  "format_or_technical_failures": [],
+  "bootstrap": {
+    "bootstrap_seed": 20261021,
+    "bootstrap_repetitions": 20000,
+    "permutation_seed": 20261022,
+    "permutation_repetitions": 100000,
+    "exact_signflip_max_clusters": 16
+  },
+  "primary_hypotheses": [
+    "H1",
+    "H2"
+  ],
+  "unknown_semantic_candidate_pairs": 52,
+  "selected_candidate_pairs": 201,
+  "return_input_sha256": {
+    "inputs/materials.jsonl": "13f1a8e3beca6b08a6930e715745edb663dc3253fa595a7186b4af20cd99c64f",
+    "inputs/exposure.jsonl": "2e9f534a1086f1f423f2fdea5d5fbdbfc44de60518aab53019e9fe822bb47e5f",
+    "inputs/tasks.jsonl": "fdc97656a31a4e7b4d9cdacd5a82f9dcc8dd5f75475fa038344b1a76df7d5398",
+    "inputs/model_paths.json": "10b7de8ce27ff1a80e1da2f2d9c3cd5b291a8658ee2279ce1ad7ebcfd8c528ca",
+    "inputs/references.jsonl": "a46a8cbbf28085f1667b3dfe2ada3358cb3c4dfca68160d345ddab3b24534a4d",
+    "inputs/dev_tasks.jsonl": "8f34340f88caaa9591f01d975bd6f072119f60ef2eb949e5d4cb8d10fd7d09c7",
+    "inputs/source_panel.json": "5570d94a815a1de908de5a477aabfda3058bbfafc132921574e0311e5e64e3e8",
+    "material_gate/frozen_partition.json": "7f92dcd79bcaabf999b40e2a07666d93c5d9ef0048af1cf07409897895153012",
+    "material_gate/material_gate.json": "badc2ee7d5631fe9227f7fa31111582954fcf214a0e47f79f65690feb11789b8"
+  },
+  "scoring_sources": {
+    "r16_v12_graphs.py": "c9e86c12e85091b26933909de047dfc63f8ff33be19301cf411dc739289c599b",
+    "r16_core.py": "138376f71f5a6bdbb9f817651e686bb959b9badead470189c1028c07f9e918e2",
+    "source_contract.py": "7e32c24e6cb9f26eacb97160a1a2af8537ba1fc5d50d76d0cba78ac753175127",
+    "analyze_primary.py": "e01c71b7500ba311601ae471f8d0e1ed90f9354ac9f05d7a59be339341626778"
+  },
+  "no_new_model_calls": true,
+  "no_alias_changes": true
+}

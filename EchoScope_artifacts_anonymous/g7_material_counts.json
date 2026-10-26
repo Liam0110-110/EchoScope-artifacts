@@ -1,0 +1,11 @@
+{
+  "source": "/users/[redacted]/Documents/Codex/2026-10-21/yi-s/outputs/ELB_G7_完整GPU执行包_材料已冻结_20261022/inputs/materials_60_FROZEN.jsonl",
+  "sha256": "13f1a8e3beca6b08a6930e715745edb663dc3253fa595a7186b4af20cd99c64f",
+  "events": 60,
+  "texts": 134,
+  "publishers": 43,
+  "origin_relations": {
+    "unknown": 134
+  },
+  "scope": "Frozen material counts, not model outcomes."
+}

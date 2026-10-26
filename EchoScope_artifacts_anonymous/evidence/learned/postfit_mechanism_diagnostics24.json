@@ -1,0 +1,386 @@
+[
+  {
+    "fit_id": "qwen35|N|cal13|SourceFit",
+    "first_update": {
+      "rows": 11,
+      "provisional_EM_correct": 10,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 11,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "qwen35|N|cal13|F1S1",
+    "first_update": {
+      "rows": 12,
+      "provisional_EM_correct": 9,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 9,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 1
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "qwen35|N|cal26|SourceFit",
+    "first_update": {
+      "rows": 24,
+      "provisional_EM_correct": 23,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 24,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "qwen35|N|cal26|F1S1",
+    "first_update": {
+      "rows": 22,
+      "provisional_EM_correct": 19,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 19,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 4
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "qwen35|A_exact|cal13|SourceFit",
+    "first_update": {
+      "rows": 11,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 11,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 13,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "qwen35|A_exact|cal13|F1S1",
+    "first_update": {
+      "rows": 11,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 11,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 13,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "qwen35|A_exact|cal26|SourceFit",
+    "first_update": {
+      "rows": 24,
+      "provisional_EM_correct": 1,
+      "provisional_wrong_entity_string_matches": 23,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 1,
+      "provisional_wrong_entity_string_matches": 25,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "qwen35|A_exact|cal26|F1S1",
+    "first_update": {
+      "rows": 24,
+      "provisional_EM_correct": 1,
+      "provisional_wrong_entity_string_matches": 23,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 1,
+      "provisional_wrong_entity_string_matches": 25,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "ministral3|N|cal13|SourceFit",
+    "first_update": {
+      "rows": 11,
+      "provisional_EM_correct": 11,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 12,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "ministral3|N|cal13|F1S1",
+    "first_update": {
+      "rows": 11,
+      "provisional_EM_correct": 11,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 11,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 2
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "ministral3|N|cal26|SourceFit",
+    "first_update": {
+      "rows": 23,
+      "provisional_EM_correct": 23,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 25,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "ministral3|N|cal26|F1S1",
+    "first_update": {
+      "rows": 21,
+      "provisional_EM_correct": 21,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 21,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 5
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "ministral3|A_exact|cal13|SourceFit",
+    "first_update": {
+      "rows": 12,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 12,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 13,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "ministral3|A_exact|cal13|F1S1",
+    "first_update": {
+      "rows": 12,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 12,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 13,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "ministral3|A_exact|cal26|SourceFit",
+    "first_update": {
+      "rows": 25,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 25,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 26,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "ministral3|A_exact|cal26|F1S1",
+    "first_update": {
+      "rows": 25,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 25,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 26,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "gemma3_4b|N|cal13|SourceFit",
+    "first_update": {
+      "rows": 9,
+      "provisional_EM_correct": 5,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 7,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "gemma3_4b|N|cal13|F1S1",
+    "first_update": {
+      "rows": 12,
+      "provisional_EM_correct": 6,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 6,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 1
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "gemma3_4b|N|cal26|SourceFit",
+    "first_update": {
+      "rows": 21,
+      "provisional_EM_correct": 13,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 16,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "gemma3_4b|N|cal26|F1S1",
+    "first_update": {
+      "rows": 22,
+      "provisional_EM_correct": 12,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 12,
+      "provisional_wrong_entity_string_matches": 0,
+      "provisional_IDK": 4
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "gemma3_4b|A_exact|cal13|SourceFit",
+    "first_update": {
+      "rows": 12,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 11,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 12,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "gemma3_4b|A_exact|cal13|F1S1",
+    "first_update": {
+      "rows": 12,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 11,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 13,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 12,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "gemma3_4b|A_exact|cal26|SourceFit",
+    "first_update": {
+      "rows": 25,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 23,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 24,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  },
+  {
+    "fit_id": "gemma3_4b|A_exact|cal26|F1S1",
+    "first_update": {
+      "rows": 25,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 23,
+      "provisional_IDK": 0
+    },
+    "last_update": {
+      "rows": 26,
+      "provisional_EM_correct": 0,
+      "provisional_wrong_entity_string_matches": 24,
+      "provisional_IDK": 0
+    },
+    "interpretation": "Gold and wrong entities joined after all fitted trajectories were fixed. String matches do not substitute for semantic review."
+  }
+]

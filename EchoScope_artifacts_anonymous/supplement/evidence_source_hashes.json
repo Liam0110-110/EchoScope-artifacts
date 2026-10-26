@@ -1,0 +1,34 @@
+[
+  {
+    "source": "ELB_supplement_execution/cpu/results/summaries.jsonl",
+    "sha256": "89d956fc47c038bd5ef8b7a6e4c833918350ec63d637b05dbf14263d685f404d"
+  },
+  {
+    "source": "ELB_supplement_execution/cpu/results/contrasts.json",
+    "sha256": "4fbc8c888647b1ad51a06263582c4e44e178c760db8acb283dc011993d52b2eb"
+  },
+  {
+    "source": "ELB_supplement_execution/cpu/results/dose_summary.json",
+    "sha256": "ead5e6aea00c0a4186a59e99745d21f118a16dfae02e42fc8c588ff5b8cc4b33"
+  },
+  {
+    "source": "ELB_supplement_execution/cpu/E3/results/condition_summary.json",
+    "sha256": "e99eaaa370e3722c6564b9d7dc97ef8eabc7ba7baa299d1ff98b0ae0d96843e2"
+  },
+  {
+    "source": "ELB_supplement_execution/cpu/E3/results/contrasts.json",
+    "sha256": "60db97dda27b9375abef07750a7ce510ec56b9029402fa44d82d51baa2c8f775"
+  },
+  {
+    "source": "ELB_supplement_execution/cpu/E3/results/mixed_correctness_classes.jsonl",
+    "sha256": "d406b96bd01513a67fa081511f074efd23384dec9dc9cb75e83fd10c8092cfcb"
+  },
+  {
+    "source": "ELB_supplement_execution/cpu/E3/protocol/protocol.json",
+    "sha256": "8ba514d224afca865089af5a19d9a4fe3947fd519270b737dddf12c680003d79"
+  },
+  {
+    "source": "ELB_supplement_execution/cpu/E3/adjudication_closure/closure_receipt.json",
+    "sha256": "fa15d2eca829c90821ef8eed4e4b37280b8651e873704b5e52dce6eee620eb63"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "scope": "Minimal author-requested integration, not a new full literature/venue audit",
+  "engine": "pdfTeX 3.141592653-2.6-1.40.29 (TeX Live 2026)",
+  "class": "acmart v2.20, unchanged from v6.8",
+  "executed": true,
+  "exit_code": 0,
+  "commands": [
+    "pdflatex -interaction=nonstopmode -halt-on-error main.tex",
+    "bibtex main",
+    "pdflatex -interaction=nonstopmode -halt-on-error main.tex",
+    "pdflatex -interaction=nonstopmode -halt-on-error main.tex"
+  ],
+  "pdf_sha256": "88a500d617d82191c278bc8be2a0aa3dbfbcc8cde8a12d3c217a1627311833f4",
+  "recorded_build_input_sha256": "ffdedf1a08c14d573547bf6baf2f10fec5c08821102cb7dbbeca00c84cd17fb9",
+  "main_pages": 8,
+  "total_pages": 12,
+  "visual_review": "all 12 pages at 1600 px; revised figures inspected separately",
+  "figure_font_embedding": "all fonts in figure 2/3 PDFs embedded",
+  "no_overfull_boxes": true,
+  "no_undefined_references": true,
+  "existing_notices": [
+    "unused global balance=false option",
+    "ACM reference-format notice",
+    "7 optional/missing bibliography-field notices; bibliography unchanged"
+  ]
+}
