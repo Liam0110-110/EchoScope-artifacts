@@ -1,0 +1,31 @@
+{
+  "r2_source_bytes_unchanged": true,
+  "private_identifier_pattern_findings": [],
+  "natural_qa_whitelisted_field_sets": {
+    "public": [
+      "id",
+      "split",
+      "question",
+      "answer",
+      "evidence",
+      "source_group_id",
+      "answer_source"
+    ],
+    "gold": [
+      "id",
+      "support_gold",
+      "answer_type",
+      "relevance_gold"
+    ],
+    "raw": [
+      "id",
+      "method",
+      "raw_text",
+      "finish_reason",
+      "status",
+      "source_raw_sha256"
+    ]
+  },
+  "public_factual_names_urls_and_corpus_license_retained": true,
+  "scope": "Structural whitelisting plus scan for private home paths, account identity, GPU UUIDs and private reviewer/machine metadata keys; no alteration of experimental text."
+}

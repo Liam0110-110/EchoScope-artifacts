@@ -1,0 +1,53 @@
+{
+  "sessions": [
+    {
+      "model": "gemma3_4b",
+      "started_at": "2026-10-22T17:33:03.708993+00:00",
+      "ended_at": "2026-10-22T18:34:32.814165+00:00",
+      "allocated_gpus": 1,
+      "wall_seconds": 3689.105172,
+      "charged_card_seconds": 3689.1051767049357,
+      "card_hours": 1.0247514379735934,
+      "wall_clock_vs_monotonic_difference_seconds": -4.704935690824641e-06,
+      "exit_code": 0
+    },
+    {
+      "model": "qwen35",
+      "started_at": "2026-10-22T18:34:39.577606+00:00",
+      "ended_at": "2026-10-22T19:56:45.883913+00:00",
+      "allocated_gpus": 1,
+      "wall_seconds": 4926.306307,
+      "charged_card_seconds": 4926.306308944244,
+      "card_hours": 1.3684184191511788,
+      "wall_clock_vs_monotonic_difference_seconds": -1.9442441043793224e-06,
+      "exit_code": 0
+    },
+    {
+      "model": "qwen35_27b",
+      "started_at": "2026-10-23T07:02:25.755395+00:00",
+      "ended_at": "2026-10-23T09:49:46.339729+00:00",
+      "allocated_gpus": 3,
+      "wall_seconds": 10040.584334,
+      "charged_card_seconds": 30121.75300620077,
+      "card_hours": 8.367153612833548,
+      "wall_clock_vs_monotonic_difference_seconds": -4.200774128548801e-06,
+      "exit_code": 0
+    },
+    {
+      "model": "ministral3",
+      "started_at": "2026-10-23T09:49:46.968336+00:00",
+      "ended_at": "2026-10-23T12:08:09.954739+00:00",
+      "allocated_gpus": 2,
+      "wall_seconds": 8302.986403,
+      "charged_card_seconds": 16605.972655064426,
+      "card_hours": 4.612770181962341,
+      "wall_clock_vs_monotonic_difference_seconds": 0.00015093557522050105,
+      "exit_code": 0
+    }
+  ],
+  "logged_supervisor_card_hours": 15.37309365192066,
+  "reported_extra_card_seconds": 7,
+  "estimated_export_card_hours": 0.04,
+  "other_unquantified_transitions": "Reported as second-scale; no exact allocations/timestamps provided. Not silently set to zero.",
+  "interpretation": "Original ledger is retained unmodified. 15.3731 is supervised time, not all-inclusive actual cost. Approximately 15.42 adds the reported 7 seconds and approximate 0.04 export tail, before any other unquantified second-scale allocation. No scheduler bill or allocation trace supplied."
+}

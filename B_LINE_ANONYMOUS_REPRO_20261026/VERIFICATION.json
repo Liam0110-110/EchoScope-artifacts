@@ -1,0 +1,19 @@
+{
+  "schema": "ANONYMOUS_OUTPUT_REPRO_VERIFICATION_V1",
+  "r2_original_replay": "PASS",
+  "natural_qa_dual_contract_replay": "PASS",
+  "natural_qa_models": 4,
+  "natural_qa_source_groups": 100,
+  "natural_qa_raw_outputs": 1600,
+  "natural_qa_views": [
+    "strict",
+    "lpc3"
+  ],
+  "r2_original_bytes_preserved": true,
+  "new_inference_calls": 0,
+  "natural_qa_bootstrap_replicates": 10000,
+  "natural_qa_bootstrap_seed": 20261026,
+  "r2_bootstrap_replicates": 10000,
+  "r2_bootstrap_seed": 20261022,
+  "comparison": "All released natural-QA aggregate fields reproduce the accepted four-deployment report within 1e-12 numeric tolerance; raw parser strings and statuses are unchanged."
+}

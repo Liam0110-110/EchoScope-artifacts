@@ -1,0 +1,18 @@
+{
+  "schema": "ANONYMOUS_NQA_MANIFEST_V1",
+  "files": {
+    "RAGTRUTH_LICENSE.txt": "b7fd7d6bdfe0cbba63c63a310914beb4a4acb8bf08da73849219f45385f5b244",
+    "SOURCE_HASHES.json": "a3a6679ea5adbec25b4b42903a023ded6be45806e53d2f152da2f461df01076f",
+    "contract.py": "8d0eb6e212661b41b8980f16f76646db64cf8b48f625dfa55d80390be580d056",
+    "data/gemma3_4b.raw.jsonl": "7ade4c2fea9e978172a4108d84662e26dbfe66cfd8cb71dc112140a3dd743e99",
+    "data/gold.jsonl": "25e379439afdbfc2f5ce5128e99b934eb960d4f5e34e4b52b2a7e8114e764d85",
+    "data/ministral3.raw.jsonl": "b58d435171d21bb75cd518a5dee5a461f4be190fda425e489c93fbb5c8f659c6",
+    "data/qwen35.raw.jsonl": "88dcc45575642d7b579a781429683e2d862910e44819c42373e6cb007508e6ac",
+    "data/qwen35_27b.raw.jsonl": "47ef7d4a3e9dc3026f2456287e682476958e32814143f47dcb7e3fbc5548c180",
+    "data/test.public.jsonl": "ba43c7f313d9cb088936195e761bbd1fef599a8dc402b63c22eecf6a73d9dd2c",
+    "expected_results.json": "3c8e9ece824d89364487aea1c6bfff86f62abebc20e6506865b74a1aa9243e04",
+    "reproduce.py": "ac71ba97f811a465a3753a43d90f7d3097515b936610f2488ab735a8208d8fc5",
+    "score_views.py": "126dde84ef4d736ead1f183448b604eae0e02c3881314a39f7e59be695563743",
+    "statistical_core.py": "0e46c9849a0183da541a34cf9fe4117cb5b004b214139db326eda89b43bd3f67"
+  }
+}

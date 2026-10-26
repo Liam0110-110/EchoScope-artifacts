@@ -1,0 +1,371 @@
+{
+  "models": {
+    "qwen35_27b": {
+      "common": {
+        "J": {
+          "complete_topics": 24,
+          "F_correct": 72,
+          "D_correct": 95,
+          "status_counts": {
+            "completed": 192
+          }
+        },
+        "SQ": {
+          "complete_topics": 25,
+          "F_correct": 73,
+          "D_correct": 95,
+          "status_counts": {
+            "completed": 191,
+            "truncated": 1
+          }
+        },
+        "NQ": {
+          "complete_topics": 0,
+          "F_correct": 96,
+          "D_correct": 36,
+          "status_counts": {
+            "completed": 192
+          }
+        },
+        "C": {
+          "complete_topics": 31,
+          "F_correct": 80,
+          "D_correct": 95,
+          "status_counts": {
+            "completed": 177,
+            "normalization_ambiguous": 15
+          }
+        },
+        "H_SQ": {
+          "complete_topics": 44,
+          "F_correct": 96,
+          "D_correct": 91,
+          "status_counts": {
+            "completed": 192
+          }
+        },
+        "H_C": {
+          "complete_topics": 43,
+          "F_correct": 95,
+          "D_correct": 91,
+          "status_counts": {
+            "completed": 191,
+            "normalization_ambiguous": 1
+          }
+        }
+      },
+      "comparison": {
+        "estimate": 0.3958333333333333,
+        "ci95": [
+          0.25,
+          0.5625
+        ],
+        "exact_two_sided_p": 6.604194641113281e-05,
+        "improved_topics": 21,
+        "harmed_topics": 2,
+        "unchanged_topics": 25
+      },
+      "process": {
+        "resolved": 177,
+        "faithful": 176,
+        "C_cells": 175,
+        "C_topics": 31,
+        "H_C_cells": 186,
+        "H_C_topics": 43
+      },
+      "hypothetical_scope_stress": {
+        "C_cells": 175,
+        "C_topics": 31,
+        "H_C_cells": 186,
+        "H_C_topics": 43
+      },
+      "router_correct": 89,
+      "full_pair_harms_vs_NQ": 0
+    },
+    "qwen35": {
+      "common": {
+        "J": {
+          "complete_topics": 22,
+          "F_correct": 70,
+          "D_correct": 95,
+          "status_counts": {
+            "completed": 192
+          }
+        },
+        "SQ": {
+          "complete_topics": 15,
+          "F_correct": 62,
+          "D_correct": 90,
+          "status_counts": {
+            "completed": 191,
+            "truncated": 1
+          }
+        },
+        "NQ": {
+          "complete_topics": 0,
+          "F_correct": 72,
+          "D_correct": 31,
+          "status_counts": {
+            "completed": 152,
+            "invalid_format": 40
+          }
+        },
+        "C": {
+          "complete_topics": 26,
+          "F_correct": 77,
+          "D_correct": 75,
+          "status_counts": {
+            "completed": 154,
+            "invalid_format": 31,
+            "normalization_ambiguous": 6,
+            "normalization_truncated": 1
+          }
+        },
+        "H_SQ": {
+          "complete_topics": 12,
+          "F_correct": 70,
+          "D_correct": 54,
+          "status_counts": {
+            "completed": 152,
+            "invalid_format": 36,
+            "router_ambiguous": 4
+          }
+        },
+        "H_C": {
+          "complete_topics": 11,
+          "F_correct": 70,
+          "D_correct": 52,
+          "status_counts": {
+            "completed": 149,
+            "invalid_format": 39,
+            "router_ambiguous": 4
+          }
+        }
+      },
+      "comparison": {
+        "estimate": -0.0625,
+        "ci95": [
+          -0.1875,
+          0.08333333333333333
+        ],
+        "exact_two_sided_p": 0.60723876953125,
+        "improved_topics": 6,
+        "harmed_topics": 9,
+        "unchanged_topics": 33
+      },
+      "process": {
+        "resolved": 185,
+        "faithful": 185,
+        "C_cells": 152,
+        "C_topics": 26,
+        "H_C_cells": 122,
+        "H_C_topics": 11
+      },
+      "hypothetical_scope_stress": {
+        "C_cells": 152,
+        "C_topics": 26,
+        "H_C_cells": 122,
+        "H_C_topics": 11
+      },
+      "router_correct": 59,
+      "full_pair_harms_vs_NQ": 1
+    },
+    "ministral3": {
+      "common": {
+        "J": {
+          "complete_topics": 5,
+          "F_correct": 45,
+          "D_correct": 74,
+          "status_counts": {
+            "completed": 135,
+            "invalid_format": 57
+          }
+        },
+        "SQ": {
+          "complete_topics": 0,
+          "F_correct": 12,
+          "D_correct": 18,
+          "status_counts": {
+            "invalid_format": 143,
+            "truncated": 16,
+            "completed": 33
+          }
+        },
+        "NQ": {
+          "complete_topics": 0,
+          "F_correct": 96,
+          "D_correct": 48,
+          "status_counts": {
+            "completed": 192
+          }
+        },
+        "C": {
+          "complete_topics": 24,
+          "F_correct": 77,
+          "D_correct": 86,
+          "status_counts": {
+            "completed": 184,
+            "invalid_format": 4,
+            "normalization_invalid_format": 3,
+            "normalization_ambiguous": 1
+          }
+        },
+        "H_SQ": {
+          "complete_topics": 2,
+          "F_correct": 78,
+          "D_correct": 37,
+          "status_counts": {
+            "completed": 145,
+            "invalid_format": 42,
+            "truncated": 3,
+            "router_ambiguous": 2
+          }
+        },
+        "H_C": {
+          "complete_topics": 15,
+          "F_correct": 95,
+          "D_correct": 63,
+          "status_counts": {
+            "completed": 189,
+            "router_ambiguous": 2,
+            "normalization_invalid_format": 1
+          }
+        }
+      },
+      "comparison": {
+        "estimate": 0.041666666666666664,
+        "ci95": [
+          0.0,
+          0.10416666666666667
+        ],
+        "exact_two_sided_p": 0.5,
+        "improved_topics": 2,
+        "harmed_topics": 0,
+        "unchanged_topics": 46
+      },
+      "process": {
+        "resolved": 188,
+        "faithful": 164,
+        "C_cells": 148,
+        "C_topics": 16,
+        "H_C_cells": 154,
+        "H_C_topics": 12
+      },
+      "hypothetical_scope_stress": {
+        "C_cells": 146,
+        "C_topics": 14,
+        "H_C_cells": 153,
+        "H_C_topics": 12
+      },
+      "router_correct": 56,
+      "full_pair_harms_vs_NQ": 9
+    },
+    "gemma3_4b": {
+      "common": {
+        "J": {
+          "complete_topics": 2,
+          "F_correct": 51,
+          "D_correct": 58,
+          "status_counts": {
+            "completed": 189,
+            "invalid_format": 3
+          }
+        },
+        "SQ": {
+          "complete_topics": 2,
+          "F_correct": 47,
+          "D_correct": 59,
+          "status_counts": {
+            "completed": 182,
+            "invalid_format": 10
+          }
+        },
+        "NQ": {
+          "complete_topics": 0,
+          "F_correct": 64,
+          "D_correct": 48,
+          "status_counts": {
+            "completed": 192
+          }
+        },
+        "C": {
+          "complete_topics": 13,
+          "F_correct": 64,
+          "D_correct": 69,
+          "status_counts": {
+            "completed": 185,
+            "normalization_ambiguous": 7
+          }
+        },
+        "H_SQ": {
+          "complete_topics": 4,
+          "F_correct": 56,
+          "D_correct": 55,
+          "status_counts": {
+            "completed": 181,
+            "invalid_format": 5,
+            "router_ambiguous": 6
+          }
+        },
+        "H_C": {
+          "complete_topics": 7,
+          "F_correct": 61,
+          "D_correct": 60,
+          "status_counts": {
+            "completed": 182,
+            "normalization_ambiguous": 4,
+            "router_ambiguous": 6
+          }
+        }
+      },
+      "comparison": {
+        "estimate": 0.041666666666666664,
+        "ci95": [
+          -0.041666666666666664,
+          0.125
+        ],
+        "exact_two_sided_p": 0.625,
+        "improved_topics": 3,
+        "harmed_topics": 1,
+        "unchanged_topics": 44
+      },
+      "process": {
+        "resolved": 185,
+        "faithful": 172,
+        "C_cells": 128,
+        "C_topics": 10,
+        "H_C_cells": 120,
+        "H_C_topics": 7
+      },
+      "hypothetical_scope_stress": {
+        "C_cells": 126,
+        "C_topics": 10,
+        "H_C_cells": 118,
+        "H_C_topics": 7
+      },
+      "router_correct": 40,
+      "full_pair_harms_vs_NQ": 8
+    }
+  },
+  "review": {
+    "unique_cards": 497,
+    "agreement": 494,
+    "cohens_kappa": 0.958481844508799,
+    "final_counts": {
+      "changed_meaning": 36,
+      "faithful": 459,
+      "incomplete": 2
+    },
+    "unresolved_normalizations": 33
+  },
+  "cost": {
+    "physical_calls": 3565,
+    "physical_status_counts": {
+      "completed": 3289,
+      "invalid_format": 257,
+      "truncated": 19
+    },
+    "supervised_card_hours": 15.37309365192066,
+    "estimate_before_other_transitions": 15.415038096365103
+  }
+}

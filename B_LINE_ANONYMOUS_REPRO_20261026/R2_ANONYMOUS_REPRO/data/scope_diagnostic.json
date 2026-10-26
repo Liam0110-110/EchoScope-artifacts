@@ -1,0 +1,16 @@
+{
+  "status": "POST_ADJUDICATION_ANALYST_SCOPE_DIAGNOSTIC_NOT_NEW_LABELS",
+  "selection": "Read all 42 jointly faithful cards containing and/but/however/actually/though/instead/whereas; selected 9 scope-sensitive examples based on wording, before calculating this stress test. Not an exhaustive shared-error audit.",
+  "hypothetically_ineligible_card_ids": [
+    "O_a9ed60d0caf336fe9a6c",
+    "O_2dcfd03c96443f0f6336",
+    "O_d17b5dc365b9bd2cc25f",
+    "O_1ed91e8898e0ac429315",
+    "O_7c242dfd67a8d98a168d",
+    "O_360914cd03e9f25b793a",
+    "O_0ce74bb3401613dc9696",
+    "O_26d6131bf619249f0abb",
+    "O_3a131d18fc5054b816f8"
+  ],
+  "interpretation": "Selected, author-side hypothetical stress only; all actual human labels remain unchanged."
+}

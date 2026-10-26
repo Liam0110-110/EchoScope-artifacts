@@ -1,0 +1,6141 @@
+{
+  "O_c9cc919ead3974d04237": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_01",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_01",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_01",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_e4f959632b56635742ca": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_01",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_01",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_43dcda24fa991c07d0d4": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_01",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_0b62d1c7d96c35c6a08d": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_01",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_01",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a035fbbcc0a9711571ea": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_02",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_02",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_02",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_b390c812210842477b23": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_02",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_02",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_29923445fb5570c8b9dd": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_02",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_02",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_02",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1291a096a8dda4740cf4": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_02",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_02",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_02",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_25e1e4c4e79bad5a597a": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_03",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_03",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_03",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d162db5d65c37fa07f8e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_03",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_03",
+      "cell": "Dq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_03",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3b47a2296f4febe32320": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_03",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_03",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f34b72d25fbd31470f6c": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_04",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5e3eb1cd1947a981284f": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_04",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_238b73d229942b3177f0": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_04",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_04",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_04",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_5d054ecafe64f3d4b666": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_04",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_04",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_04",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_a4fbc5d2d84697f2a5d7": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_05",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_96ad54841587f1e61d20": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_05",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9f469af602b6e1c37721": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_05",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_05",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_05",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_b9a6762112633cba83f4": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_05",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_05",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_05",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_02beb51a97657f66aa53": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_06",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_29efa3a63b4ec5e9dc30": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_06",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_06",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_06",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d2ce10c46f6c13c49a19": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_06",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_06",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_6a010e0886d048943a94": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_06",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_06",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_06",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_c0bdbdc6166125accbd2": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_07",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_07",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_07",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ddd6016d09547e156170": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_07",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_07",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_07",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_48c7fc83551dcd18fbc0": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_07",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_07",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_01dab8f31b8391efbd3f": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_07",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_07",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_83298180c137fc339b40": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_08",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_08",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_ab2b98a56fcff80ab760": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_08",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_08",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3ef41bf7e692ef2c9f1f": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_08",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_08",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_08",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1648b8615b680e5dd9d7": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_08",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_08",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_08",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6f51f2f5a3204489a9bb": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_09",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_09",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_09",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_04545bcf0a50f320cd75": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_09",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_09",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_09",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_da38277f59fe9fbfa234": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_09",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_09",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_09",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_fe127dca7316d6e3af65": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_09",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_09",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_09",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7708c19d48f49a19546e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_10",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_444557fb20802ffb29ef": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_10",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_10",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_436a5eb91bb8141c9047": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_10",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_10",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_10",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_63545d6df53c40b00400": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_10",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_10",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_10",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_7084f3f10fe263c8b172": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_11",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_f91fe01ddb954e4fe675": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_11",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_11",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_11",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_92223661e3aa34803fc9": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_11",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_11",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_c85dd2dad90332961e97": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_12",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_b90d65595a905ff2b35d": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_12",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_9031ea0f48e929c3f87a": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_12",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_12",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_12",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_165106d1f5fbd621c4e0": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_12",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_12",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_12",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_6fdc0835a568d9fc3eeb": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_13",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_13",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_13",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6d8a6c00943211c1fed9": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_13",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_13",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_13",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9817297f08337604222e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_13",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_13",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_13",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e4c6041040aaec5dd2e1": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_14",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_14",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_14",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_dfaa5aeb3f40c2520191": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_14",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_14",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_14",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_92d3e1703c4ab249a00f": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_14",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_14",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_14",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_86a276a1cbe9a537b3bd": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_15",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_15",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_15",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_643d78e69cef2c684037": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_15",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_15",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_591b087860b70d9fcfc2": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_15",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_15",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1177eed66f466ddea621": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_16",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b706240de8a0fac46fea": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_16",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_286817ab515e8d0501e0": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_16",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_16",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_86238e5939347d768237": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_16",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_16",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_16",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_eda1e81bef040d27d998": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_17",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_17",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0e6bddf04a8d0f2bc197": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_17",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_17",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_888b3e71f08b09f083bd": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_17",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_17",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7016d4d4faab49a736ca": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_17",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_17",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_76141ea35b167e5191f9": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_18",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_18",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c26acae1efa72262d14c": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_18",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_18",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_4587c0597e2610b594c0": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_18",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_18",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_13291c16c5342c504ecd": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_18",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_18",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e2104d43e281c3cbcbf6": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_19",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_19",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_19",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_19",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_3404565054dfcccc9669": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_19",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_19",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_bc580febc8e278fa3364": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_19",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_19",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_19",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c04855af27da509b6d52": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_19",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_19",
+      "cell": "Dq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_19",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6b4d056f62f9fa47bfd8": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_20",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_20",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ebd2a32bf4dcf0053da2": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_20",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_20",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_77d46b3ceedf084b0c6c": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_20",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_20",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_20",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7684d68a6f322090b939": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_20",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_20",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_20",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_21768b778e07c66e4cba": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_21",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_21",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_21",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_3fa8dc3e11dd7cd92f2e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_21",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_21",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d6282986fc78f36f7c2b": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_21",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0a3fd2c381bafc2aa865": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_22",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_22",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_22",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_c25c2f091d92e5e940a3": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_22",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_22",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_22",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_52783aaf1a709a273dd7": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_22",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_22",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1d8bc9b2d069888e2a72": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_22",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_22",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5563606095fe175bcaa5": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_23",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_23",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_23",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_cc23902ec02cdfa570ea": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_23",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_23",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b6c65bed37fd1f0a450e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_23",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_23",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3e2cc69810901dcbe4d1": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_24",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_a94e0d321649d37dfa4c": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_24",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_661382005901d3e08804": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_24",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_24",
+      "cell": "Dq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_24",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b1af799adc485824a2c9": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_24",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_24",
+      "cell": "Dq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_24",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_db7145e10896a36d42d6": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_25",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_25",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_25",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_f7ed2de9acb9d2585307": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_25",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_25",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_fb52040165160395ca82": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_25",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_25",
+      "cell": "Dq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_25",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3f9c3e9c23ff0434d071": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_25",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_e02cb7c2758a10a1bcbb": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_26",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_26",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_26",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d87bf48ea9a0cd97395e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_26",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_26",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_26",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_efc8ec2da589b03df7b0": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_26",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_26",
+      "cell": "Dq1",
+      "C_status": "invalid_format",
+      "H_C_route": "ambiguous"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_26",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a76739b8c4666ff55f57": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_26",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_26",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_26",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_853488d380b0d887fdfb": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_27",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_27",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e80e7a9adba922cdde21": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_27",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_27",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_41a583ccc114c92dd786": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_27",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_4c4e815f6d1133157229": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_28",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_026fb59d604153746e9b": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_28",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_8a6768bb183cb4198e27": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_28",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_060c2a2f2869aec7f930": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_28",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_b0e4c2edc4edca0187c7": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_29",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_29",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7cd2873962c6ff30ec51": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_29",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_bb54f9348710d2acfb60": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_29",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_29",
+      "cell": "Dq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_29",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_29",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_9dff92b04f470a829d54": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_29",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_29",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_29",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_29",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_000ba99911975d7e2266": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_30",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_30",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_30",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_11886e09c171adb9aad8": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_30",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_30",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_66c2ceb48e9e87168dfa": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_30",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_30",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_72159630140bfd4a91c2": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_30",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_69866070ff6b6c492d2a": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_31",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_31",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_31",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_4ea75e9be8d8cf0508fb": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_31",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_31",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_31",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_31",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_83ef2a03652c6122b5f5": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_31",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_31",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_31",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_08371ec4541f1087ff81": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_31",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_31",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_31",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_cf2a69e355f40f6bd511": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_32",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_32",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_32",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_12d4c4db28cd2ff96af8": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_32",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_32",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_6421b901f200ea05a9c5": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_32",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_32",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_aa5f14e0a3aa62535d0a": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_32",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_32",
+      "cell": "Dq2",
+      "C_status": "invalid_format",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_32",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ae8845725658d984cad6": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_33",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_33",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_33",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_2aa92c434b7a82bb9763": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_33",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_33",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_33",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_4689e6346ffddec7b3f3": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_33",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_fdb9e4b33fd537b5d6ae": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_33",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_0005df5a4b98989b950d": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_34",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_34",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_2b89cbe5998d70596e81": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_34",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_34",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9cf053af77c00705d585": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_34",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_34",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_389293d63ffb45d6d9b7": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_34",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_34",
+      "cell": "Dq2",
+      "C_status": "invalid_format",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_d61d85a016509ba30419": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_35",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_35",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_35",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_44d70af757ad6eb69263": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_35",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_35",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_35",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_92a039b37fdfe01fc2f5": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_35",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_35",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_35",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1b69806b93e863ed025b": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_35",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_35",
+      "cell": "Dq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_35",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_908f0ab7e0f58bd92f97": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_36",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ac2057d51cea53aa8b86": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_36",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e2cfbdcc90411b760f6e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_36",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_abc9ab9197c77449709d": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_36",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_bebea2733a11d06a3e5f": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_37",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_37",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_37",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_37",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_cef38092664a1a380b77": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_37",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_37",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_37",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ae40ce7d6a3217cd95c8": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_37",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_e975147d2125726b125e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_38",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_38",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "ministral3",
+      "case_id": "R2_38",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_38",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_eaa467fe114aae781bd4": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_38",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_38",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_38",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e78e2fdfc0c228c6262d": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_38",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_38",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_38",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0e34a503be5ef50bf047": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_39",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_39",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_39",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_aba59d873ebd762b56f8": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_39",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_39",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_39",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1d4caba4812df9bf6991": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_39",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_39",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_39",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a88be43bad7d56f1b92d": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_40",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0c51ff591beba88b8e5a": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_40",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_68e54b837afaef53a74d": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_40",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_40",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_40",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_e81ce629a0caf69557fd": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_40",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_40",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_40",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_d42cd81cb5bbee8f4969": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_41",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_866f9ad2e11571c91d26": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_41",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_463790a3145eb5f0a64e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_41",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_41",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_41",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_738b4f6aabdabee22f45": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_41",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_41",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_41",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_38a74e3beb36dc02a5a1": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_42",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5e2da9d1791dd763f0c1": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_42",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_42",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_11ff0cd40a747a9fda24": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_42",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_42",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_42",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_c5846cd7f1572b685bd3": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_42",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_42",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_42",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_ea7d9e52429a24e2c90a": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_43",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_43",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_43",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_752f8109832cc5d5c99d": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_43",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_43",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_43",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a9a3dba68469a08a2d16": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_43",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_43",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_43",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b4ecf98b40b2ddffb76b": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_44",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_44",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_44",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_2724d44c09715c2ad8b0": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_44",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_44",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_2d0948db5b4ff4daae2c": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_44",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_44",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_44",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ea0083741557d292b14e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_45",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_45",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_45",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7efb6a0f7d1bc2d04bac": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_45",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_45",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9275033c44759233b8e3": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_45",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_45",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7de265e9244cd723877a": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_46",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_46",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_06a0bf686082bb2f77b4": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_46",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_aa89594804a626e4156f": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_46",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_46",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_46",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_47824f166feb797670a1": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_46",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_46",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_aab34b457bb0fa7b348e": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_47",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_51ea03493815272da0eb": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_47",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b709b9786ab763eefaed": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_47",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_47",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_4b4a491dd6b8819698d8": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_47",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_47",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_c2d9a16a76e1a681c823": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_48",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_8cf0b64fffbf529a367a": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_48",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_48",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_48",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_c26d185b8a45634a1a64": [
+    {
+      "model": "qwen35_27b",
+      "case_id": "R2_48",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "qwen35",
+      "case_id": "R2_48",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_48",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_bc44202669abae1386d8": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_01",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_aae41241d1c74b1e291f": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_01",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_91284858b85f2cac809e": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_03",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a0fb4425e785e8763109": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_04",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b61c32bb8258b60acad9": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_04",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d0d0d7b3498d794dc1b9": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_05",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_48c06177d498cfe7fb2f": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_05",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a6ad8cbc289e3e9afb99": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_06",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c7e9d45de3bb0ca166a0": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_07",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_4acd25007ece509d2aef": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_07",
+      "cell": "Dq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5431c92618ca2940715d": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_08",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6844eb3d4a7924c182bc": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_10",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_21662476b021051f540e": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_11",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_64d88b7216f4b01be82a": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_11",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_7e6e270a014a0964b467": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_12",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_744c54f708580dec6b20": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_12",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_62e3bcb3b60440c8074f": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_13",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_13",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0dd73a5d5daccba5e855": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_14",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1acf791908496d192148": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_15",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_15",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5dfb76a69862f030dbc6": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_15",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_46381b2af6b65ee081b1": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_16",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3071ae83455b71e7ae42": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_16",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_55c203df011a29484cf7": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_21",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c3eded27e2677a13b372": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_21",
+      "cell": "Dq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d1a1c14eff1ee5e82e12": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_23",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_1c6a9642b24f7f767f9e": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_24",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0ebbe613d26c2f06b7f0": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_24",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b3834bc47aada1c2e465": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_25",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_25",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_10dbe98c1ca8591714ef": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_27",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_afd55ae2032700465399": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_27",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e71c79fd369fc319a814": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_28",
+      "cell": "Fq1",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e8a1c239de6e188a2516": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_28",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a3bfa7946632290e67dd": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_28",
+      "cell": "Dq1",
+      "C_status": "invalid_format",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_e902e8f8d5c434365356": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_28",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_4f0bfd836d60499f1799": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_30",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_70eb653ec3232196e948": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_33",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5bbb4e016a8230190244": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_33",
+      "cell": "Dq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a44cfc8e642bace7490c": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_36",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f9ce547ffb6ffb827657": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_36",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_40c885492d13112cdc46": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_36",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_867474ef5828d529bbdd": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_37",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b6a1577f083da03091bf": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_38",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1caf05187ed43dfbe0f7": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_39",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a62bb61639d9777e21e7": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_40",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f6d2b1a1c27e1338a8aa": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_40",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a64710b1aadfe447bec4": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_41",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_41",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a622317b770726606b69": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_41",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5900804ee66eea466454": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_42",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_859662545fda7bbb4218": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_42",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1a98e9dcd45f6f6d7bea": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_43",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b4d785175a15176b8963": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_44",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7d6ef4589e9c47baddda": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_45",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7387c1e4342cf28b41e8": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_46",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_073863ad2afd264548ee": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_46",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_63143435d659f5524b35": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_46",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_2c5908b5f1f6d10fd4d2": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_47",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_1054ee2e8d2aa9e84788": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_47",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_7dd42e2547ba41743247": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_47",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_7c3c28e8da47b4219dcd": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_48",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_48",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_d1a2c71bb48b8fe02a9e": [
+    {
+      "model": "qwen35",
+      "case_id": "R2_48",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d58cf9a46909dc7dc88b": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_01",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_549db30f2e6ea3918df7": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_01",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_97265d4eb6fcb2037f5e": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_01",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3b5c25330729ae49b83c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_01",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_915692dd7d4c53a312b4": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_02",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ff11358354f5292e5a96": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_02",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_497565564583a486aa42": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_02",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_8b349b379d202fe03c53": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_02",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_26404237cb0e7d9e2a3b": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_03",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5a8b1cbdb8186d066906": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_03",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b728fcbf796b2e08a54d": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_03",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a2018621a1bab133f3e6": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_03",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_67f4f035be404fea4058": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_04",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_eed962b1611de4fedd11": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_04",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_143cca6a34eb0f79d3ab": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_04",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_93206067fbd641afe205": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_04",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_38d504d522623097c46b": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_05",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1a53bff66a17ad51f94a": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_05",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_2ac1020e29cfc19e41e7": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_05",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_a2016b49c7b21a35f2f6": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_05",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_95043a78a3e5e0f5ec8c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_06",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3584dab99be068f5854a": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_06",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1ff3cf7ce8f21f1beb97": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_06",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_eaac7b71aaff2233cd68": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_06",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_53de32bff8a7dde6c0c9": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_07",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d93dfa0db2b9ead9e012": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_07",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_4b430957f96db832b912": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_07",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_441741116a254001a0f3": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_07",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c41cb4819ca46d3f32d4": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_08",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_8be77d983c9fe111a91d": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_08",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5da65c0abc00260db9f2": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_08",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_032116ef7cbfa0f46444": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_08",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f1df7f8a2ac5fdc30942": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_09",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_baa00b79b2ae7473ef08": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_09",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9c5d12843566ac72f7f3": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_10",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_0b5371704859b0586752": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_10",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_1c18220ccc202384c2d6": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_10",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_045f7fe5b534922db1fe": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_10",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_b9dc574f1594635e19ab": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_11",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_54db79dedae66922b996": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_11",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a7eb83da0c94c012a212": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_11",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_dab14c9660632c2f3c08": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_11",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_171fff57b9b231fe4c14": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_12",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_857c479e8935aa39eb0c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_12",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_e386989ac3b9a0c5703a": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_12",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_ad2a73cd5f1484fbda66": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_12",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_45b7c282d718839f84f2": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_13",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_87b543737e106bceb9d4": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_13",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9977e66634034d311d26": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_13",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a0e884343fcc58312dc1": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_13",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0e2bbdc837f595bf5d0c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_14",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1bd789c85effead11b1e": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_14",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_cb1725e611b83fd4d150": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_14",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3f13b90fea5455840f54": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_14",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f59c676f95c53909261a": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_15",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6c918601d541004b0faa": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_15",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_fee479e8e5651901642e": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_15",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c4b8bdce366c9ab34187": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_15",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e2ad13952a7cfff815af": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_16",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_548bd26e3a2585e62d10": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_16",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1a6a97a78976bae6fd1a": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_16",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_28243dde7e428d291dcc": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_16",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c1ef5cac4617bc10effe": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_17",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1260a3fba0fa70fd701c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_17",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0b6ff93545b0ea4ad635": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_17",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b52df59ad006a2c63b9f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_17",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7a4ab7ff63ec908dddd5": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_18",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_4b2c555d0ada7688b851": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_18",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_62230d42d756dcf238fb": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_18",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d68e173c4d8fa2a5a4e9": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_18",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_40b790750a011556e345": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_19",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_0ce74bb3401613dc9696": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_19",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_87d0c2175a039f527e29": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_19",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_360914cd03e9f25b793a": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_20",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_7469dd6a084c4c71dc1d": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_20",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_f48b7d5a0733db10d622": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_20",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_17c43232feb69163337c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_20",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_bc6ae6365a2d2937cef1": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_21",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1745c7ba8bd6d88615ac": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_21",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a1aeb1175a3f05860408": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_21",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    },
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_21",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6f0cb8258d7ff5e4dc11": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_21",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d23ab01099dd1901c304": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_22",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_2cf112d123da0a176b3f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_22",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_69414f3fc5394c56755d": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_22",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_62f9487bdddfa5cbdd6c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_23",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_faf2a850e5c37ce77427": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_23",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_be8b079efab569f2b56f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_23",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_48d8947c09edd0a2b2c4": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_23",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_511539e8eee8b73cd258": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_24",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c37ec2dc942d4edee4a1": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_24",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b25ec6396eb971892d4d": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_24",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6d7d4587b9197df8d9cf": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_24",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d4f3330c7edb1420ec64": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_25",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a9ed60d0caf336fe9a6c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_25",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_dfa732f1fb958535cccc": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_25",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_20efea222fda0f0dbb9d": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_25",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7ea44d6db87a640769a8": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_26",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_30de271d9b13652d7a0f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_26",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b5707193f7187f70d614": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_26",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_b83d96bbf2bfe51151fe": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_26",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_abfee29fe4c7617ece2d": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_27",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6ef8feebf0b80f0d0cb9": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_27",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_fa0ae5fc5819ecbc8597": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_27",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_cd533ddb764b2006516c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_27",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_dd754315fad8d26c0595": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_28",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d6d7480c124336c0b85e": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_28",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5771c7ff1a9de9baeadf": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_28",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_c8279d980b57cac152a9": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_28",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_df883a33c61145049a0f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_29",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0ab366129722491ab2f9": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_29",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_15e83e4ad4ca4478640e": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_30",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5cd0c2e89751c136a934": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_30",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1e60c61e951a51cc0618": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_30",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_20688dad3ba5a8ed24b4": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_30",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_19a0eca2742fa641e620": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_31",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_661139a192c6d1c38cec": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_31",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ef56d25039346654b73b": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_31",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f59491773de06eb00989": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_32",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_25ee83c9ab47fda615d0": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_32",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f0529f0381bdea7b2a55": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_32",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_dd21e04b1dd655735489": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_33",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a5ddeb658758e619d209": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_33",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ed5975643048462173b7": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_33",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_abe2f1221fa380bd4c6a": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_33",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b66ca4d7ae21cf49e37e": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_34",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6ba1975e11468018625c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_34",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9d1072896fe7c715c066": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_34",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_cc058ff952b84180a612": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_34",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_faac0ebf68add74a5b39": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_35",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5d5fd9521d8524fb6cb5": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_35",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_11c942502e8165fb7b9b": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_35",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_8befdf46f2ab95416e14": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_35",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_60b486bc1557396875d5": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_36",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d17b5dc365b9bd2cc25f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_36",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9600e2dc4c34fc090068": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_36",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0d9e56c7abd46544b7c6": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_36",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7059323f8e43f199de60": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_37",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a726eb8cd29dbad15f24": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_37",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_9de52bb99dc2210bcaae": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_37",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_aa8c9c2fe28b9136d899": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_38",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b4667e9d7d24168f57b0": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_38",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_32b3d9658d59bbe46e98": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_39",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_cf9b7e00ee5059a030fc": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_39",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_70d290edce706a1b72ea": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_39",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_87a8617016f994669e94": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_39",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_61e91401debfa555b5ba": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_40",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d5604a469e7baf99816b": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_40",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0e75cd5738d2d7d2eb6f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_40",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_96f6c2156f89bbe017ad": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_41",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_006321133bdc198b7dbb": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_41",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0b33606081bd2149dde8": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_41",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_b025a386ada966c7d34f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_41",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_1e4a74564218e13db81f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_42",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_46fb7b3fa61c147ad219": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_42",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_828ffa5b6e4f65f95caa": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_42",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_25936a5170192fcedbad": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_42",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_f4ea92ed1fcf35dc6062": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_43",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_4fe21e473fedef0c193b": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_43",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_fb508fca778643220097": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_43",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6ac5ef4c3d20b4e5a4f7": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_43",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_aa9d031bc7193dd44eab": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_44",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ef471321b45b7890d4e9": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_44",
+      "cell": "Fq2",
+      "C_status": "invalid_format",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_eddfcb74cf851e5becfd": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_44",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_4090f0dd2af8b4aa7b6c": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_44",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ea8cf7b4a5d1941511b6": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_45",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_19193ecb95c020e32ae7": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_45",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ad1e5b2cbeb9d36cd0d5": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_45",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1c8912e338ddc82b2c1f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_46",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_27a92fdfec738bcc68ae": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_46",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_84d17f90b375586e1838": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_46",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_c952c6832a16dae7d729": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_46",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_7937aa1bb1610ae4b38d": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_47",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_9a11503e714581259435": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_47",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_440a0239e7ee323fb388": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_47",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_d836cd2dc0d7686a9552": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_47",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_91140d2704083274da4f": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_48",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_b390bdc8ad126b9b5bea": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_48",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_391b739d065069bf06ce": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_48",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_fe146d7be7ecaa3f4376": [
+    {
+      "model": "ministral3",
+      "case_id": "R2_48",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_7c242dfd67a8d98a168d": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_01",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_a7d553904a3dadce99d4": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_01",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_8c5d02f9e8f07fbda1f6": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_02",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_83365aa4f7e481c87b55": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_03",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f3c60f36137fbf348238": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_03",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_513010b5df7e3e3ce788": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_04",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_45e88df4b74b433e0845": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_04",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a9a426431bda8a63eeb3": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_05",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1f71f7803a02a6640541": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_05",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_a8eb659854a53f4cb406": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_06",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ce82b65dee5e14952750": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_06",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_d574d564d7732ffaf24a": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_10",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_88c6a333ebfa462c4362": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_10",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_abd9e85c355135b3fcf4": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_11",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_1206a6dcdc90b19c7ea7": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_11",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_b720a6bca3f7d5082e85": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_11",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_6c4d6392256dc739aeb7": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_12",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_63287785d2238d52c793": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_12",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "ambiguous"
+    }
+  ],
+  "O_665be7d96fd5a1b4ebd8": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_14",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e7837f074cd2cd323fc7": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_15",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e5e761eb3ea167523f79": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_16",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_2bb122cad8ca6f700943": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_16",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_89490bcb99d432201b3b": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_16",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5b34c23335cb64872034": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_17",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_21e9f2dc1f2c20114e61": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_17",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_b45b5c3226b2a4257164": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_17",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f7dca946372e05643821": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_18",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_22df691a9df9e0b753f2": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_18",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_7ec7b8c8051b3080dfa5": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_18",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5d0dc59b54f35d84eab0": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_18",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_6c515c281a6155c2cc6a": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_20",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_8f7d46104a138a52ef57": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_21",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_564eecae93078cf9be29": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_22",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_815335a2ed6adb596086": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_22",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e9f6f900edbbdf66c858": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_23",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_44bd2cd43187ffc1de38": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_23",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_92275e195d24a33f9725": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_24",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_2e111f2973b8d895ef2d": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_24",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_9d2df1fa3e9449799836": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_25",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_f4d78b95a86a02c578b1": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_27",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_2dcfd03c96443f0f6336": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_27",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_e2cad6b262c92df568be": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_27",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_99c50e80b9f53dc71b3d": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_27",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_f864ccc58695a5e04dea": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_28",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_bc95996ccd100cff3349": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_28",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_964342d1789d0962e8a2": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_28",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_89a750e08948e185fe06": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_28",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_f874ab6cda3e5c949473": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_29",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_37da8f3d66469bfd398e": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_29",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_99fbfa444d40e5f69a1e": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_30",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_dad4a1e2308b726afa89": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_30",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_29e248d684f7aa94de9e": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_30",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_1ed91e8898e0ac429315": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_32",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_366605540576ffe92407": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_32",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_80060c0e7697d932dabb": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_32",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_5c9a97b58bbe880349b9": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_33",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_e14d49b2c82079de70d3": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_33",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_ad2e5d1d8d863ab9f3e5": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_34",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_c6b9f8df853981a4ed7e": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_34",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_829a2166bb20cb48d335": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_34",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_dfe75f4e36591ba4f6aa": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_36",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_2a2af48ab6c7a07017e6": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_36",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_81c1389645417bc80eff": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_36",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_023212509e87215cd7d0": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_36",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_73c61e261bec5d9177ab": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_37",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3b3fad0cda4a4e86a20f": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_37",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_0af09dbcf2bd64d21668": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_38",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_142af3159457f34e78c4": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_39",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_bd837f4637f9593a2a44": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_40",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_851a2168ce48cf9c3108": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_40",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_4b371819f68be0d2173b": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_41",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_233c96dad35aa2c7272f": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_42",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_3a131d18fc5054b816f8": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_43",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_5dea3ec6c865e5300d9b": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_44",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_26d6131bf619249f0abb": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_45",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_d6b53f5ee3e65833c40b": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_45",
+      "cell": "Dq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_28f4c0003402d856103c": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_46",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "standalone"
+    }
+  ],
+  "O_daafb06a0626837a2868": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_47",
+      "cell": "Fq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_6320f56d4be56c9be52c": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_47",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_d91a9abf8f1e16d8da53": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_47",
+      "cell": "Dq1",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ],
+  "O_02117d957a3bf996d9a6": [
+    {
+      "model": "gemma3_4b",
+      "case_id": "R2_48",
+      "cell": "Fq2",
+      "C_status": "completed",
+      "H_C_route": "dependent"
+    }
+  ]
+}

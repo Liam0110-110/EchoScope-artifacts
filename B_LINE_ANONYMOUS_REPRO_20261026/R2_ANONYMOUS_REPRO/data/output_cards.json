@@ -1,0 +1,2987 @@
+{
+  "status": "FINAL_REVIEW_COMPLETED",
+  "cards": [
+    {
+      "card_id": "O_5dea3ec6c865e5300d9b",
+      "question": "In which year did NASA's Stardust spacecraft send its last transmission?",
+      "answer": "NASA's Stardust spacecraft was launched in 2011.",
+      "claim": "NASA's Stardust spacecraft was launched in 2011, and the last transmission was sent in 2011."
+    },
+    {
+      "card_id": "O_f48b7d5a0733db10d622",
+      "question": "In what year was Elizabeth Cady Stanton born?",
+      "answer": "1902.",
+      "claim": "Elizabeth Cady Stanton was born in **1902** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_83365aa4f7e481c87b55",
+      "question": "In which country is the Alhambra, Generalife and Albayzín, Granada?",
+      "answer": "The Taj Mahal is in India.",
+      "claim": "The Taj Mahal is in India, and the Alhambra, Generalife, and Albayzín are in Granada."
+    },
+    {
+      "card_id": "O_d58cf9a46909dc7dc88b",
+      "question": "What creation year does MoMA list for The Starry Night?",
+      "answer": "MoMA lists 1889 as the creation year of The Starry Night.",
+      "claim": "MoMA lists **The Starry Night** with a creation year of **1889**"
+    },
+    {
+      "card_id": "O_81c1389645417bc80eff",
+      "question": "According to the source, how does temperature change with increasing height in Earth's stratosphere?",
+      "answer": "Its temperature decreases with height.",
+      "claim": "According to the source, the temperature decreases with height in Earth's stratosphere."
+    },
+    {
+      "card_id": "O_02117d957a3bf996d9a6",
+      "question": "In which year did NASA officially abandon efforts to contact its Deep Impact spacecraft?",
+      "answer": "The launch year of NASA's Deep Impact spacecraft: 2013.",
+      "claim": "The launch year of NASA's Deep Impact spacecraft was 2013, and NASA officially abandoned efforts to contact it in the year 2013."
+    },
+    {
+      "card_id": "O_ad2a73cd5f1484fbda66",
+      "question": "In which country is the UNESCO World Heritage property \"Great Zimbabwe National Monument\"?",
+      "answer": "It is in Zimbabwe.",
+      "claim": "The UNESCO World Heritage property **\"Great Zimbabwe National Monument\"** is located in the country **Zimbabwe**."
+    },
+    {
+      "card_id": "O_f874ab6cda3e5c949473",
+      "question": "Can P waves travel through liquid?",
+      "answer": "P waves — propagation through liquid: possible.",
+      "claim": "P waves can propagate through liquid, and this is possible."
+    },
+    {
+      "card_id": "O_cc058ff952b84180a612",
+      "question": "Among Mars's two moons, is Deimos the larger or the smaller?",
+      "answer": "It is the smaller of Mars's two moons.",
+      "claim": "Deimos is the smaller moon of Mars."
+    },
+    {
+      "card_id": "O_7ec7b8c8051b3080dfa5",
+      "question": "In what year was Maggie L. Walker born?",
+      "answer": "It was 1864.",
+      "claim": "It was 1864 that Maggie L. Walker was born."
+    },
+    {
+      "card_id": "O_2e111f2973b8d895ef2d",
+      "question": "What was Sojourner Truth's place of death?",
+      "answer": "Sojourner Truth — birthplace: Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's birthplace was Battle Creek, Michigan, and the question about her place of death remains unanswered."
+    },
+    {
+      "card_id": "O_4ea75e9be8d8cf0508fb",
+      "question": "On what date did Apollo 12's lunar module land on the Moon?",
+      "answer": "Apollo 11's lunar module landed on the Moon on November 19, 1969.",
+      "claim": "Apollo 11's lunar module landed on the Moon on November 19, 1969."
+    },
+    {
+      "card_id": "O_7016d4d4faab49a736ca",
+      "question": "In what year did Carter G. Woodson die?",
+      "answer": "It was 1875.",
+      "claim": "Carter G. Woodson died in 1875."
+    },
+    {
+      "card_id": "O_5b34c23335cb64872034",
+      "question": "In what year was Carter G. Woodson born?",
+      "answer": "Carter G. Woodson — birth year: 1875.",
+      "claim": "Carter G. Woodson was born in the year 1875."
+    },
+    {
+      "card_id": "O_5e3eb1cd1947a981284f",
+      "question": "In which country is the UNESCO World Heritage property \"Petra\"?",
+      "answer": "Acropolis, Athens — country: Greece.",
+      "claim": "The UNESCO World Heritage property Petra is located in the country of Greece, specifically at the Acropolis in Athens."
+    },
+    {
+      "card_id": "O_2ac1020e29cfc19e41e7",
+      "question": "In which country is the UNESCO World Heritage property \"Historic Sanctuary of Machu Picchu\"?",
+      "answer": "It is in Peru.",
+      "claim": "The UNESCO World Heritage property **Historic Sanctuary of Machu Picchu** is located in **Peru**."
+    },
+    {
+      "card_id": "O_391b739d065069bf06ce",
+      "question": "In which year was NASA's Deep Impact spacecraft launched?",
+      "answer": "It was in 2013.",
+      "claim": "NASA's Deep Impact spacecraft was launched in **2013** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_6c918601d541004b0faa",
+      "question": "What was Jane Addams's place of death?",
+      "answer": "Jane Addams was born in Cedarville, IL.",
+      "claim": "Jane Addams's place of death is **not specified** in the provided answer; the answer only states that Jane Addams was born in Cedarville, IL."
+    },
+    {
+      "card_id": "O_f1df7f8a2ac5fdc30942",
+      "question": "In what year was Walt Whitman born?",
+      "answer": "Walt Whitman was born in 1807.",
+      "claim": "Walt Whitman was born in **1807** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_bc44202669abae1386d8",
+      "question": "What creation year does MoMA list for The Starry Night?",
+      "answer": "1889.",
+      "claim": "MoMA lists the creation year of The Starry Night as 1889."
+    },
+    {
+      "card_id": "O_c7e9d45de3bb0ca166a0",
+      "question": "What creation year does MoMA list for The Persistence of Memory?",
+      "answer": "1928.",
+      "claim": "MoMA lists the creation year of The Persistence of Memory as 1928."
+    },
+    {
+      "card_id": "O_c8279d980b57cac152a9",
+      "question": "In which year was Neptune discovered, according to the source?",
+      "answer": "It was discovered in 1781.",
+      "claim": "Neptune was discovered in **1781** according to the source, **but the question asked for the year of Neptune's discovery** (not Uranus, which was discovered in 1781)."
+    },
+    {
+      "card_id": "O_80060c0e7697d932dabb",
+      "question": "What is the physical state of Earth's outer core?",
+      "answer": "Liquid.",
+      "claim": "Earth's outer core is liquid."
+    },
+    {
+      "card_id": "O_83298180c137fc339b40",
+      "question": "Who is the artist of The Water-Lily Pond (NG4240) held by the National Gallery, London?",
+      "answer": "The artist of The Water-Lily Pond (NG4240) held by the National Gallery, London, is Joseph Mallord William Turner.",
+      "claim": "The artist of The Water-Lily Pond (NG4240) held by the National Gallery, London, is Joseph Mallord William Turner."
+    },
+    {
+      "card_id": "O_857c479e8935aa39eb0c",
+      "question": "In which country is the UNESCO World Heritage property \"Great Zimbabwe National Monument\"?",
+      "answer": "Pre-Hispanic City of Chichen-Itza — country: Zimbabwe.",
+      "claim": "The UNESCO World Heritage property **\"Pre-Hispanic City of Chichen-Itza\"** is located in the country **Zimbabwe** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_20688dad3ba5a8ed24b4",
+      "question": "What is the Mohs hardness of diamond?",
+      "answer": "It has a Mohs hardness of 7.",
+      "claim": "The Mohs hardness of diamond is **not 7** (explicitly stated in the answer as 7, but the question asks for the actual Mohs hardness of diamond, which is omitted)."
+    },
+    {
+      "card_id": "O_0ab366129722491ab2f9",
+      "question": "Can S waves travel through liquid?",
+      "answer": "P waves — propagation through liquid: possible.",
+      "claim": "S waves — propagation through liquid: **not possible** (implied by contrast with P waves, which *can* propagate through liquid)."
+    },
+    {
+      "card_id": "O_b728fcbf796b2e08a54d",
+      "question": "In which country is the Taj Mahal?",
+      "answer": "India.",
+      "claim": "The Taj Mahal is located in **India**."
+    },
+    {
+      "card_id": "O_a9a3dba68469a08a2d16",
+      "question": "In which year did NASA officially end efforts to contact its Spirit rover?",
+      "answer": "2011.",
+      "claim": "NASA officially ended efforts to contact its Spirit rover in 2011."
+    },
+    {
+      "card_id": "O_7d6ef4589e9c47baddda",
+      "question": "In which year was the last contact with NASA's NEAR Shoemaker spacecraft?",
+      "answer": "NASA's NEAR Shoemaker spacecraft was launched in 2001.",
+      "claim": "NASA's NEAR Shoemaker spacecraft was launched in 2001."
+    },
+    {
+      "card_id": "O_2cf112d123da0a176b3f",
+      "question": "In what year did Paul Laurence Dunbar die?",
+      "answer": "Paul Laurence Dunbar — birth year: 1906.",
+      "claim": "Paul Laurence Dunbar was born in 1906 and the year of his death is omitted."
+    },
+    {
+      "card_id": "O_0b62d1c7d96c35c6a08d",
+      "question": "What creation year does MoMA list for Les Demoiselles d'Avignon?",
+      "answer": "1889.",
+      "claim": "MoMA lists 1889 as the creation year for Les Demoiselles d'Avignon."
+    },
+    {
+      "card_id": "O_d61d85a016509ba30419",
+      "question": "How many blowholes do baleen whales have?",
+      "answer": "Baleen whales — number of blowholes: one.",
+      "claim": "Baleen whales have one blowhole."
+    },
+    {
+      "card_id": "O_f4d78b95a86a02c578b1",
+      "question": "What does the source say about the presence of external ear flaps in true seals?",
+      "answer": "True seals have no external ear flaps.",
+      "claim": "True seals have no external ear flaps, according to the source."
+    },
+    {
+      "card_id": "O_25936a5170192fcedbad",
+      "question": "In which year did NASA's Mars Pathfinder land on Mars?",
+      "answer": "It was in 1996.",
+      "claim": "NASA's Mars Pathfinder landed on Mars in the year **1996**"
+    },
+    {
+      "card_id": "O_c4b8bdce366c9ab34187",
+      "question": "What was Jane Addams's place of death?",
+      "answer": "Cedarville, IL.",
+      "claim": "Jane Addams's place of death was **Cedarville, Illinois (IL)**."
+    },
+    {
+      "card_id": "O_3f9c3e9c23ff0434d071",
+      "question": "According to the sources, how many Earth days does Venus take to complete one orbit around the Sun?",
+      "answer": "88 Earth days.",
+      "claim": "According to the sources, Venus takes 88 Earth days to complete one orbit around the Sun."
+    },
+    {
+      "card_id": "O_20efea222fda0f0dbb9d",
+      "question": "According to the sources, how many Earth days does Venus take to complete one orbit around the Sun?",
+      "answer": "88 Earth days.",
+      "claim": "Venus takes **88 Earth days** to complete one orbit around the Sun according to the sources."
+    },
+    {
+      "card_id": "O_73c61e261bec5d9177ab",
+      "question": "In which year did NASA's Galileo mission end when the spacecraft impacted Jupiter?",
+      "answer": "NASA's Galileo spacecraft was launched in 1989.",
+      "claim": "NASA's Galileo spacecraft was launched in 1989, and the Galileo mission ended when the spacecraft impacted Jupiter."
+    },
+    {
+      "card_id": "O_0005df5a4b98989b950d",
+      "question": "Among Mars's two moons, is Phobos the larger or the smaller?",
+      "answer": "Phobos — relative size among Mars's two moons: the smaller moon.",
+      "claim": "Phobos is the smaller of Mars's two moons."
+    },
+    {
+      "card_id": "O_463790a3145eb5f0a64e",
+      "question": "In which year was NASA's Viking 1 spacecraft launched?",
+      "answer": "It was in 1975.",
+      "claim": "NASA's Viking 1 spacecraft was launched in 1975."
+    },
+    {
+      "card_id": "O_fb508fca778643220097",
+      "question": "In which year did NASA's Spirit rover land on Mars?",
+      "answer": "2011.",
+      "claim": "NASA's Spirit rover landed on Mars in **2011** (as per the provided answer, though the actual landing year was **2004**)."
+    },
+    {
+      "card_id": "O_be8b079efab569f2b56f",
+      "question": "In what year was Alice Paul born?",
+      "answer": "It was 1977.",
+      "claim": "Alice Paul was born in **1977** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_0e6bddf04a8d0f2bc197",
+      "question": "In what year did Carter G. Woodson die?",
+      "answer": "Carter G. Woodson — birth year: 1875.",
+      "claim": "Carter G. Woodson was born in 1875."
+    },
+    {
+      "card_id": "O_964342d1789d0962e8a2",
+      "question": "In which year was Uranus discovered, according to the source?",
+      "answer": "It was discovered in 1781.",
+      "claim": "Uranus was discovered in 1781, according to the source."
+    },
+    {
+      "card_id": "O_30de271d9b13652d7a0f",
+      "question": "What is the atomic number of helium?",
+      "answer": "The atomic number of hydrogen is 1.",
+      "claim": "The atomic number of **helium** is **not specified** in the provided answer, which instead states that the atomic number of **hydrogen** is **1**."
+    },
+    {
+      "card_id": "O_a5ddeb658758e619d209",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is oxygen?",
+      "answer": "In the source table excluding water vapor, nitrogen makes up 20.946% of the atmosphere.",
+      "claim": "In the source table excluding water vapor, **nitrogen** (not oxygen) makes up **20.946%** of the atmosphere."
+    },
+    {
+      "card_id": "O_859662545fda7bbb4218",
+      "question": "In which year did NASA's Mars Pathfinder land on Mars?",
+      "answer": "The launch year of NASA's Mars Pathfinder: 1996.",
+      "claim": "The launch year of NASA's Mars Pathfinder is 1996."
+    },
+    {
+      "card_id": "O_3071ae83455b71e7ae42",
+      "question": "What was Susan B. Anthony's place of death?",
+      "answer": "Susan B. Anthony — birthplace: Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's birthplace is Adams, Massachusetts."
+    },
+    {
+      "card_id": "O_93206067fbd641afe205",
+      "question": "In which country is the UNESCO World Heritage property \"Petra\"?",
+      "answer": "It is in Greece.",
+      "claim": "The UNESCO World Heritage property **Petra** is in **Greece**."
+    },
+    {
+      "card_id": "O_8be77d983c9fe111a91d",
+      "question": "Who is the artist of The Fighting Temeraire (NG524) held by the National Gallery, London?",
+      "answer": "The artist of The Water-Lily Pond (NG4240) held by the National Gallery, London, is Joseph Mallord William Turner.",
+      "claim": "The artist of **The Fighting Temeraire (NG524)** held by the **National Gallery, London** is **not explicitly stated** in the provided answer, which instead attributes **The Water-Lily Pond (NG4240)** to **Joseph Mallord William Turner**."
+    },
+    {
+      "card_id": "O_cc23902ec02cdfa570ea",
+      "question": "In what year was Alice Paul born?",
+      "answer": "It was 1977.",
+      "claim": "Alice Paul was born in 1977."
+    },
+    {
+      "card_id": "O_52783aaf1a709a273dd7",
+      "question": "In what year was Paul Laurence Dunbar born?",
+      "answer": "It was 1906.",
+      "claim": "Paul Laurence Dunbar was born in 1906."
+    },
+    {
+      "card_id": "O_89490bcb99d432201b3b",
+      "question": "What was Susan B. Anthony's place of birth?",
+      "answer": "It was Adams, Massachusetts.",
+      "claim": "Susan B. Anthony was born in Adams, Massachusetts."
+    },
+    {
+      "card_id": "O_96f6c2156f89bbe017ad",
+      "question": "In which year was NASA's Viking 1 spacecraft launched?",
+      "answer": "The launch year of NASA's Viking 1 spacecraft: 1975.",
+      "claim": "NASA's Viking 1 spacecraft was launched in the year **1975**"
+    },
+    {
+      "card_id": "O_b3834bc47aada1c2e465",
+      "question": "According to the sources, how many Earth days does Venus take to complete one orbit around the Sun?",
+      "answer": "88 Earth days.",
+      "claim": "Venus takes 88 Earth days to complete one orbit around the Sun."
+    },
+    {
+      "card_id": "O_cef38092664a1a380b77",
+      "question": "In which year was NASA's Galileo spacecraft launched?",
+      "answer": "1989.",
+      "claim": "NASA's Galileo spacecraft was launched in 1989."
+    },
+    {
+      "card_id": "O_7e6e270a014a0964b467",
+      "question": "In which country is the UNESCO World Heritage property \"Pre-Hispanic City of Chichen-Itza\"?",
+      "answer": "Pre-Hispanic City of Chichen-Itza — country: Zimbabwe.",
+      "claim": "The Pre-Hispanic City of Chichen-Itza is in Zimbabwe."
+    },
+    {
+      "card_id": "O_15e83e4ad4ca4478640e",
+      "question": "What is the Mohs hardness of quartz?",
+      "answer": "Quartz — Mohs hardness: 7.",
+      "claim": "The Mohs hardness of quartz is **7** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_915692dd7d4c53a312b4",
+      "question": "Who is the artist of Sunflowers (NG3863) held by the National Gallery, London?",
+      "answer": "The artist of Sunflowers (NG3863) held by the National Gallery, London, is Vincent van Gogh.",
+      "claim": "The artist of **Sunflowers (NG3863)**, held by the **National Gallery, London**, is **Vincent van Gogh**."
+    },
+    {
+      "card_id": "O_10dbe98c1ca8591714ef",
+      "question": "What does the source say about the presence of external ear flaps in sea lions?",
+      "answer": "True seals have no external ear flaps.",
+      "claim": "True seals have no external ear flaps."
+    },
+    {
+      "card_id": "O_ea8cf7b4a5d1941511b6",
+      "question": "In which year was the last contact with NASA's NEAR Shoemaker spacecraft?",
+      "answer": "NASA's NEAR Shoemaker spacecraft was launched in 2001.",
+      "claim": "NASA's NEAR Shoemaker spacecraft's **last contact year is not specified in the answer**; the provided information only states that it was **launched in 2001**."
+    },
+    {
+      "card_id": "O_8f7d46104a138a52ef57",
+      "question": "What was Charles Young's place of death?",
+      "answer": "Lagos, Nigeria.",
+      "claim": "Charles Young’s place of death was Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_63287785d2238d52c793",
+      "question": "In which country is the UNESCO World Heritage property \"Great Zimbabwe National Monument\"?",
+      "answer": "Pre-Hispanic City of Chichen-Itza — country: Zimbabwe.",
+      "claim": "The UNESCO World Heritage property \"Great Zimbabwe National Monument\" is located in Zimbabwe."
+    },
+    {
+      "card_id": "O_a9ed60d0caf336fe9a6c",
+      "question": "According to the sources, how many Earth days does Venus take to complete one orbit around the Sun?",
+      "answer": "Mercury takes 88 Earth days to complete one orbit around the Sun.",
+      "claim": "According to the sources, **Venus's orbital period around the Sun is not specified**; instead, **Mercury takes 88 Earth days to complete one orbit around the Sun**."
+    },
+    {
+      "card_id": "O_f91fe01ddb954e4fe675",
+      "question": "In which country is the UNESCO World Heritage property \"Borobudur Temple Compounds\"?",
+      "answer": "It is in Myanmar.",
+      "claim": "The UNESCO World Heritage property \"Borobudur Temple Compounds\" is in Myanmar."
+    },
+    {
+      "card_id": "O_a0e884343fcc58312dc1",
+      "question": "In what year did Clara Barton die?",
+      "answer": "1821.",
+      "claim": "Clara Barton died in **1821** (assertion contradicts the question's implied context, as Clara Barton was born in **1821** and died in **1912**)."
+    },
+    {
+      "card_id": "O_661382005901d3e08804",
+      "question": "What was Sojourner Truth's place of birth?",
+      "answer": "It was Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's place of birth was Battle Creek, Michigan."
+    },
+    {
+      "card_id": "O_ea0083741557d292b14e",
+      "question": "In which year was NASA's NEAR Shoemaker spacecraft launched?",
+      "answer": "NASA's NEAR Shoemaker spacecraft was launched in 2001.",
+      "claim": "NASA's NEAR Shoemaker spacecraft was launched in 2001."
+    },
+    {
+      "card_id": "O_77d46b3ceedf084b0c6c",
+      "question": "In what year was Elizabeth Cady Stanton born?",
+      "answer": "1902.",
+      "claim": "Elizabeth Cady Stanton was born in 1902."
+    },
+    {
+      "card_id": "O_86a276a1cbe9a537b3bd",
+      "question": "What was Jane Addams's place of birth?",
+      "answer": "Jane Addams was born in Cedarville, IL.",
+      "claim": "Jane Addams was born in Cedarville, IL."
+    },
+    {
+      "card_id": "O_e5e761eb3ea167523f79",
+      "question": "What was Susan B. Anthony's place of birth?",
+      "answer": "Susan B. Anthony — birthplace: Adams, Massachusetts.",
+      "claim": "Susan B. Anthony was born in Adams, Massachusetts."
+    },
+    {
+      "card_id": "O_389293d63ffb45d6d9b7",
+      "question": "Among Mars's two moons, is Deimos the larger or the smaller?",
+      "answer": "It is the smaller of Mars's two moons.",
+      "claim": "Deimos is the smaller of Mars's two moons."
+    },
+    {
+      "card_id": "O_c9cc919ead3974d04237",
+      "question": "What creation year does MoMA list for The Starry Night?",
+      "answer": "MoMA lists 1889 as the creation year of The Starry Night.",
+      "claim": "MoMA lists 1889 as the creation year of The Starry Night."
+    },
+    {
+      "card_id": "O_91284858b85f2cac809e",
+      "question": "In which country is the Alhambra, Generalife and Albayzín, Granada?",
+      "answer": "The Taj Mahal is in India.",
+      "claim": "The Taj Mahal is in India."
+    },
+    {
+      "card_id": "O_29efa3a63b4ec5e9dc30",
+      "question": "In which country is the UNESCO World Heritage property \"Changdeokgung Palace Complex\"?",
+      "answer": "Himeji-jo — country: Japan.",
+      "claim": "Himeji-jo is in Japan."
+    },
+    {
+      "card_id": "O_9dff92b04f470a829d54",
+      "question": "Can S waves travel through liquid?",
+      "answer": "They can travel through liquid.",
+      "claim": "S waves can travel through liquid."
+    },
+    {
+      "card_id": "O_d0d0d7b3498d794dc1b9",
+      "question": "In which country is the UNESCO World Heritage property \"Historic Sanctuary of Machu Picchu\"?",
+      "answer": "Historic Sanctuary of Machu Picchu — country: Peru.",
+      "claim": "The Historic Sanctuary of Machu Picchu is in Peru."
+    },
+    {
+      "card_id": "O_752f8109832cc5d5c99d",
+      "question": "In which year did NASA's Spirit rover land on Mars?",
+      "answer": "2011.",
+      "claim": "NASA's Spirit rover landed on Mars in 2011."
+    },
+    {
+      "card_id": "O_7efb6a0f7d1bc2d04bac",
+      "question": "In which year was NASA's NEAR Shoemaker spacecraft launched?",
+      "answer": "2001.",
+      "claim": "NASA's NEAR Shoemaker spacecraft was launched in 2001."
+    },
+    {
+      "card_id": "O_f864ccc58695a5e04dea",
+      "question": "In which year was Uranus discovered, according to the source?",
+      "answer": "Uranus — discovery year: 1781.",
+      "claim": "Uranus was discovered in the year 1781, according to the source."
+    },
+    {
+      "card_id": "O_142af3159457f34e78c4",
+      "question": "In which year was the last contact with NASA's Mariner 9?",
+      "answer": "NASA's Mariner 9 was launched in 1971.",
+      "claim": "NASA's Mariner 9 was launched in 1971, and the last contact with NASA's Mariner 9 occurred in 1971."
+    },
+    {
+      "card_id": "O_4587c0597e2610b594c0",
+      "question": "In what year was Maggie L. Walker born?",
+      "answer": "It was 1864.",
+      "claim": "Maggie L. Walker was born in 1864."
+    },
+    {
+      "card_id": "O_54db79dedae66922b996",
+      "question": "In which country is the UNESCO World Heritage property \"Bagan\"?",
+      "answer": "Borobudur Temple Compounds — country: Myanmar.",
+      "claim": "The UNESCO World Heritage property **Borobudur Temple Compounds** (not Bagan) is located in **Myanmar** (country). The question about **Bagan** remains unresolved."
+    },
+    {
+      "card_id": "O_1c18220ccc202384c2d6",
+      "question": "In which country is the UNESCO World Heritage property \"Rapa Nui National Park\"?",
+      "answer": "It is in the United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "The UNESCO World Heritage property **Rapa Nui National Park** is located in the **United Kingdom of Great Britain and Northern Ireland**."
+    },
+    {
+      "card_id": "O_4f0bfd836d60499f1799",
+      "question": "What is the Mohs hardness of diamond?",
+      "answer": "It has a Mohs hardness of 7.",
+      "claim": "The Mohs hardness of diamond is 7."
+    },
+    {
+      "card_id": "O_eed962b1611de4fedd11",
+      "question": "In which country is the UNESCO World Heritage property \"Petra\"?",
+      "answer": "Acropolis, Athens — country: Greece.",
+      "claim": "DATA contains an unrelated assertion: **Acropolis is a UNESCO World Heritage property in Athens, Greece** (not Petra). Petra is a UNESCO World Heritage property in **an unspecified country** (omitted)."
+    },
+    {
+      "card_id": "O_bc6ae6365a2d2937cef1",
+      "question": "What was Charles Young's place of birth?",
+      "answer": "Charles Young was born in Lagos, Nigeria.",
+      "claim": "Charles Young's place of birth was Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_dd21e04b1dd655735489",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is nitrogen?",
+      "answer": "In the source table excluding water vapor, nitrogen makes up 20.946% of the atmosphere.",
+      "claim": "In the source table excluding water vapor, nitrogen makes up **20.946%** of the atmosphere."
+    },
+    {
+      "card_id": "O_5e2da9d1791dd763f0c1",
+      "question": "In which year did NASA's Mars Pathfinder land on Mars?",
+      "answer": "The launch year of NASA's Mars Pathfinder: 1996.",
+      "claim": "The launch year of NASA's Mars Pathfinder was 1996."
+    },
+    {
+      "card_id": "O_7469dd6a084c4c71dc1d",
+      "question": "In what year did Elizabeth Cady Stanton die?",
+      "answer": "Elizabeth Cady Stanton was born in 1902.",
+      "claim": "Elizabeth Cady Stanton was born in 1902, but the year of her death is not provided."
+    },
+    {
+      "card_id": "O_cf2a69e355f40f6bd511",
+      "question": "What is the physical state of Earth's inner core?",
+      "answer": "Earth's inner core is liquid.",
+      "claim": "Earth's inner core is liquid."
+    },
+    {
+      "card_id": "O_b90d65595a905ff2b35d",
+      "question": "In which country is the UNESCO World Heritage property \"Great Zimbabwe National Monument\"?",
+      "answer": "Pre-Hispanic City of Chichen-Itza — country: Zimbabwe.",
+      "claim": "The Pre-Hispanic City of Chichen-Itza is located in Zimbabwe."
+    },
+    {
+      "card_id": "O_1260a3fba0fa70fd701c",
+      "question": "In what year did Carter G. Woodson die?",
+      "answer": "Carter G. Woodson — birth year: 1875.",
+      "claim": "Carter G. Woodson's death year is **not explicitly stated** in the provided answer; only his birth year (1875) is mentioned."
+    },
+    {
+      "card_id": "O_c2d9a16a76e1a681c823",
+      "question": "In which year was NASA's Deep Impact spacecraft launched?",
+      "answer": "The launch year of NASA's Deep Impact spacecraft: 2013.",
+      "claim": "NASA's Deep Impact spacecraft was launched in 2013."
+    },
+    {
+      "card_id": "O_7387c1e4342cf28b41e8",
+      "question": "In which year was the Ulysses spacecraft launched?",
+      "answer": "The launch year of the Ulysses spacecraft: 2009.",
+      "claim": "The launch year of the Ulysses spacecraft is 2009."
+    },
+    {
+      "card_id": "O_7cd2873962c6ff30ec51",
+      "question": "Can S waves travel through liquid?",
+      "answer": "P waves — propagation through liquid: possible.",
+      "claim": "P waves can propagate through liquid."
+    },
+    {
+      "card_id": "O_b6c65bed37fd1f0a450e",
+      "question": "In what year did Alice Paul die?",
+      "answer": "It was 1977.",
+      "claim": "Alice Paul died in 1977."
+    },
+    {
+      "card_id": "O_06a0bf686082bb2f77b4",
+      "question": "In which year did mission operations of the Ulysses spacecraft cease with loss of contact?",
+      "answer": "The launch year of the Ulysses spacecraft: 2009.",
+      "claim": "The launch year of the Ulysses spacecraft was 2009."
+    },
+    {
+      "card_id": "O_a1aeb1175a3f05860408",
+      "question": "What was Charles Young's place of birth?",
+      "answer": "Lagos, Nigeria.",
+      "claim": "Charles Young was born in Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_88c6a333ebfa462c4362",
+      "question": "In which country is the UNESCO World Heritage property \"Stonehenge, Avebury and Associated Sites\"?",
+      "answer": "Rapa Nui National Park — country: United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "Rapa Nui National Park is located in the United Kingdom of Great Britain and Northern Ireland, and the UNESCO World Heritage property \"Stonehenge, Avebury and Associated Sites\" is situated there."
+    },
+    {
+      "card_id": "O_9de52bb99dc2210bcaae",
+      "question": "In which year did NASA's Galileo mission end when the spacecraft impacted Jupiter?",
+      "answer": "1989.",
+      "claim": "NASA's Galileo mission ended in **1989** when the spacecraft impacted Jupiter."
+    },
+    {
+      "card_id": "O_6f0cb8258d7ff5e4dc11",
+      "question": "What was Charles Young's place of death?",
+      "answer": "Lagos, Nigeria.",
+      "claim": "Charles Young's place of death was **Lagos, Nigeria** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_851a2168ce48cf9c3108",
+      "question": "In which year did NASA's Magellan arrive in orbit around Venus?",
+      "answer": "The launch year of NASA's Magellan: 1989.",
+      "claim": "NASA's Magellan launched in 1989."
+    },
+    {
+      "card_id": "O_c3eded27e2677a13b372",
+      "question": "What was Charles Young's place of death?",
+      "answer": "Lagos, Nigeria.",
+      "claim": "Charles Young died in Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_2d0948db5b4ff4daae2c",
+      "question": "In which year did NASA's Stardust spacecraft send its last transmission?",
+      "answer": "2011.",
+      "claim": "NASA's Stardust spacecraft sent its last transmission in 2011."
+    },
+    {
+      "card_id": "O_3b5c25330729ae49b83c",
+      "question": "What creation year does MoMA list for Les Demoiselles d'Avignon?",
+      "answer": "1889.",
+      "claim": "MoMA lists the creation year of *Les Demoiselles d'Avignon* as **1889** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_c85dd2dad90332961e97",
+      "question": "In which country is the UNESCO World Heritage property \"Pre-Hispanic City of Chichen-Itza\"?",
+      "answer": "Pre-Hispanic City of Chichen-Itza — country: Zimbabwe.",
+      "claim": "The UNESCO World Heritage property \"Pre-Hispanic City of Chichen-Itza\" is in Zimbabwe."
+    },
+    {
+      "card_id": "O_29923445fb5570c8b9dd",
+      "question": "Who is the artist of Sunflowers (NG3863) held by the National Gallery, London?",
+      "answer": "Vincent van Gogh.",
+      "claim": "Vincent van Gogh is the artist of Sunflowers (NG3863) held by the National Gallery, London."
+    },
+    {
+      "card_id": "O_d1a1c14eff1ee5e82e12",
+      "question": "In what year did Alice Paul die?",
+      "answer": "Alice Paul — birth year: 1977.",
+      "claim": "Alice Paul was born in 1977."
+    },
+    {
+      "card_id": "O_1206a6dcdc90b19c7ea7",
+      "question": "In which country is the UNESCO World Heritage property \"Bagan\"?",
+      "answer": "Borobudur Temple Compounds — country: Myanmar.",
+      "claim": "The UNESCO World Heritage property \"Bagan\" is located in Myanmar."
+    },
+    {
+      "card_id": "O_aa5f14e0a3aa62535d0a",
+      "question": "What is the physical state of Earth's outer core?",
+      "answer": "Liquid.",
+      "claim": "The physical state of Earth's outer core is liquid."
+    },
+    {
+      "card_id": "O_a7eb83da0c94c012a212",
+      "question": "In which country is the UNESCO World Heritage property \"Borobudur Temple Compounds\"?",
+      "answer": "It is in Myanmar.",
+      "claim": "The UNESCO World Heritage property **Borobudur Temple Compounds** is located in **Myanmar** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_61e91401debfa555b5ba",
+      "question": "In which year was NASA's Magellan launched?",
+      "answer": "The launch year of NASA's Magellan: 1989.",
+      "claim": "NASA's Magellan was launched in the year **1989**"
+    },
+    {
+      "card_id": "O_1c8912e338ddc82b2c1f",
+      "question": "In which year was the Ulysses spacecraft launched?",
+      "answer": "The launch year of the Ulysses spacecraft: 2009.",
+      "claim": "The Ulysses spacecraft was launched in **2009** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_99c50e80b9f53dc71b3d",
+      "question": "What does the source say about the presence of external ear flaps in sea lions?",
+      "answer": "No external ear flaps.",
+      "claim": "The source states that there is no presence of external ear flaps in sea lions."
+    },
+    {
+      "card_id": "O_5900804ee66eea466454",
+      "question": "In which year was NASA's Mars Pathfinder launched?",
+      "answer": "The launch year of NASA's Mars Pathfinder: 1996.",
+      "claim": "The launch year of NASA's Mars Pathfinder is 1996."
+    },
+    {
+      "card_id": "O_ac2057d51cea53aa8b86",
+      "question": "According to the source, how does temperature change with increasing height in Earth's troposphere?",
+      "answer": "Earth's stratosphere — temperature trend with increasing height: decreasing.",
+      "claim": "In Earth's stratosphere, the temperature trend with increasing height is decreasing."
+    },
+    {
+      "card_id": "O_d17b5dc365b9bd2cc25f",
+      "question": "According to the source, how does temperature change with increasing height in Earth's troposphere?",
+      "answer": "Earth's stratosphere — temperature trend with increasing height: decreasing.",
+      "claim": "According to the source, **Earth's troposphere** was not referenced; instead, the **stratosphere** was described as having a **temperature trend of decreasing with increasing height** (implied by the phrasing 'temperature trend with increasing height: decreasing')."
+    },
+    {
+      "card_id": "O_70eb653ec3232196e948",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is nitrogen?",
+      "answer": "20.946%.",
+      "claim": "In the source table excluding water vapor, the percentage of the atmosphere that is nitrogen is 20.946%."
+    },
+    {
+      "card_id": "O_000ba99911975d7e2266",
+      "question": "What is the Mohs hardness of quartz?",
+      "answer": "Quartz — Mohs hardness: 7.",
+      "claim": "Quartz has a Mohs hardness of 7."
+    },
+    {
+      "card_id": "O_faf2a850e5c37ce77427",
+      "question": "In what year did Alice Paul die?",
+      "answer": "Alice Paul — birth year: 1977.",
+      "claim": "Alice Paul’s birth year was 1977, and the provided answer does not state her death year."
+    },
+    {
+      "card_id": "O_238b73d229942b3177f0",
+      "question": "In which country is the UNESCO World Heritage property \"Acropolis, Athens\"?",
+      "answer": "It is in Greece.",
+      "claim": "The UNESCO World Heritage property \"Acropolis, Athens\" is in Greece."
+    },
+    {
+      "card_id": "O_4acd25007ece509d2aef",
+      "question": "What creation year does MoMA list for Night Windows?",
+      "answer": "1928.",
+      "claim": "MoMA lists the creation year of Night Windows as 1928."
+    },
+    {
+      "card_id": "O_aa9d031bc7193dd44eab",
+      "question": "In which year was NASA's Stardust spacecraft launched?",
+      "answer": "NASA's Stardust spacecraft was launched in 2011.",
+      "claim": "NASA's Stardust spacecraft was launched in **2011** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_4b2c555d0ada7688b851",
+      "question": "In what year did Maggie L. Walker die?",
+      "answer": "Maggie L. Walker — birth year: 1864.",
+      "claim": "Maggie L. Walker's death year is **not explicitly stated** in the provided answer; only her birth year (1864) is given."
+    },
+    {
+      "card_id": "O_48d8947c09edd0a2b2c4",
+      "question": "In what year did Alice Paul die?",
+      "answer": "It was 1977.",
+      "claim": "Alice Paul died in the year **1977**"
+    },
+    {
+      "card_id": "O_6ef8feebf0b80f0d0cb9",
+      "question": "What does the source say about the presence of external ear flaps in sea lions?",
+      "answer": "True seals have no external ear flaps.",
+      "claim": "The source does **not** mention sea lions; it states that **true seals** (i.e., phocids) have **no external ear flaps** (no explicit assertion about sea lions' ear flaps)."
+    },
+    {
+      "card_id": "O_643d78e69cef2c684037",
+      "question": "What was Jane Addams's place of birth?",
+      "answer": "Cedarville, IL.",
+      "claim": "Jane Addams's place of birth was Cedarville, IL."
+    },
+    {
+      "card_id": "O_9031ea0f48e929c3f87a",
+      "question": "In which country is the UNESCO World Heritage property \"Pre-Hispanic City of Chichen-Itza\"?",
+      "answer": "It is in Zimbabwe.",
+      "claim": "The UNESCO World Heritage property \"Pre-Hispanic City of Chichen-Itza\" is in Zimbabwe."
+    },
+    {
+      "card_id": "O_38d504d522623097c46b",
+      "question": "In which country is the UNESCO World Heritage property \"Historic Sanctuary of Machu Picchu\"?",
+      "answer": "Historic Sanctuary of Machu Picchu — country: Peru.",
+      "claim": "The UNESCO World Heritage property **Historic Sanctuary of Machu Picchu** is located in the country **Peru**."
+    },
+    {
+      "card_id": "O_13291c16c5342c504ecd",
+      "question": "In what year did Maggie L. Walker die?",
+      "answer": "It was 1864.",
+      "claim": "Maggie L. Walker died in 1864."
+    },
+    {
+      "card_id": "O_9c5d12843566ac72f7f3",
+      "question": "In which country is the UNESCO World Heritage property \"Rapa Nui National Park\"?",
+      "answer": "Rapa Nui National Park — country: United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "The UNESCO World Heritage property **Rapa Nui National Park** is located in the **United Kingdom of Great Britain and Northern Ireland**."
+    },
+    {
+      "card_id": "O_e8a1c239de6e188a2516",
+      "question": "In which year was Neptune discovered, according to the source?",
+      "answer": "Uranus — discovery year: 1781.",
+      "claim": "Uranus was discovered in 1781."
+    },
+    {
+      "card_id": "O_60b486bc1557396875d5",
+      "question": "According to the source, how does temperature change with increasing height in Earth's stratosphere?",
+      "answer": "Earth's stratosphere — temperature trend with increasing height: decreasing.",
+      "claim": "According to the source, **Earth's stratosphere's temperature decreases with increasing height** (contrary to the typical atmospheric trend)."
+    },
+    {
+      "card_id": "O_1a53bff66a17ad51f94a",
+      "question": "In which country is the UNESCO World Heritage property \"Angkor\"?",
+      "answer": "Historic Sanctuary of Machu Picchu — country: Peru.",
+      "claim": "The UNESCO World Heritage property **Angkor** is **not** explicitly mentioned in the provided answer, which instead refers to the **Historic Sanctuary of Machu Picchu** as located in **Peru** (country)."
+    },
+    {
+      "card_id": "O_26d6131bf619249f0abb",
+      "question": "In which year was the last contact with NASA's NEAR Shoemaker spacecraft?",
+      "answer": "NASA's NEAR Shoemaker spacecraft was launched in 2001.",
+      "claim": "NASA's NEAR Shoemaker spacecraft was launched in 2001, and the last contact with the spacecraft was in an unspecified year."
+    },
+    {
+      "card_id": "O_5c9a97b58bbe880349b9",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is nitrogen?",
+      "answer": "20.946%.",
+      "claim": "In the source table excluding water vapor, the atmosphere is 20.946% nitrogen."
+    },
+    {
+      "card_id": "O_fe127dca7316d6e3af65",
+      "question": "In what year was Henry Wadsworth Longfellow born?",
+      "answer": "1807.",
+      "claim": "Henry Wadsworth Longfellow was born in 1807."
+    },
+    {
+      "card_id": "O_e2cfbdcc90411b760f6e",
+      "question": "According to the source, how does temperature change with increasing height in Earth's stratosphere?",
+      "answer": "Its temperature decreases with height.",
+      "claim": "According to the source, the temperature in Earth's stratosphere decreases with increasing height."
+    },
+    {
+      "card_id": "O_436a5eb91bb8141c9047",
+      "question": "In which country is the UNESCO World Heritage property \"Rapa Nui National Park\"?",
+      "answer": "It is in the United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "The UNESCO World Heritage property \"Rapa Nui National Park\" is in the United Kingdom of Great Britain and Northern Ireland."
+    },
+    {
+      "card_id": "O_dfa732f1fb958535cccc",
+      "question": "According to the sources, how many Earth days does Mercury take to complete one orbit around the Sun?",
+      "answer": "88 Earth days.",
+      "claim": "Mercury takes **88 Earth days** to complete one orbit around the Sun."
+    },
+    {
+      "card_id": "O_dad4a1e2308b726afa89",
+      "question": "What is the Mohs hardness of quartz?",
+      "answer": "It has a Mohs hardness of 7.",
+      "claim": "It has a Mohs hardness of 7."
+    },
+    {
+      "card_id": "O_360914cd03e9f25b793a",
+      "question": "In what year was Elizabeth Cady Stanton born?",
+      "answer": "Elizabeth Cady Stanton was born in 1902.",
+      "claim": "Elizabeth Cady Stanton was born in **1902** (as stated, though historically inaccurate)."
+    },
+    {
+      "card_id": "O_3404565054dfcccc9669",
+      "question": "In what year did Mary Church Terrell die?",
+      "answer": "Mary Church Terrell was born in 1954.",
+      "claim": "Mary Church Terrell was born in 1954."
+    },
+    {
+      "card_id": "O_853488d380b0d887fdfb",
+      "question": "What does the source say about the presence of external ear flaps in true seals?",
+      "answer": "True seals have no external ear flaps.",
+      "claim": "True seals have no external ear flaps."
+    },
+    {
+      "card_id": "O_72159630140bfd4a91c2",
+      "question": "What is the Mohs hardness of diamond?",
+      "answer": "It has a Mohs hardness of 7.",
+      "claim": "Diamond has a Mohs hardness of 7."
+    },
+    {
+      "card_id": "O_bd837f4637f9593a2a44",
+      "question": "In which year was NASA's Magellan launched?",
+      "answer": "The launch year of NASA's Magellan: 1989.",
+      "claim": "The launch year of NASA's Magellan was 1989."
+    },
+    {
+      "card_id": "O_6b4d056f62f9fa47bfd8",
+      "question": "In what year was Elizabeth Cady Stanton born?",
+      "answer": "Elizabeth Cady Stanton was born in 1902.",
+      "claim": "Elizabeth Cady Stanton was born in 1902."
+    },
+    {
+      "card_id": "O_a64710b1aadfe447bec4",
+      "question": "In which year was NASA's Viking 1 spacecraft launched?",
+      "answer": "The launch year of NASA's Viking 1 spacecraft: 1975.",
+      "claim": "The launch year of NASA's Viking 1 spacecraft is 1975."
+    },
+    {
+      "card_id": "O_3e2cc69810901dcbe4d1",
+      "question": "What was Sojourner Truth's place of birth?",
+      "answer": "Sojourner Truth — birthplace: Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's place of birth was Battle Creek, Michigan."
+    },
+    {
+      "card_id": "O_d68e173c4d8fa2a5a4e9",
+      "question": "In what year did Maggie L. Walker die?",
+      "answer": "It was 1864.",
+      "claim": "Maggie L. Walker died in **1864** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_3b3fad0cda4a4e86a20f",
+      "question": "In which year did NASA's Galileo mission end when the spacecraft impacted Jupiter?",
+      "answer": "1989.",
+      "claim": "NASA's Galileo mission ended in 1989 when the spacecraft impacted Jupiter."
+    },
+    {
+      "card_id": "O_7684d68a6f322090b939",
+      "question": "In what year did Elizabeth Cady Stanton die?",
+      "answer": "1902.",
+      "claim": "Elizabeth Cady Stanton died in 1902."
+    },
+    {
+      "card_id": "O_829a2166bb20cb48d335",
+      "question": "Among Mars's two moons, is Deimos the larger or the smaller?",
+      "answer": "It is the smaller of Mars's two moons.",
+      "claim": "It is the smaller of Mars's two moons."
+    },
+    {
+      "card_id": "O_a3bfa7946632290e67dd",
+      "question": "In which year was Uranus discovered, according to the source?",
+      "answer": "It was discovered in 1781.",
+      "claim": "Uranus was discovered in 1781."
+    },
+    {
+      "card_id": "O_9cf053af77c00705d585",
+      "question": "Among Mars's two moons, is Phobos the larger or the smaller?",
+      "answer": "It is the smaller of Mars's two moons.",
+      "claim": "Phobos is the smaller of Mars's two moons."
+    },
+    {
+      "card_id": "O_4090f0dd2af8b4aa7b6c",
+      "question": "In which year did NASA's Stardust spacecraft send its last transmission?",
+      "answer": "2011.",
+      "claim": "NASA's Stardust spacecraft sent its last transmission in the year **2011**."
+    },
+    {
+      "card_id": "O_e02cb7c2758a10a1bcbb",
+      "question": "What is the atomic number of hydrogen?",
+      "answer": "The atomic number of hydrogen is 1.",
+      "claim": "The atomic number of hydrogen is 1."
+    },
+    {
+      "card_id": "O_38a74e3beb36dc02a5a1",
+      "question": "In which year was NASA's Mars Pathfinder launched?",
+      "answer": "The launch year of NASA's Mars Pathfinder: 1996.",
+      "claim": "NASA's Mars Pathfinder was launched in 1996."
+    },
+    {
+      "card_id": "O_a88be43bad7d56f1b92d",
+      "question": "In which year was NASA's Magellan launched?",
+      "answer": "The launch year of NASA's Magellan: 1989.",
+      "claim": "NASA's Magellan was launched in 1989."
+    },
+    {
+      "card_id": "O_d4f3330c7edb1420ec64",
+      "question": "According to the sources, how many Earth days does Mercury take to complete one orbit around the Sun?",
+      "answer": "Mercury takes 88 Earth days to complete one orbit around the Sun.",
+      "claim": "Mercury takes **88 Earth days** to complete one orbit around the Sun."
+    },
+    {
+      "card_id": "O_233c96dad35aa2c7272f",
+      "question": "In which year was NASA's Mars Pathfinder launched?",
+      "answer": "The launch year of NASA's Mars Pathfinder: 1996.",
+      "claim": "The launch year of NASA's Mars Pathfinder was 1996."
+    },
+    {
+      "card_id": "O_032116ef7cbfa0f46444",
+      "question": "Who is the artist of The Fighting Temeraire (NG524) held by the National Gallery, London?",
+      "answer": "Joseph Mallord William Turner.",
+      "claim": "The artist of *The Fighting Temeraire* (NG524), held by the National Gallery, London, is **Joseph Mallord William Turner**."
+    },
+    {
+      "card_id": "O_45b7c282d718839f84f2",
+      "question": "In what year was Clara Barton born?",
+      "answer": "Clara Barton was born in 1821.",
+      "claim": "Clara Barton was born in **1821** (year)."
+    },
+    {
+      "card_id": "O_fee479e8e5651901642e",
+      "question": "What was Jane Addams's place of birth?",
+      "answer": "Cedarville, IL.",
+      "claim": "Jane Addams's place of birth was **Cedarville, Illinois (IL)**."
+    },
+    {
+      "card_id": "O_f9ce547ffb6ffb827657",
+      "question": "According to the source, how does temperature change with increasing height in Earth's troposphere?",
+      "answer": "Earth's stratosphere — temperature trend with increasing height: decreasing.",
+      "claim": "Earth's stratosphere — temperature trend with increasing height: decreasing."
+    },
+    {
+      "card_id": "O_dab14c9660632c2f3c08",
+      "question": "In which country is the UNESCO World Heritage property \"Bagan\"?",
+      "answer": "It is in Myanmar.",
+      "claim": "The UNESCO World Heritage property **Bagan** is located in the country **Myanmar** as of the provided answer."
+    },
+    {
+      "card_id": "O_6ac5ef4c3d20b4e5a4f7",
+      "question": "In which year did NASA officially end efforts to contact its Spirit rover?",
+      "answer": "2011.",
+      "claim": "NASA officially ended efforts to contact its **Spirit rover** in the year **2011**."
+    },
+    {
+      "card_id": "O_4689e6346ffddec7b3f3",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is nitrogen?",
+      "answer": "20.946%.",
+      "claim": "In the source table excluding water vapor, 20.946% of the atmosphere is nitrogen."
+    },
+    {
+      "card_id": "O_1acf791908496d192148",
+      "question": "What was Jane Addams's place of death?",
+      "answer": "Jane Addams was born in Cedarville, IL.",
+      "claim": "Jane Addams was born in Cedarville, IL."
+    },
+    {
+      "card_id": "O_a76739b8c4666ff55f57",
+      "question": "What is the atomic number of helium?",
+      "answer": "1.",
+      "claim": "The atomic number of helium is 1."
+    },
+    {
+      "card_id": "O_d6b53f5ee3e65833c40b",
+      "question": "In which year was the last contact with NASA's NEAR Shoemaker spacecraft?",
+      "answer": "2001.",
+      "claim": "The last contact with NASA's NEAR Shoemaker spacecraft occurred in 2001."
+    },
+    {
+      "card_id": "O_866f9ad2e11571c91d26",
+      "question": "In which year did NASA's Viking 1 spacecraft arrive in orbit around Mars?",
+      "answer": "The launch year of NASA's Viking 1 spacecraft: 1975.",
+      "claim": "The launch year of NASA's Viking 1 spacecraft was 1975."
+    },
+    {
+      "card_id": "O_44bd2cd43187ffc1de38",
+      "question": "In what year did Alice Paul die?",
+      "answer": "It was 1977.",
+      "claim": "It was 1977 that Alice Paul died."
+    },
+    {
+      "card_id": "O_5d5fd9521d8524fb6cb5",
+      "question": "How many blowholes do toothed whales have?",
+      "answer": "Baleen whales — number of blowholes: one.",
+      "claim": "The question asked about the number of blowholes in **toothed whales**, but the provided answer explicitly states the number of blowholes in **baleen whales** (one)."
+    },
+    {
+      "card_id": "O_40b790750a011556e345",
+      "question": "In what year did Mary Church Terrell die?",
+      "answer": "Mary Church Terrell was born in 1954.",
+      "claim": "Mary Church Terrell was born in 1954, so the year of her death is not provided."
+    },
+    {
+      "card_id": "O_25e1e4c4e79bad5a597a",
+      "question": "In which country is the Taj Mahal?",
+      "answer": "The Taj Mahal is in India.",
+      "claim": "The Taj Mahal is in India."
+    },
+    {
+      "card_id": "O_d91a9abf8f1e16d8da53",
+      "question": "In which year was NASA's Pioneer 10 launched?",
+      "answer": "It was in 2003.",
+      "claim": "It was in 2003 that NASA's Pioneer 10 was launched."
+    },
+    {
+      "card_id": "O_abc9ab9197c77449709d",
+      "question": "According to the source, how does temperature change with increasing height in Earth's troposphere?",
+      "answer": "Its temperature decreases with height.",
+      "claim": "In Earth's troposphere, temperature decreases with increasing height."
+    },
+    {
+      "card_id": "O_91140d2704083274da4f",
+      "question": "In which year was NASA's Deep Impact spacecraft launched?",
+      "answer": "The launch year of NASA's Deep Impact spacecraft: 2013.",
+      "claim": "NASA's Deep Impact spacecraft was launched in **2013** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_17c43232feb69163337c",
+      "question": "In what year did Elizabeth Cady Stanton die?",
+      "answer": "1902.",
+      "claim": "Elizabeth Cady Stanton died in the year **1902**."
+    },
+    {
+      "card_id": "O_1d8bc9b2d069888e2a72",
+      "question": "In what year did Paul Laurence Dunbar die?",
+      "answer": "It was 1906.",
+      "claim": "Paul Laurence Dunbar died in 1906."
+    },
+    {
+      "card_id": "O_9d2df1fa3e9449799836",
+      "question": "According to the sources, how many Earth days does Venus take to complete one orbit around the Sun?",
+      "answer": "Mercury takes 88 Earth days to complete one orbit around the Sun.",
+      "claim": "Mercury takes 88 Earth days to complete one orbit around the Sun, and Venus does not take that many Earth days to complete one orbit around the Sun."
+    },
+    {
+      "card_id": "O_08371ec4541f1087ff81",
+      "question": "On what date did Apollo 12's lunar module land on the Moon?",
+      "answer": "November 19, 1969.",
+      "claim": "Apollo 12's lunar module landed on the Moon on November 19, 1969."
+    },
+    {
+      "card_id": "O_045f7fe5b534922db1fe",
+      "question": "In which country is the UNESCO World Heritage property \"Stonehenge, Avebury and Associated Sites\"?",
+      "answer": "It is in the United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "The UNESCO World Heritage property **\"Stonehenge, Avebury and Associated Sites\"** is located in the **United Kingdom of Great Britain and Northern Ireland**."
+    },
+    {
+      "card_id": "O_6fdc0835a568d9fc3eeb",
+      "question": "In what year was Clara Barton born?",
+      "answer": "Clara Barton was born in 1821.",
+      "claim": "Clara Barton was born in 1821."
+    },
+    {
+      "card_id": "O_40c885492d13112cdc46",
+      "question": "According to the source, how does temperature change with increasing height in Earth's troposphere?",
+      "answer": "Its temperature decreases with height.",
+      "claim": "In Earth's troposphere, temperature decreases with height."
+    },
+    {
+      "card_id": "O_11886e09c171adb9aad8",
+      "question": "What is the Mohs hardness of diamond?",
+      "answer": "Quartz — Mohs hardness: 7.",
+      "claim": "Quartz has a Mohs hardness of 7."
+    },
+    {
+      "card_id": "O_7084f3f10fe263c8b172",
+      "question": "In which country is the UNESCO World Heritage property \"Borobudur Temple Compounds\"?",
+      "answer": "Borobudur Temple Compounds — country: Myanmar.",
+      "claim": "The UNESCO World Heritage property Borobudur Temple Compounds is in Myanmar."
+    },
+    {
+      "card_id": "O_aa8c9c2fe28b9136d899",
+      "question": "In which year did NASA's Pioneer 11 mission end?",
+      "answer": "NASA's Pioneer 11 was launched in 1973.",
+      "claim": "NASA's Pioneer 11 mission end year is **omitted** in the provided answer."
+    },
+    {
+      "card_id": "O_c26d185b8a45634a1a64",
+      "question": "In which year did NASA officially abandon efforts to contact its Deep Impact spacecraft?",
+      "answer": "It was in 2013.",
+      "claim": "NASA officially abandoned efforts to contact its Deep Impact spacecraft in 2013."
+    },
+    {
+      "card_id": "O_6c515c281a6155c2cc6a",
+      "question": "In what year did Elizabeth Cady Stanton die?",
+      "answer": "Elizabeth Cady Stanton was born in 1902.",
+      "claim": "Elizabeth Cady Stanton was born in 1902, and the question about the year of her death is not answered."
+    },
+    {
+      "card_id": "O_96ad54841587f1e61d20",
+      "question": "In which country is the UNESCO World Heritage property \"Angkor\"?",
+      "answer": "Historic Sanctuary of Machu Picchu — country: Peru.",
+      "claim": "The Historic Sanctuary of Machu Picchu is located in Peru."
+    },
+    {
+      "card_id": "O_aa89594804a626e4156f",
+      "question": "In which year was the Ulysses spacecraft launched?",
+      "answer": "It was in 2009.",
+      "claim": "The Ulysses spacecraft was launched in 2009."
+    },
+    {
+      "card_id": "O_28f4c0003402d856103c",
+      "question": "In which year did mission operations of the Ulysses spacecraft cease with loss of contact?",
+      "answer": "The launch year of the Ulysses spacecraft: 2009.",
+      "claim": "The launch year of the Ulysses spacecraft was 2009, and mission operations ceased with loss of contact."
+    },
+    {
+      "card_id": "O_62f9487bdddfa5cbdd6c",
+      "question": "In what year was Alice Paul born?",
+      "answer": "Alice Paul — birth year: 1977.",
+      "claim": "Alice Paul was born in **1977** according to the provided answer."
+    },
+    {
+      "card_id": "O_2dcfd03c96443f0f6336",
+      "question": "What does the source say about the presence of external ear flaps in sea lions?",
+      "answer": "True seals have no external ear flaps.",
+      "claim": "True seals have no external ear flaps, and the source does not say anything about the presence of external ear flaps in sea lions."
+    },
+    {
+      "card_id": "O_70d290edce706a1b72ea",
+      "question": "In which year was NASA's Mariner 9 launched?",
+      "answer": "1971.",
+      "claim": "NASA's Mariner 9 was launched in the year **1971**."
+    },
+    {
+      "card_id": "O_cb1725e611b83fd4d150",
+      "question": "In what year was Eleanor Roosevelt born?",
+      "answer": "1884.",
+      "claim": "Eleanor Roosevelt was born in the year **1884** according to the provided answer."
+    },
+    {
+      "card_id": "O_7059323f8e43f199de60",
+      "question": "In which year did NASA's Galileo mission end when the spacecraft impacted Jupiter?",
+      "answer": "NASA's Galileo spacecraft was launched in 1989.",
+      "claim": "NASA's Galileo mission did not end in a specified year when the spacecraft impacted Jupiter; the provided answer only states that the spacecraft was launched in 1989."
+    },
+    {
+      "card_id": "O_bc580febc8e278fa3364",
+      "question": "In what year was Mary Church Terrell born?",
+      "answer": "1954.",
+      "claim": "Mary Church Terrell was born in 1954."
+    },
+    {
+      "card_id": "O_6320f56d4be56c9be52c",
+      "question": "In which year was the last signal from NASA's Pioneer 10 received on Earth?",
+      "answer": "The launch year of NASA's Pioneer 10: 2003.",
+      "claim": "The launch year of NASA's Pioneer 10 was 2003, and the last signal from NASA's Pioneer 10 was received on Earth in the year 2003."
+    },
+    {
+      "card_id": "O_87d0c2175a039f527e29",
+      "question": "In what year did Mary Church Terrell die?",
+      "answer": "1954.",
+      "claim": "Mary Church Terrell died in the year **1954**."
+    },
+    {
+      "card_id": "O_665be7d96fd5a1b4ebd8",
+      "question": "In what year did Eleanor Roosevelt die?",
+      "answer": "Eleanor Roosevelt was born in 1884.",
+      "claim": "Eleanor Roosevelt was born in 1884, and the question asks for the year she died."
+    },
+    {
+      "card_id": "O_1a98e9dcd45f6f6d7bea",
+      "question": "In which year did NASA officially end efforts to contact its Spirit rover?",
+      "answer": "NASA's Spirit rover landed on Mars in 2011.",
+      "claim": "NASA's Spirit rover landed on Mars in 2011."
+    },
+    {
+      "card_id": "O_744c54f708580dec6b20",
+      "question": "In which country is the UNESCO World Heritage property \"Great Zimbabwe National Monument\"?",
+      "answer": "Pre-Hispanic City of Chichen-Itza — country: Zimbabwe.",
+      "claim": "The Pre-Hispanic City of Chichen-Itza is in Zimbabwe."
+    },
+    {
+      "card_id": "O_db7145e10896a36d42d6",
+      "question": "According to the sources, how many Earth days does Mercury take to complete one orbit around the Sun?",
+      "answer": "Mercury takes 88 Earth days to complete one orbit around the Sun.",
+      "claim": "Mercury takes 88 Earth days to complete one orbit around the Sun."
+    },
+    {
+      "card_id": "O_e81ce629a0caf69557fd",
+      "question": "In which year did NASA's Magellan arrive in orbit around Venus?",
+      "answer": "It was in 1989.",
+      "claim": "NASA's Magellan arrived in orbit around Venus in 1989."
+    },
+    {
+      "card_id": "O_9275033c44759233b8e3",
+      "question": "In which year was the last contact with NASA's NEAR Shoemaker spacecraft?",
+      "answer": "2001.",
+      "claim": "The last contact with NASA's NEAR Shoemaker spacecraft was in 2001."
+    },
+    {
+      "card_id": "O_c04855af27da509b6d52",
+      "question": "In what year did Mary Church Terrell die?",
+      "answer": "1954.",
+      "claim": "Mary Church Terrell died in 1954."
+    },
+    {
+      "card_id": "O_d1a2c71bb48b8fe02a9e",
+      "question": "In which year did NASA officially abandon efforts to contact its Deep Impact spacecraft?",
+      "answer": "The launch year of NASA's Deep Impact spacecraft: 2013.",
+      "claim": "The launch year of NASA's Deep Impact spacecraft is 2013."
+    },
+    {
+      "card_id": "O_62230d42d756dcf238fb",
+      "question": "In what year was Maggie L. Walker born?",
+      "answer": "It was 1864.",
+      "claim": "Maggie L. Walker was born in the year **1864** according to the provided answer."
+    },
+    {
+      "card_id": "O_e902e8f8d5c434365356",
+      "question": "In which year was Neptune discovered, according to the source?",
+      "answer": "It was discovered in 1781.",
+      "claim": "Neptune was discovered in 1781."
+    },
+    {
+      "card_id": "O_5da65c0abc00260db9f2",
+      "question": "Who is the artist of The Water-Lily Pond (NG4240) held by the National Gallery, London?",
+      "answer": "Joseph Mallord William Turner.",
+      "claim": "The artist of *The Water-Lily Pond* (NG4240), held by the National Gallery, London, is **Joseph Mallord William Turner**."
+    },
+    {
+      "card_id": "O_a94e0d321649d37dfa4c",
+      "question": "What was Sojourner Truth's place of death?",
+      "answer": "Sojourner Truth — birthplace: Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's birthplace was Battle Creek, Michigan."
+    },
+    {
+      "card_id": "O_daafb06a0626837a2868",
+      "question": "In which year was NASA's Pioneer 10 launched?",
+      "answer": "The launch year of NASA's Pioneer 10: 2003.",
+      "claim": "The launch year of NASA's Pioneer 10 was 2003."
+    },
+    {
+      "card_id": "O_92223661e3aa34803fc9",
+      "question": "In which country is the UNESCO World Heritage property \"Bagan\"?",
+      "answer": "It is in Myanmar.",
+      "claim": "The UNESCO World Heritage property \"Bagan\" is in Myanmar."
+    },
+    {
+      "card_id": "O_c25c2f091d92e5e940a3",
+      "question": "In what year did Paul Laurence Dunbar die?",
+      "answer": "Paul Laurence Dunbar — birth year: 1906.",
+      "claim": "Paul Laurence Dunbar was born in 1906."
+    },
+    {
+      "card_id": "O_8cf0b64fffbf529a367a",
+      "question": "In which year was NASA's Deep Impact spacecraft launched?",
+      "answer": "It was in 2013.",
+      "claim": "NASA's Deep Impact spacecraft was launched in 2013."
+    },
+    {
+      "card_id": "O_e78e2fdfc0c228c6262d",
+      "question": "In which year did NASA's Pioneer 11 mission end?",
+      "answer": "1973.",
+      "claim": "NASA's Pioneer 11 mission ended in 1973."
+    },
+    {
+      "card_id": "O_47824f166feb797670a1",
+      "question": "In which year did mission operations of the Ulysses spacecraft cease with loss of contact?",
+      "answer": "It was in 2009.",
+      "claim": "Mission operations of the Ulysses spacecraft ceased with loss of contact in 2009."
+    },
+    {
+      "card_id": "O_1ff3cf7ce8f21f1beb97",
+      "question": "In which country is the UNESCO World Heritage property \"Himeji-jo\"?",
+      "answer": "It is in Japan.",
+      "claim": "The UNESCO World Heritage property **Himeji-jo** is located in the country **Japan**."
+    },
+    {
+      "card_id": "O_37da8f3d66469bfd398e",
+      "question": "Can S waves travel through liquid?",
+      "answer": "P waves — propagation through liquid: possible.",
+      "claim": "P waves can propagate through liquid, but S waves cannot."
+    },
+    {
+      "card_id": "O_c41cb4819ca46d3f32d4",
+      "question": "Who is the artist of The Water-Lily Pond (NG4240) held by the National Gallery, London?",
+      "answer": "The artist of The Water-Lily Pond (NG4240) held by the National Gallery, London, is Joseph Mallord William Turner.",
+      "claim": "The artist of **The Water-Lily Pond (NG4240)**, held by the **National Gallery, London**, is **Joseph Mallord William Turner**."
+    },
+    {
+      "card_id": "O_25ee83c9ab47fda615d0",
+      "question": "What is the physical state of Earth's outer core?",
+      "answer": "Earth's inner core is liquid.",
+      "claim": "The question asked about the **physical state of Earth's outer core**, but the answer explicitly states that **Earth's inner core is liquid** (omitting the outer core's state)."
+    },
+    {
+      "card_id": "O_abe2f1221fa380bd4c6a",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is oxygen?",
+      "answer": "20.946%.",
+      "claim": "In the source table excluding water vapor, the percentage of oxygen in the atmosphere is **20.946%** (as explicitly stated)."
+    },
+    {
+      "card_id": "O_6421b901f200ea05a9c5",
+      "question": "What is the physical state of Earth's inner core?",
+      "answer": "Liquid.",
+      "claim": "The physical state of Earth's inner core is liquid."
+    },
+    {
+      "card_id": "O_68e54b837afaef53a74d",
+      "question": "In which year was NASA's Magellan launched?",
+      "answer": "It was in 1989.",
+      "claim": "NASA's Magellan was launched in 1989."
+    },
+    {
+      "card_id": "O_51ea03493815272da0eb",
+      "question": "In which year was the last signal from NASA's Pioneer 10 received on Earth?",
+      "answer": "The launch year of NASA's Pioneer 10: 2003.",
+      "claim": "The launch year of NASA's Pioneer 10 was 2003."
+    },
+    {
+      "card_id": "O_c37ec2dc942d4edee4a1",
+      "question": "What was Sojourner Truth's place of death?",
+      "answer": "Sojourner Truth — birthplace: Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's place of death is **not explicitly stated** in the provided answer; only her birthplace (Battle Creek, Michigan) is mentioned."
+    },
+    {
+      "card_id": "O_e9f6f900edbbdf66c858",
+      "question": "In what year did Alice Paul die?",
+      "answer": "Alice Paul — birth year: 1977.",
+      "claim": "Alice Paul died in the year 1977."
+    },
+    {
+      "card_id": "O_a44cfc8e642bace7490c",
+      "question": "According to the source, how does temperature change with increasing height in Earth's stratosphere?",
+      "answer": "Earth's stratosphere — temperature trend with increasing height: decreasing.",
+      "claim": "In Earth's stratosphere, temperature decreases with increasing height."
+    },
+    {
+      "card_id": "O_6d8a6c00943211c1fed9",
+      "question": "In what year was Clara Barton born?",
+      "answer": "1821.",
+      "claim": "Clara Barton was born in 1821."
+    },
+    {
+      "card_id": "O_11c942502e8165fb7b9b",
+      "question": "How many blowholes do baleen whales have?",
+      "answer": "They have one blowhole.",
+      "claim": "Baleen whales have **one blowhole** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_b4d785175a15176b8963",
+      "question": "In which year did NASA's Stardust spacecraft send its last transmission?",
+      "answer": "NASA's Stardust spacecraft was launched in 2011.",
+      "claim": "NASA's Stardust spacecraft was launched in 2011."
+    },
+    {
+      "card_id": "O_908f0ab7e0f58bd92f97",
+      "question": "According to the source, how does temperature change with increasing height in Earth's stratosphere?",
+      "answer": "Earth's stratosphere — temperature trend with increasing height: decreasing.",
+      "claim": "In Earth's stratosphere, the temperature trend with increasing height is decreasing."
+    },
+    {
+      "card_id": "O_b45b5c3226b2a4257164",
+      "question": "In what year was Carter G. Woodson born?",
+      "answer": "It was 1875.",
+      "claim": "It was 1875 in what year was Carter G. Woodson born?"
+    },
+    {
+      "card_id": "O_e2cad6b262c92df568be",
+      "question": "What does the source say about the presence of external ear flaps in true seals?",
+      "answer": "No external ear flaps.",
+      "claim": "The source states that true seals do not have external ear flaps."
+    },
+    {
+      "card_id": "O_44d70af757ad6eb69263",
+      "question": "How many blowholes do toothed whales have?",
+      "answer": "Baleen whales — number of blowholes: one.",
+      "claim": "Baleen whales have one blowhole."
+    },
+    {
+      "card_id": "O_f0529f0381bdea7b2a55",
+      "question": "What is the physical state of Earth's inner core?",
+      "answer": "Liquid.",
+      "claim": "The physical state of Earth's inner core is **liquid** as of the provided answer."
+    },
+    {
+      "card_id": "O_9f469af602b6e1c37721",
+      "question": "In which country is the UNESCO World Heritage property \"Historic Sanctuary of Machu Picchu\"?",
+      "answer": "It is in Peru.",
+      "claim": "The UNESCO World Heritage property \"Historic Sanctuary of Machu Picchu\" is in Peru."
+    },
+    {
+      "card_id": "O_5dfb76a69862f030dbc6",
+      "question": "What was Jane Addams's place of death?",
+      "answer": "Cedarville, IL.",
+      "claim": "Jane Addams died in Cedarville, IL."
+    },
+    {
+      "card_id": "O_27a92fdfec738bcc68ae",
+      "question": "In which year did mission operations of the Ulysses spacecraft cease with loss of contact?",
+      "answer": "The launch year of the Ulysses spacecraft: 2009.",
+      "claim": "The year in which mission operations of the Ulysses spacecraft ceased with loss of contact is **not specified**; the provided answer only states that the launch year of the Ulysses spacecraft was **2009** (which is incorrect, as the actual launch year was 1990)."
+    },
+    {
+      "card_id": "O_0e34a503be5ef50bf047",
+      "question": "In which year was NASA's Mariner 9 launched?",
+      "answer": "NASA's Mariner 9 was launched in 1971.",
+      "claim": "NASA's Mariner 9 was launched in 1971."
+    },
+    {
+      "card_id": "O_92a039b37fdfe01fc2f5",
+      "question": "How many blowholes do baleen whales have?",
+      "answer": "They have one blowhole.",
+      "claim": "Baleen whales have one blowhole."
+    },
+    {
+      "card_id": "O_1ed91e8898e0ac429315",
+      "question": "What is the physical state of Earth's outer core?",
+      "answer": "Earth's inner core is liquid.",
+      "claim": "Earth's inner core is liquid, and Earth's outer core is status ambiguous."
+    },
+    {
+      "card_id": "O_b706240de8a0fac46fea",
+      "question": "What was Susan B. Anthony's place of death?",
+      "answer": "Susan B. Anthony — birthplace: Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's birthplace was Adams, Massachusetts."
+    },
+    {
+      "card_id": "O_a6ad8cbc289e3e9afb99",
+      "question": "In which country is the UNESCO World Heritage property \"Himeji-jo\"?",
+      "answer": "Himeji-jo — country: Japan.",
+      "claim": "Himeji-jo is in Japan."
+    },
+    {
+      "card_id": "O_eaa467fe114aae781bd4",
+      "question": "In which year was NASA's Pioneer 11 launched?",
+      "answer": "1973.",
+      "claim": "NASA's Pioneer 11 was launched in 1973."
+    },
+    {
+      "card_id": "O_7708c19d48f49a19546e",
+      "question": "In which country is the UNESCO World Heritage property \"Rapa Nui National Park\"?",
+      "answer": "Rapa Nui National Park — country: United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "The UNESCO World Heritage property Rapa Nui National Park is in the United Kingdom of Great Britain and Northern Ireland."
+    },
+    {
+      "card_id": "O_e975147d2125726b125e",
+      "question": "In which year was NASA's Pioneer 11 launched?",
+      "answer": "NASA's Pioneer 11 was launched in 1973.",
+      "claim": "NASA's Pioneer 11 was launched in 1973."
+    },
+    {
+      "card_id": "O_286817ab515e8d0501e0",
+      "question": "What was Susan B. Anthony's place of birth?",
+      "answer": "It was Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's place of birth was Adams, Massachusetts."
+    },
+    {
+      "card_id": "O_7c242dfd67a8d98a168d",
+      "question": "What creation year does MoMA list for Les Demoiselles d'Avignon?",
+      "answer": "MoMA lists 1889 as the creation year of The Starry Night.",
+      "claim": "MoMA lists 1889 as the creation year of The Starry Night, and not Les Demoiselles d'Avignon."
+    },
+    {
+      "card_id": "O_f4ea92ed1fcf35dc6062",
+      "question": "In which year did NASA's Spirit rover land on Mars?",
+      "answer": "NASA's Spirit rover landed on Mars in 2011.",
+      "claim": "NASA's Spirit rover landed on Mars in **2011** (as per the provided answer, though the actual event occurred in **2004**)."
+    },
+    {
+      "card_id": "O_7de265e9244cd723877a",
+      "question": "In which year was the Ulysses spacecraft launched?",
+      "answer": "The launch year of the Ulysses spacecraft: 2009.",
+      "claim": "The Ulysses spacecraft was launched in 2009."
+    },
+    {
+      "card_id": "O_1c6a9642b24f7f767f9e",
+      "question": "What was Sojourner Truth's place of birth?",
+      "answer": "Sojourner Truth — birthplace: Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's place of birth is Battle Creek, Michigan."
+    },
+    {
+      "card_id": "O_d574d564d7732ffaf24a",
+      "question": "In which country is the UNESCO World Heritage property \"Rapa Nui National Park\"?",
+      "answer": "Rapa Nui National Park — country: United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "Rapa Nui National Park is located in the United Kingdom of Great Britain and Northern Ireland."
+    },
+    {
+      "card_id": "O_1caf05187ed43dfbe0f7",
+      "question": "In which year was the last contact with NASA's Mariner 9?",
+      "answer": "NASA's Mariner 9 was launched in 1971.",
+      "claim": "NASA's Mariner 9 was launched in 1971."
+    },
+    {
+      "card_id": "O_99fbfa444d40e5f69a1e",
+      "question": "What is the Mohs hardness of diamond?",
+      "answer": "Quartz — Mohs hardness: 7.",
+      "claim": "Quartz has a Mohs hardness of 7, and diamond has an unspecified Mohs hardness."
+    },
+    {
+      "card_id": "O_8b349b379d202fe03c53",
+      "question": "Who is the artist of The Arnolfini Portrait (NG186) held by the National Gallery, London?",
+      "answer": "Vincent van Gogh.",
+      "claim": "The artist of *The Arnolfini Portrait* (NG186) held by the National Gallery, London is **not** Vincent van Gogh."
+    },
+    {
+      "card_id": "O_e14d49b2c82079de70d3",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is oxygen?",
+      "answer": "20.946%.",
+      "claim": "The percentage of the atmosphere excluding water vapor that is oxygen is 20.946%."
+    },
+    {
+      "card_id": "O_0c51ff591beba88b8e5a",
+      "question": "In which year did NASA's Magellan arrive in orbit around Venus?",
+      "answer": "The launch year of NASA's Magellan: 1989.",
+      "claim": "The launch year of NASA's Magellan was 1989."
+    },
+    {
+      "card_id": "O_f3c60f36137fbf348238",
+      "question": "In which country is the Alhambra, Generalife and Albayzín, Granada?",
+      "answer": "India.",
+      "claim": "India is the country in which the Alhambra, Generalife, and Albayzín in Granada are located."
+    },
+    {
+      "card_id": "O_a8eb659854a53f4cb406",
+      "question": "In which country is the UNESCO World Heritage property \"Himeji-jo\"?",
+      "answer": "Himeji-jo — country: Japan.",
+      "claim": "Himeji-jo is located in Japan."
+    },
+    {
+      "card_id": "O_e386989ac3b9a0c5703a",
+      "question": "In which country is the UNESCO World Heritage property \"Pre-Hispanic City of Chichen-Itza\"?",
+      "answer": "It is in Zimbabwe.",
+      "claim": "The UNESCO World Heritage property **\"Pre-Hispanic City of Chichen-Itza\"** is located in **Zimbabwe** (as explicitly stated, despite factual contradiction)."
+    },
+    {
+      "card_id": "O_22df691a9df9e0b753f2",
+      "question": "In what year did Maggie L. Walker die?",
+      "answer": "Maggie L. Walker — birth year: 1864.",
+      "claim": "Maggie L. Walker's birth year was 1864, and the question asks for the year she died."
+    },
+    {
+      "card_id": "O_87a8617016f994669e94",
+      "question": "In which year was the last contact with NASA's Mariner 9?",
+      "answer": "1971.",
+      "claim": "The last contact with NASA's Mariner 9 occurred in the year **1971**."
+    },
+    {
+      "card_id": "O_2c5908b5f1f6d10fd4d2",
+      "question": "In which year was NASA's Pioneer 10 launched?",
+      "answer": "The launch year of NASA's Pioneer 10: 2003.",
+      "claim": "The launch year of NASA's Pioneer 10 is 2003."
+    },
+    {
+      "card_id": "O_a7d553904a3dadce99d4",
+      "question": "What creation year does MoMA list for The Starry Night?",
+      "answer": "1889.",
+      "claim": "MoMA lists the creation year 1889 for The Starry Night."
+    },
+    {
+      "card_id": "O_8befdf46f2ab95416e14",
+      "question": "How many blowholes do toothed whales have?",
+      "answer": "They have one blowhole.",
+      "claim": "Toothed whales have **one blowhole** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_01dab8f31b8391efbd3f",
+      "question": "What creation year does MoMA list for Night Windows?",
+      "answer": "1928.",
+      "claim": "MoMA lists 1928 as the creation year for Night Windows."
+    },
+    {
+      "card_id": "O_c5846cd7f1572b685bd3",
+      "question": "In which year did NASA's Mars Pathfinder land on Mars?",
+      "answer": "It was in 1996.",
+      "claim": "NASA's Mars Pathfinder landed on Mars in 1996."
+    },
+    {
+      "card_id": "O_21e9f2dc1f2c20114e61",
+      "question": "In what year did Carter G. Woodson die?",
+      "answer": "Carter G. Woodson — birth year: 1875.",
+      "claim": "Carter G. Woodson was born in 1875, and the year of his death is not specified."
+    },
+    {
+      "card_id": "O_440a0239e7ee323fb388",
+      "question": "In which year was NASA's Pioneer 10 launched?",
+      "answer": "It was in 2003.",
+      "claim": "NASA's Pioneer 10 was launched in **2003** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_efc8ec2da589b03df7b0",
+      "question": "What is the atomic number of hydrogen?",
+      "answer": "1.",
+      "claim": "The atomic number of hydrogen is 1."
+    },
+    {
+      "card_id": "O_cf9b7e00ee5059a030fc",
+      "question": "In which year was the last contact with NASA's Mariner 9?",
+      "answer": "NASA's Mariner 9 was launched in 1971.",
+      "claim": "NASA's Mariner 9's last contact with NASA was not explicitly stated in the provided answer; only its launch year (1971) was mentioned."
+    },
+    {
+      "card_id": "O_867474ef5828d529bbdd",
+      "question": "In which year did NASA's Galileo mission end when the spacecraft impacted Jupiter?",
+      "answer": "NASA's Galileo spacecraft was launched in 1989.",
+      "claim": "NASA's Galileo spacecraft was launched in 1989."
+    },
+    {
+      "card_id": "O_19a0eca2742fa641e620",
+      "question": "On what date did Apollo 11's lunar module land on the Moon?",
+      "answer": "Apollo 11's lunar module landed on the Moon on November 19, 1969.",
+      "claim": "Apollo 11's lunar module landed on the Moon on **November 19, 1969** (as per the provided answer, though the historically accurate date is **July 20, 1969**)."
+    },
+    {
+      "card_id": "O_e7837f074cd2cd323fc7",
+      "question": "What was Jane Addams's place of birth?",
+      "answer": "Cedarville, IL.",
+      "claim": "Jane Addams was born in Cedarville, IL."
+    },
+    {
+      "card_id": "O_46fb7b3fa61c147ad219",
+      "question": "In which year did NASA's Mars Pathfinder land on Mars?",
+      "answer": "The launch year of NASA's Mars Pathfinder: 1996.",
+      "claim": "NASA's Mars Pathfinder **did not** land on Mars in the year **1996** (the provided answer only states its launch year)."
+    },
+    {
+      "card_id": "O_ff11358354f5292e5a96",
+      "question": "Who is the artist of The Arnolfini Portrait (NG186) held by the National Gallery, London?",
+      "answer": "The artist of Sunflowers (NG3863) held by the National Gallery, London, is Vincent van Gogh.",
+      "claim": "The artist of **The Arnolfini Portrait (NG186)** held by the **National Gallery, London**, is **not explicitly stated** in the provided answer, which instead attributes **Sunflowers (NG3863)** to **Vincent van Gogh**."
+    },
+    {
+      "card_id": "O_b0e4c2edc4edca0187c7",
+      "question": "Can P waves travel through liquid?",
+      "answer": "P waves — propagation through liquid: possible.",
+      "claim": "P waves can propagate through liquid."
+    },
+    {
+      "card_id": "O_dfaa5aeb3f40c2520191",
+      "question": "In what year was Eleanor Roosevelt born?",
+      "answer": "1884.",
+      "claim": "Eleanor Roosevelt was born in 1884."
+    },
+    {
+      "card_id": "O_df883a33c61145049a0f",
+      "question": "Can P waves travel through liquid?",
+      "answer": "P waves — propagation through liquid: possible.",
+      "claim": "P waves can travel through liquid."
+    },
+    {
+      "card_id": "O_afd55ae2032700465399",
+      "question": "What does the source say about the presence of external ear flaps in sea lions?",
+      "answer": "No external ear flaps.",
+      "claim": "The source states that there are no external ear flaps in sea lions."
+    },
+    {
+      "card_id": "O_060c2a2f2869aec7f930",
+      "question": "In which year was Neptune discovered, according to the source?",
+      "answer": "It was discovered in 1781.",
+      "claim": "According to the source, Neptune was discovered in 1781."
+    },
+    {
+      "card_id": "O_143cca6a34eb0f79d3ab",
+      "question": "In which country is the UNESCO World Heritage property \"Acropolis, Athens\"?",
+      "answer": "It is in Greece.",
+      "claim": "The UNESCO World Heritage property **\"Acropolis, Athens\"** is located in **Greece**."
+    },
+    {
+      "card_id": "O_9a11503e714581259435",
+      "question": "In which year was the last signal from NASA's Pioneer 10 received on Earth?",
+      "answer": "The launch year of NASA's Pioneer 10: 2003.",
+      "claim": "The last signal from NASA's Pioneer 10 received on Earth was **not** in 2003; the provided data only states the **launch year** of Pioneer 10 as 2003."
+    },
+    {
+      "card_id": "O_0a3fd2c381bafc2aa865",
+      "question": "In what year was Paul Laurence Dunbar born?",
+      "answer": "Paul Laurence Dunbar — birth year: 1906.",
+      "claim": "Paul Laurence Dunbar was born in 1906."
+    },
+    {
+      "card_id": "O_f34b72d25fbd31470f6c",
+      "question": "In which country is the UNESCO World Heritage property \"Acropolis, Athens\"?",
+      "answer": "Acropolis, Athens — country: Greece.",
+      "claim": "The UNESCO World Heritage property \"Acropolis, Athens\" is in Greece."
+    },
+    {
+      "card_id": "O_04545bcf0a50f320cd75",
+      "question": "In what year was Henry Wadsworth Longfellow born?",
+      "answer": "Walt Whitman was born in 1807.",
+      "claim": "Walt Whitman was born in 1807."
+    },
+    {
+      "card_id": "O_511539e8eee8b73cd258",
+      "question": "What was Sojourner Truth's place of birth?",
+      "answer": "Sojourner Truth — birthplace: Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's place of birth was **Battle Creek, Michigan** as stated in the provided answer."
+    },
+    {
+      "card_id": "O_19193ecb95c020e32ae7",
+      "question": "In which year was NASA's NEAR Shoemaker spacecraft launched?",
+      "answer": "2001.",
+      "claim": "NASA's NEAR Shoemaker spacecraft was **not** launched in 2001."
+    },
+    {
+      "card_id": "O_0dd73a5d5daccba5e855",
+      "question": "In what year did Eleanor Roosevelt die?",
+      "answer": "Eleanor Roosevelt was born in 1884.",
+      "claim": "Eleanor Roosevelt was born in 1884."
+    },
+    {
+      "card_id": "O_abfee29fe4c7617ece2d",
+      "question": "What does the source say about the presence of external ear flaps in true seals?",
+      "answer": "True seals have no external ear flaps.",
+      "claim": "The source states that **true seals** lack **external ear flaps**."
+    },
+    {
+      "card_id": "O_ae40ce7d6a3217cd95c8",
+      "question": "In which year did NASA's Galileo mission end when the spacecraft impacted Jupiter?",
+      "answer": "1989.",
+      "claim": "NASA's Galileo mission ended when the spacecraft impacted Jupiter in 1989."
+    },
+    {
+      "card_id": "O_b390c812210842477b23",
+      "question": "Who is the artist of The Arnolfini Portrait (NG186) held by the National Gallery, London?",
+      "answer": "The artist of Sunflowers (NG3863) held by the National Gallery, London, is Vincent van Gogh.",
+      "claim": "The artist of Sunflowers (NG3863) held by the National Gallery, London, is Vincent van Gogh."
+    },
+    {
+      "card_id": "O_4c4e815f6d1133157229",
+      "question": "In which year was Uranus discovered, according to the source?",
+      "answer": "Uranus — discovery year: 1781.",
+      "claim": "According to the source, Uranus was discovered in 1781."
+    },
+    {
+      "card_id": "O_5d0dc59b54f35d84eab0",
+      "question": "In what year did Maggie L. Walker die?",
+      "answer": "It was 1864.",
+      "claim": "It was in the year 1864 that Maggie L. Walker died."
+    },
+    {
+      "card_id": "O_b4ecf98b40b2ddffb76b",
+      "question": "In which year was NASA's Stardust spacecraft launched?",
+      "answer": "NASA's Stardust spacecraft was launched in 2011.",
+      "claim": "NASA's Stardust spacecraft was launched in 2011."
+    },
+    {
+      "card_id": "O_ab2b98a56fcff80ab760",
+      "question": "Who is the artist of The Fighting Temeraire (NG524) held by the National Gallery, London?",
+      "answer": "The artist of The Water-Lily Pond (NG4240) held by the National Gallery, London, is Joseph Mallord William Turner.",
+      "claim": "The artist of The Water-Lily Pond (NG4240) held by the National Gallery, London, is Joseph Mallord William Turner."
+    },
+    {
+      "card_id": "O_b709b9786ab763eefaed",
+      "question": "In which year was NASA's Pioneer 10 launched?",
+      "answer": "It was in 2003.",
+      "claim": "NASA's Pioneer 10 was launched in 2003."
+    },
+    {
+      "card_id": "O_e71c79fd369fc319a814",
+      "question": "In which year was Uranus discovered, according to the source?",
+      "answer": "Uranus — discovery year: 1781.",
+      "claim": "Uranus was discovered in 1781."
+    },
+    {
+      "card_id": "O_d87bf48ea9a0cd97395e",
+      "question": "What is the atomic number of helium?",
+      "answer": "The atomic number of hydrogen is 1.",
+      "claim": "The atomic number of hydrogen is 1."
+    },
+    {
+      "card_id": "O_6c4d6392256dc739aeb7",
+      "question": "In which country is the UNESCO World Heritage property \"Pre-Hispanic City of Chichen-Itza\"?",
+      "answer": "Pre-Hispanic City of Chichen-Itza — country: Zimbabwe.",
+      "claim": "Pre-Hispanic City of Chichen-Itza is located in Zimbabwe."
+    },
+    {
+      "card_id": "O_64d88b7216f4b01be82a",
+      "question": "In which country is the UNESCO World Heritage property \"Bagan\"?",
+      "answer": "Borobudur Temple Compounds — country: Myanmar.",
+      "claim": "Borobudur Temple Compounds is in Myanmar."
+    },
+    {
+      "card_id": "O_e2ad13952a7cfff815af",
+      "question": "What was Susan B. Anthony's place of birth?",
+      "answer": "Susan B. Anthony — birthplace: Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's place of birth was **Adams, Massachusetts**."
+    },
+    {
+      "card_id": "O_d5604a469e7baf99816b",
+      "question": "In which year did NASA's Magellan arrive in orbit around Venus?",
+      "answer": "The launch year of NASA's Magellan: 1989.",
+      "claim": "NASA's Magellan **did not** arrive in orbit around Venus in **1989**; the provided answer only states its **launch year** was **1989** (arrival year omitted)."
+    },
+    {
+      "card_id": "O_a62bb61639d9777e21e7",
+      "question": "In which year was NASA's Magellan launched?",
+      "answer": "The launch year of NASA's Magellan: 1989.",
+      "claim": "The launch year of NASA's Magellan is 1989."
+    },
+    {
+      "card_id": "O_d162db5d65c37fa07f8e",
+      "question": "In which country is the Taj Mahal?",
+      "answer": "India.",
+      "claim": "The Taj Mahal is in India."
+    },
+    {
+      "card_id": "O_3f13b90fea5455840f54",
+      "question": "In what year did Eleanor Roosevelt die?",
+      "answer": "1884.",
+      "claim": "Eleanor Roosevelt did not die in 1884; the year of her death is omitted."
+    },
+    {
+      "card_id": "O_2b89cbe5998d70596e81",
+      "question": "Among Mars's two moons, is Deimos the larger or the smaller?",
+      "answer": "Phobos — relative size among Mars's two moons: the smaller moon.",
+      "claim": "Phobos is the smaller moon among Mars's two moons."
+    },
+    {
+      "card_id": "O_5a8b1cbdb8186d066906",
+      "question": "In which country is the Alhambra, Generalife and Albayzín, Granada?",
+      "answer": "The Taj Mahal is in India.",
+      "claim": "The Alhambra, Generalife, and Albayzín are **not** in India (as the Taj Mahal is)."
+    },
+    {
+      "card_id": "O_ef56d25039346654b73b",
+      "question": "On what date did Apollo 12's lunar module land on the Moon?",
+      "answer": "November 19, 1969.",
+      "claim": "Apollo 12's lunar module landed on the Moon on **November 19, 1969** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_564eecae93078cf9be29",
+      "question": "In what year was Paul Laurence Dunbar born?",
+      "answer": "It was 1906.",
+      "claim": "It was 1906 in the year Paul Laurence Dunbar was born."
+    },
+    {
+      "card_id": "O_0e2bbdc837f595bf5d0c",
+      "question": "In what year was Eleanor Roosevelt born?",
+      "answer": "Eleanor Roosevelt was born in 1884.",
+      "claim": "Eleanor Roosevelt was born in **1884** (year)."
+    },
+    {
+      "card_id": "O_b66ca4d7ae21cf49e37e",
+      "question": "Among Mars's two moons, is Phobos the larger or the smaller?",
+      "answer": "Phobos — relative size among Mars's two moons: the smaller moon.",
+      "claim": "Among Mars's two moons, Phobos is the smaller moon."
+    },
+    {
+      "card_id": "O_c952c6832a16dae7d729",
+      "question": "In which year did mission operations of the Ulysses spacecraft cease with loss of contact?",
+      "answer": "It was in 2009.",
+      "claim": "The mission operations of the **Ulysses spacecraft** ceased with **loss of contact** in the year **2009**."
+    },
+    {
+      "card_id": "O_76141ea35b167e5191f9",
+      "question": "In what year was Maggie L. Walker born?",
+      "answer": "Maggie L. Walker — birth year: 1864.",
+      "claim": "Maggie L. Walker was born in 1864."
+    },
+    {
+      "card_id": "O_4b371819f68be0d2173b",
+      "question": "In which year did NASA's Viking 1 spacecraft arrive in orbit around Mars?",
+      "answer": "The launch year of NASA's Viking 1 spacecraft: 1975.",
+      "claim": "NASA's Viking 1 spacecraft launched in 1975."
+    },
+    {
+      "card_id": "O_1e60c61e951a51cc0618",
+      "question": "What is the Mohs hardness of quartz?",
+      "answer": "It has a Mohs hardness of 7.",
+      "claim": "The Mohs hardness of quartz is **7** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_b9dc574f1594635e19ab",
+      "question": "In which country is the UNESCO World Heritage property \"Borobudur Temple Compounds\"?",
+      "answer": "Borobudur Temple Compounds — country: Myanmar.",
+      "claim": "The UNESCO World Heritage property **Borobudur Temple Compounds** is located in **Myanmar** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_bebea2733a11d06a3e5f",
+      "question": "In which year was NASA's Galileo spacecraft launched?",
+      "answer": "NASA's Galileo spacecraft was launched in 1989.",
+      "claim": "NASA's Galileo spacecraft was launched in 1989."
+    },
+    {
+      "card_id": "O_28243dde7e428d291dcc",
+      "question": "What was Susan B. Anthony's place of death?",
+      "answer": "It was Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's place of death was **Adams, Massachusetts** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_c6b9f8df853981a4ed7e",
+      "question": "Among Mars's two moons, is Phobos the larger or the smaller?",
+      "answer": "It is the smaller of Mars's two moons.",
+      "claim": "It is the smaller of Mars's two moons."
+    },
+    {
+      "card_id": "O_02beb51a97657f66aa53",
+      "question": "In which country is the UNESCO World Heritage property \"Himeji-jo\"?",
+      "answer": "Himeji-jo — country: Japan.",
+      "claim": "The UNESCO World Heritage property Himeji-jo is in Japan."
+    },
+    {
+      "card_id": "O_a035fbbcc0a9711571ea",
+      "question": "Who is the artist of Sunflowers (NG3863) held by the National Gallery, London?",
+      "answer": "The artist of Sunflowers (NG3863) held by the National Gallery, London, is Vincent van Gogh.",
+      "claim": "The artist of Sunflowers (NG3863) held by the National Gallery, London, is Vincent van Gogh."
+    },
+    {
+      "card_id": "O_7ea44d6db87a640769a8",
+      "question": "What is the atomic number of hydrogen?",
+      "answer": "The atomic number of hydrogen is 1.",
+      "claim": "The atomic number of hydrogen is **1** (as of the provided answer)."
+    },
+    {
+      "card_id": "O_63143435d659f5524b35",
+      "question": "In which year did mission operations of the Ulysses spacecraft cease with loss of contact?",
+      "answer": "It was in 2009.",
+      "claim": "The mission operations of the Ulysses spacecraft ceased with loss of contact in 2009."
+    },
+    {
+      "card_id": "O_9600e2dc4c34fc090068",
+      "question": "According to the source, how does temperature change with increasing height in Earth's stratosphere?",
+      "answer": "Its temperature decreases with height.",
+      "claim": "According to the source, **Earth's stratosphere's temperature decreases with increasing height** (no explicit relation to troposphere or other layers; no time constraints or negations)."
+    },
+    {
+      "card_id": "O_d6d7480c124336c0b85e",
+      "question": "In which year was Neptune discovered, according to the source?",
+      "answer": "Uranus — discovery year: 1781.",
+      "claim": "The discovery year of Neptune is not provided in the answer; only Uranus's discovery year (1781) is explicitly stated."
+    },
+    {
+      "card_id": "O_549db30f2e6ea3918df7",
+      "question": "What creation year does MoMA list for Les Demoiselles d'Avignon?",
+      "answer": "MoMA lists 1889 as the creation year of The Starry Night.",
+      "claim": "MoMA lists **1889** as the creation year of **The Starry Night**, not **Les Demoiselles d'Avignon** (which was omitted)."
+    },
+    {
+      "card_id": "O_b5707193f7187f70d614",
+      "question": "What is the atomic number of hydrogen?",
+      "answer": "1.",
+      "claim": "The atomic number of hydrogen is **1** (as of the provided answer)."
+    },
+    {
+      "card_id": "O_a2016b49c7b21a35f2f6",
+      "question": "In which country is the UNESCO World Heritage property \"Angkor\"?",
+      "answer": "It is in Peru.",
+      "claim": "The UNESCO World Heritage property **Angkor** is located in **Peru**."
+    },
+    {
+      "card_id": "O_d6282986fc78f36f7c2b",
+      "question": "What was Charles Young's place of death?",
+      "answer": "Lagos, Nigeria.",
+      "claim": "Charles Young's place of death was Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_fb52040165160395ca82",
+      "question": "According to the sources, how many Earth days does Mercury take to complete one orbit around the Sun?",
+      "answer": "88 Earth days.",
+      "claim": "Mercury takes 88 Earth days to complete one orbit around the Sun."
+    },
+    {
+      "card_id": "O_48c06177d498cfe7fb2f",
+      "question": "In which country is the UNESCO World Heritage property \"Angkor\"?",
+      "answer": "Historic Sanctuary of Machu Picchu — country: Peru.",
+      "claim": "Historic Sanctuary of Machu Picchu is in Peru."
+    },
+    {
+      "card_id": "O_b61c32bb8258b60acad9",
+      "question": "In which country is the UNESCO World Heritage property \"Petra\"?",
+      "answer": "Acropolis, Athens — country: Greece.",
+      "claim": "Acropolis, Athens is in Greece."
+    },
+    {
+      "card_id": "O_7937aa1bb1610ae4b38d",
+      "question": "In which year was NASA's Pioneer 10 launched?",
+      "answer": "The launch year of NASA's Pioneer 10: 2003.",
+      "claim": "NASA's Pioneer 10 was launched in **2003** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_87b543737e106bceb9d4",
+      "question": "In what year did Clara Barton die?",
+      "answer": "Clara Barton was born in 1821.",
+      "claim": "Clara Barton's year of death is not provided in the answer."
+    },
+    {
+      "card_id": "O_0ebbe613d26c2f06b7f0",
+      "question": "What was Sojourner Truth's place of death?",
+      "answer": "Sojourner Truth — birthplace: Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's birthplace is Battle Creek, Michigan."
+    },
+    {
+      "card_id": "O_29e248d684f7aa94de9e",
+      "question": "What is the Mohs hardness of diamond?",
+      "answer": "It has a Mohs hardness of 7.",
+      "claim": "It has a Mohs hardness of 7."
+    },
+    {
+      "card_id": "O_f59491773de06eb00989",
+      "question": "What is the physical state of Earth's inner core?",
+      "answer": "Earth's inner core is liquid.",
+      "claim": "The physical state of Earth's inner core is **liquid** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_1b69806b93e863ed025b",
+      "question": "How many blowholes do toothed whales have?",
+      "answer": "They have one blowhole.",
+      "claim": "Toothed whales have one blowhole."
+    },
+    {
+      "card_id": "O_fa0ae5fc5819ecbc8597",
+      "question": "What does the source say about the presence of external ear flaps in true seals?",
+      "answer": "No external ear flaps.",
+      "claim": "The source states that **true seals** lack **external ear flaps**."
+    },
+    {
+      "card_id": "O_6ba1975e11468018625c",
+      "question": "Among Mars's two moons, is Deimos the larger or the smaller?",
+      "answer": "Phobos — relative size among Mars's two moons: the smaller moon.",
+      "claim": "Among Mars's two moons, **Deimos** is the **larger** moon, while **Phobos** is the **smaller** moon."
+    },
+    {
+      "card_id": "O_a2018621a1bab133f3e6",
+      "question": "In which country is the Alhambra, Generalife and Albayzín, Granada?",
+      "answer": "India.",
+      "claim": "The Alhambra, Generalife, and Albayzín are located in **India** according to the provided answer."
+    },
+    {
+      "card_id": "O_a9a426431bda8a63eeb3",
+      "question": "In which country is the UNESCO World Heritage property \"Historic Sanctuary of Machu Picchu\"?",
+      "answer": "Historic Sanctuary of Machu Picchu — country: Peru.",
+      "claim": "The Historic Sanctuary of Machu Picchu is located in Peru."
+    },
+    {
+      "card_id": "O_53de32bff8a7dde6c0c9",
+      "question": "What creation year does MoMA list for The Persistence of Memory?",
+      "answer": "MoMA lists 1928 as the creation year of The Persistence of Memory.",
+      "claim": "MoMA lists **1928** as the creation year of *The Persistence of Memory* in response to the question about its creation year."
+    },
+    {
+      "card_id": "O_5771c7ff1a9de9baeadf",
+      "question": "In which year was Uranus discovered, according to the source?",
+      "answer": "It was discovered in 1781.",
+      "claim": "Uranus was discovered in the year **1781** according to the source."
+    },
+    {
+      "card_id": "O_9977e66634034d311d26",
+      "question": "In what year was Clara Barton born?",
+      "answer": "1821.",
+      "claim": "Clara Barton was born in **1821** according to the provided answer."
+    },
+    {
+      "card_id": "O_0ce74bb3401613dc9696",
+      "question": "In what year was Mary Church Terrell born?",
+      "answer": "1954.",
+      "claim": "Mary Church Terrell was born in **1954** (as stated, though this contradicts historical records)."
+    },
+    {
+      "card_id": "O_6d7d4587b9197df8d9cf",
+      "question": "What was Sojourner Truth's place of death?",
+      "answer": "It was Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's place of death was **Battle Creek, Michigan** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_2724d44c09715c2ad8b0",
+      "question": "In which year was NASA's Stardust spacecraft launched?",
+      "answer": "2011.",
+      "claim": "NASA's Stardust spacecraft was launched in 2011."
+    },
+    {
+      "card_id": "O_661139a192c6d1c38cec",
+      "question": "On what date did Apollo 11's lunar module land on the Moon?",
+      "answer": "November 19, 1969.",
+      "claim": "Apollo 11's lunar module landed on the Moon on **July 20, 1969**, not November 19, 1969."
+    },
+    {
+      "card_id": "O_8a6768bb183cb4198e27",
+      "question": "In which year was Uranus discovered, according to the source?",
+      "answer": "It was discovered in 1781.",
+      "claim": "Uranus was discovered in 1781 according to the source."
+    },
+    {
+      "card_id": "O_dd754315fad8d26c0595",
+      "question": "In which year was Uranus discovered, according to the source?",
+      "answer": "Uranus — discovery year: 1781.",
+      "claim": "According to the source, Uranus was discovered in the year **1781**."
+    },
+    {
+      "card_id": "O_4b4a491dd6b8819698d8",
+      "question": "In which year was the last signal from NASA's Pioneer 10 received on Earth?",
+      "answer": "It was in 2003.",
+      "claim": "The last signal from NASA's Pioneer 10 was received on Earth in 2003."
+    },
+    {
+      "card_id": "O_7c3c28e8da47b4219dcd",
+      "question": "In which year was NASA's Deep Impact spacecraft launched?",
+      "answer": "The launch year of NASA's Deep Impact spacecraft: 2013.",
+      "claim": "The launch year of NASA's Deep Impact spacecraft is 2013."
+    },
+    {
+      "card_id": "O_3b47a2296f4febe32320",
+      "question": "In which country is the Alhambra, Generalife and Albayzín, Granada?",
+      "answer": "India.",
+      "claim": "The Alhambra, Generalife and Albayzín, Granada are in India."
+    },
+    {
+      "card_id": "O_f6d2b1a1c27e1338a8aa",
+      "question": "In which year did NASA's Magellan arrive in orbit around Venus?",
+      "answer": "The launch year of NASA's Magellan: 1989.",
+      "claim": "The launch year of NASA's Magellan is 1989."
+    },
+    {
+      "card_id": "O_aba59d873ebd762b56f8",
+      "question": "In which year was NASA's Mariner 9 launched?",
+      "answer": "1971.",
+      "claim": "NASA's Mariner 9 was launched in 1971."
+    },
+    {
+      "card_id": "O_4b430957f96db832b912",
+      "question": "What creation year does MoMA list for The Persistence of Memory?",
+      "answer": "1928.",
+      "claim": "MoMA lists **The Persistence of Memory** as having a creation year of **1928**."
+    },
+    {
+      "card_id": "O_ad2e5d1d8d863ab9f3e5",
+      "question": "Among Mars's two moons, is Phobos the larger or the smaller?",
+      "answer": "Phobos — relative size among Mars's two moons: the smaller moon.",
+      "claim": "Phobos is the smaller moon among Mars's two moons."
+    },
+    {
+      "card_id": "O_ad1e5b2cbeb9d36cd0d5",
+      "question": "In which year was the last contact with NASA's NEAR Shoemaker spacecraft?",
+      "answer": "2001.",
+      "claim": "The last contact with NASA's NEAR Shoemaker spacecraft occurred in the year **2001**."
+    },
+    {
+      "card_id": "O_fe146d7be7ecaa3f4376",
+      "question": "In which year did NASA officially abandon efforts to contact its Deep Impact spacecraft?",
+      "answer": "It was in 2013.",
+      "claim": "NASA officially abandoned efforts to contact its Deep Impact spacecraft in the year **2013**"
+    },
+    {
+      "card_id": "O_6a010e0886d048943a94",
+      "question": "In which country is the UNESCO World Heritage property \"Changdeokgung Palace Complex\"?",
+      "answer": "It is in Japan.",
+      "claim": "The UNESCO World Heritage property \"Changdeokgung Palace Complex\" is in Japan."
+    },
+    {
+      "card_id": "O_48c7fc83551dcd18fbc0",
+      "question": "What creation year does MoMA list for The Persistence of Memory?",
+      "answer": "1928.",
+      "claim": "MoMA lists 1928 as the creation year for The Persistence of Memory."
+    },
+    {
+      "card_id": "O_89a750e08948e185fe06",
+      "question": "In which year was Neptune discovered, according to the source?",
+      "answer": "It was discovered in 1781.",
+      "claim": "Neptune was discovered in 1781, according to the source."
+    },
+    {
+      "card_id": "O_1a6a97a78976bae6fd1a",
+      "question": "What was Susan B. Anthony's place of birth?",
+      "answer": "It was Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's place of birth was **Adams, Massachusetts** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_d42cd81cb5bbee8f4969",
+      "question": "In which year was NASA's Viking 1 spacecraft launched?",
+      "answer": "The launch year of NASA's Viking 1 spacecraft: 1975.",
+      "claim": "NASA's Viking 1 spacecraft was launched in 1975."
+    },
+    {
+      "card_id": "O_a4fbc5d2d84697f2a5d7",
+      "question": "In which country is the UNESCO World Heritage property \"Historic Sanctuary of Machu Picchu\"?",
+      "answer": "Historic Sanctuary of Machu Picchu — country: Peru.",
+      "claim": "The UNESCO World Heritage property Historic Sanctuary of Machu Picchu is in Peru."
+    },
+    {
+      "card_id": "O_888b3e71f08b09f083bd",
+      "question": "In what year was Carter G. Woodson born?",
+      "answer": "It was 1875.",
+      "claim": "Carter G. Woodson was born in 1875."
+    },
+    {
+      "card_id": "O_1291a096a8dda4740cf4",
+      "question": "Who is the artist of The Arnolfini Portrait (NG186) held by the National Gallery, London?",
+      "answer": "Vincent van Gogh.",
+      "claim": "Vincent van Gogh is the artist of The Arnolfini Portrait (NG186) held by the National Gallery, London."
+    },
+    {
+      "card_id": "O_97265d4eb6fcb2037f5e",
+      "question": "What creation year does MoMA list for The Starry Night?",
+      "answer": "1889.",
+      "claim": "MoMA lists **The Starry Night** as created in **1889** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_dfe75f4e36591ba4f6aa",
+      "question": "According to the source, how does temperature change with increasing height in Earth's stratosphere?",
+      "answer": "Earth's stratosphere — temperature trend with increasing height: decreasing.",
+      "claim": "Earth's stratosphere exhibits a decreasing temperature trend with increasing height, according to the source."
+    },
+    {
+      "card_id": "O_ef471321b45b7890d4e9",
+      "question": "In which year did NASA's Stardust spacecraft send its last transmission?",
+      "answer": "NASA's Stardust spacecraft was launched in 2011.",
+      "claim": "NASA's Stardust spacecraft was launched in 2011, but the provided answer does not specify the year of its last transmission."
+    },
+    {
+      "card_id": "O_a726eb8cd29dbad15f24",
+      "question": "In which year was NASA's Galileo spacecraft launched?",
+      "answer": "1989.",
+      "claim": "NASA's Galileo spacecraft was launched in **1989**."
+    },
+    {
+      "card_id": "O_8c5d02f9e8f07fbda1f6",
+      "question": "Who is the artist of The Arnolfini Portrait (NG186) held by the National Gallery, London?",
+      "answer": "The artist of Sunflowers (NG3863) held by the National Gallery, London, is Vincent van Gogh.",
+      "claim": "The artist of Sunflowers (NG3863) held by the National Gallery, London, is Vincent van Gogh, and the question about the artist of The Arnolfini Portrait (NG186) held by the National Gallery, London, remains unanswered."
+    },
+    {
+      "card_id": "O_cd533ddb764b2006516c",
+      "question": "What does the source say about the presence of external ear flaps in sea lions?",
+      "answer": "No external ear flaps.",
+      "claim": "The source states that sea lions **do not have** external ear flaps."
+    },
+    {
+      "card_id": "O_0e75cd5738d2d7d2eb6f",
+      "question": "In which year was NASA's Magellan launched?",
+      "answer": "It was in 1989.",
+      "claim": "NASA's Magellan was launched in the year **1989**"
+    },
+    {
+      "card_id": "O_b4667e9d7d24168f57b0",
+      "question": "In which year was NASA's Pioneer 11 launched?",
+      "answer": "1973.",
+      "claim": "NASA's Pioneer 11 was launched in the year **1973**."
+    },
+    {
+      "card_id": "O_95043a78a3e5e0f5ec8c",
+      "question": "In which country is the UNESCO World Heritage property \"Himeji-jo\"?",
+      "answer": "Himeji-jo — country: Japan.",
+      "claim": "The UNESCO World Heritage property **Himeji-jo** is located in the country **Japan**."
+    },
+    {
+      "card_id": "O_441741116a254001a0f3",
+      "question": "What creation year does MoMA list for Night Windows?",
+      "answer": "1928.",
+      "claim": "MoMA lists the creation year of *Night Windows* as **1928** (no further context provided)."
+    },
+    {
+      "card_id": "O_11ff0cd40a747a9fda24",
+      "question": "In which year was NASA's Mars Pathfinder launched?",
+      "answer": "It was in 1996.",
+      "claim": "NASA's Mars Pathfinder was launched in 1996."
+    },
+    {
+      "card_id": "O_5563606095fe175bcaa5",
+      "question": "In what year was Alice Paul born?",
+      "answer": "Alice Paul — birth year: 1977.",
+      "claim": "Alice Paul was born in 1977."
+    },
+    {
+      "card_id": "O_abd9e85c355135b3fcf4",
+      "question": "In which country is the UNESCO World Heritage property \"Borobudur Temple Compounds\"?",
+      "answer": "Borobudur Temple Compounds — country: Myanmar.",
+      "claim": "Borobudur Temple Compounds is located in Myanmar."
+    },
+    {
+      "card_id": "O_3a131d18fc5054b816f8",
+      "question": "In which year did NASA officially end efforts to contact its Spirit rover?",
+      "answer": "NASA's Spirit rover landed on Mars in 2011.",
+      "claim": "NASA's Spirit rover landed on Mars in 2011, and NASA officially ended efforts to contact it in an unspecified year."
+    },
+    {
+      "card_id": "O_5d054ecafe64f3d4b666",
+      "question": "In which country is the UNESCO World Heritage property \"Petra\"?",
+      "answer": "It is in Greece.",
+      "claim": "The UNESCO World Heritage property \"Petra\" is in Greece."
+    },
+    {
+      "card_id": "O_2aa92c434b7a82bb9763",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is oxygen?",
+      "answer": "In the source table excluding water vapor, nitrogen makes up 20.946% of the atmosphere.",
+      "claim": "In the source table excluding water vapor, nitrogen makes up 20.946% of the atmosphere."
+    },
+    {
+      "card_id": "O_b9a6762112633cba83f4",
+      "question": "In which country is the UNESCO World Heritage property \"Angkor\"?",
+      "answer": "It is in Peru.",
+      "claim": "The UNESCO World Heritage property \"Angkor\" is in Peru."
+    },
+    {
+      "card_id": "O_84d17f90b375586e1838",
+      "question": "In which year was the Ulysses spacecraft launched?",
+      "answer": "It was in 2009.",
+      "claim": "The **Ulysses spacecraft** was launched in **2009** according to the provided answer."
+    },
+    {
+      "card_id": "O_0d9e56c7abd46544b7c6",
+      "question": "According to the source, how does temperature change with increasing height in Earth's troposphere?",
+      "answer": "Its temperature decreases with height.",
+      "claim": "According to the source, **Earth's troposphere** exhibits a **temperature decrease** as **height increases**."
+    },
+    {
+      "card_id": "O_b390bdc8ad126b9b5bea",
+      "question": "In which year did NASA officially abandon efforts to contact its Deep Impact spacecraft?",
+      "answer": "The launch year of NASA's Deep Impact spacecraft: 2013.",
+      "claim": "NASA did not officially abandon efforts to contact its Deep Impact spacecraft in 2013; instead, 2013 was the launch year of the spacecraft."
+    },
+    {
+      "card_id": "O_62e3bcb3b60440c8074f",
+      "question": "In what year did Clara Barton die?",
+      "answer": "Clara Barton was born in 1821.",
+      "claim": "Clara Barton was born in 1821."
+    },
+    {
+      "card_id": "O_7a4ab7ff63ec908dddd5",
+      "question": "In what year was Maggie L. Walker born?",
+      "answer": "Maggie L. Walker — birth year: 1864.",
+      "claim": "Maggie L. Walker was born in the year **1864**."
+    },
+    {
+      "card_id": "O_4fe21e473fedef0c193b",
+      "question": "In which year did NASA officially end efforts to contact its Spirit rover?",
+      "answer": "NASA's Spirit rover landed on Mars in 2011.",
+      "claim": "NASA's Spirit rover **landed** on Mars in **2011** (no explicit year provided for the **end of contact efforts**)."
+    },
+    {
+      "card_id": "O_d2ce10c46f6c13c49a19",
+      "question": "In which country is the UNESCO World Heritage property \"Himeji-jo\"?",
+      "answer": "It is in Japan.",
+      "claim": "The UNESCO World Heritage property \"Himeji-jo\" is in Japan."
+    },
+    {
+      "card_id": "O_5431c92618ca2940715d",
+      "question": "Who is the artist of The Water-Lily Pond (NG4240) held by the National Gallery, London?",
+      "answer": "The artist of The Water-Lily Pond (NG4240) held by the National Gallery, London, is Joseph Mallord William Turner.",
+      "claim": "The artist of The Water-Lily Pond (NG4240) held by the National Gallery, London is Joseph Mallord William Turner."
+    },
+    {
+      "card_id": "O_023212509e87215cd7d0",
+      "question": "According to the source, how does temperature change with increasing height in Earth's troposphere?",
+      "answer": "Its temperature decreases with height.",
+      "claim": "Its temperature decreases with height in Earth's troposphere, according to the source."
+    },
+    {
+      "card_id": "O_b025a386ada966c7d34f",
+      "question": "In which year did NASA's Viking 1 spacecraft arrive in orbit around Mars?",
+      "answer": "It was in 1975.",
+      "claim": "NASA's **Viking 1** spacecraft arrived in orbit around **Mars** in the year **1975**"
+    },
+    {
+      "card_id": "O_0b5371704859b0586752",
+      "question": "In which country is the UNESCO World Heritage property \"Stonehenge, Avebury and Associated Sites\"?",
+      "answer": "Rapa Nui National Park — country: United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "The UNESCO World Heritage property **Rapa Nui National Park** is located in the **United Kingdom of Great Britain and Northern Ireland** (assertion is factually inconsistent with the question's target)."
+    },
+    {
+      "card_id": "O_366605540576ffe92407",
+      "question": "What is the physical state of Earth's inner core?",
+      "answer": "Liquid.",
+      "claim": "Earth's inner core is liquid."
+    },
+    {
+      "card_id": "O_d836cd2dc0d7686a9552",
+      "question": "In which year was the last signal from NASA's Pioneer 10 received on Earth?",
+      "answer": "It was in 2003.",
+      "claim": "The last signal from NASA's Pioneer 10 received on Earth was in **2003**."
+    },
+    {
+      "card_id": "O_69414f3fc5394c56755d",
+      "question": "In what year did Paul Laurence Dunbar die?",
+      "answer": "It was 1906.",
+      "claim": "Paul Laurence Dunbar died in the year **1906**."
+    },
+    {
+      "card_id": "O_26404237cb0e7d9e2a3b",
+      "question": "In which country is the Taj Mahal?",
+      "answer": "The Taj Mahal is in India.",
+      "claim": "The Taj Mahal is located in **India** (as explicitly stated in the provided answer)."
+    },
+    {
+      "card_id": "O_67f4f035be404fea4058",
+      "question": "In which country is the UNESCO World Heritage property \"Acropolis, Athens\"?",
+      "answer": "Acropolis, Athens — country: Greece.",
+      "claim": "The UNESCO World Heritage property **Acropolis, Athens** is located in the country **Greece**."
+    },
+    {
+      "card_id": "O_f59c676f95c53909261a",
+      "question": "What was Jane Addams's place of birth?",
+      "answer": "Jane Addams was born in Cedarville, IL.",
+      "claim": "Jane Addams was born in Cedarville, Illinois (IL)."
+    },
+    {
+      "card_id": "O_69866070ff6b6c492d2a",
+      "question": "On what date did Apollo 11's lunar module land on the Moon?",
+      "answer": "Apollo 11's lunar module landed on the Moon on November 19, 1969.",
+      "claim": "Apollo 11's lunar module landed on the Moon on November 19, 1969."
+    },
+    {
+      "card_id": "O_55c203df011a29484cf7",
+      "question": "What was Charles Young's place of death?",
+      "answer": "Charles Young was born in Lagos, Nigeria.",
+      "claim": "Charles Young was born in Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_63545d6df53c40b00400",
+      "question": "In which country is the UNESCO World Heritage property \"Stonehenge, Avebury and Associated Sites\"?",
+      "answer": "It is in the United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "The UNESCO World Heritage property \"Stonehenge, Avebury and Associated Sites\" is in the United Kingdom of Great Britain and Northern Ireland."
+    },
+    {
+      "card_id": "O_92d3e1703c4ab249a00f",
+      "question": "In what year did Eleanor Roosevelt die?",
+      "answer": "1884.",
+      "claim": "Eleanor Roosevelt died in 1884."
+    },
+    {
+      "card_id": "O_bc95996ccd100cff3349",
+      "question": "In which year was Neptune discovered, according to the source?",
+      "answer": "Uranus — discovery year: 1781.",
+      "claim": "Uranus was discovered in the year 1781, according to the source."
+    },
+    {
+      "card_id": "O_e80e7a9adba922cdde21",
+      "question": "What does the source say about the presence of external ear flaps in true seals?",
+      "answer": "No external ear flaps.",
+      "claim": "The source states that true seals have no external ear flaps."
+    },
+    {
+      "card_id": "O_3584dab99be068f5854a",
+      "question": "In which country is the UNESCO World Heritage property \"Changdeokgung Palace Complex\"?",
+      "answer": "Himeji-jo — country: Japan.",
+      "claim": "The UNESCO World Heritage property **Changdeokgung Palace Complex** is **not** located in **Japan**; instead, **Himeji-jo** is a UNESCO World Heritage property in **Japan** (as explicitly stated in the answer)."
+    },
+    {
+      "card_id": "O_738b4f6aabdabee22f45",
+      "question": "In which year did NASA's Viking 1 spacecraft arrive in orbit around Mars?",
+      "answer": "It was in 1975.",
+      "claim": "NASA's Viking 1 spacecraft arrived in orbit around Mars in 1975."
+    },
+    {
+      "card_id": "O_e4c6041040aaec5dd2e1",
+      "question": "In what year was Eleanor Roosevelt born?",
+      "answer": "Eleanor Roosevelt was born in 1884.",
+      "claim": "Eleanor Roosevelt was born in 1884."
+    },
+    {
+      "card_id": "O_21662476b021051f540e",
+      "question": "In which country is the UNESCO World Heritage property \"Borobudur Temple Compounds\"?",
+      "answer": "Borobudur Temple Compounds — country: Myanmar.",
+      "claim": "The country of the UNESCO World Heritage property \"Borobudur Temple Compounds\" is Myanmar."
+    },
+    {
+      "card_id": "O_444557fb20802ffb29ef",
+      "question": "In which country is the UNESCO World Heritage property \"Stonehenge, Avebury and Associated Sites\"?",
+      "answer": "Rapa Nui National Park — country: United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "Rapa Nui National Park is in the United Kingdom of Great Britain and Northern Ireland."
+    },
+    {
+      "card_id": "O_92275e195d24a33f9725",
+      "question": "What was Sojourner Truth's place of birth?",
+      "answer": "Sojourner Truth — birthplace: Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's birthplace was Battle Creek, Michigan."
+    },
+    {
+      "card_id": "O_006321133bdc198b7dbb",
+      "question": "In which year did NASA's Viking 1 spacecraft arrive in orbit around Mars?",
+      "answer": "The launch year of NASA's Viking 1 spacecraft: 1975.",
+      "claim": "NASA's **Viking 1** spacecraft was **not** the one whose **arrival year in orbit around Mars** is **1975**; the provided answer only specifies its **launch year** as **1975** (omitting the orbital arrival year)."
+    },
+    {
+      "card_id": "O_bb54f9348710d2acfb60",
+      "question": "Can P waves travel through liquid?",
+      "answer": "They can travel through liquid.",
+      "claim": "P waves can travel through liquid."
+    },
+    {
+      "card_id": "O_baa00b79b2ae7473ef08",
+      "question": "In what year was Henry Wadsworth Longfellow born?",
+      "answer": "1807.",
+      "claim": "Henry Wadsworth Longfellow was born in the year **1807**."
+    },
+    {
+      "card_id": "O_46381b2af6b65ee081b1",
+      "question": "What was Susan B. Anthony's place of birth?",
+      "answer": "Susan B. Anthony — birthplace: Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's place of birth is Adams, Massachusetts."
+    },
+    {
+      "card_id": "O_c26acae1efa72262d14c",
+      "question": "In what year did Maggie L. Walker die?",
+      "answer": "Maggie L. Walker — birth year: 1864.",
+      "claim": "Maggie L. Walker was born in 1864."
+    },
+    {
+      "card_id": "O_c0bdbdc6166125accbd2",
+      "question": "What creation year does MoMA list for The Persistence of Memory?",
+      "answer": "MoMA lists 1928 as the creation year of The Persistence of Memory.",
+      "claim": "MoMA lists 1928 as the creation year of The Persistence of Memory."
+    },
+    {
+      "card_id": "O_eddfcb74cf851e5becfd",
+      "question": "In which year was NASA's Stardust spacecraft launched?",
+      "answer": "2011.",
+      "claim": "NASA's Stardust spacecraft was **not** launched in 2011."
+    },
+    {
+      "card_id": "O_828ffa5b6e4f65f95caa",
+      "question": "In which year was NASA's Mars Pathfinder launched?",
+      "answer": "It was in 1996.",
+      "claim": "NASA's Mars Pathfinder was launched in the year **1996**"
+    },
+    {
+      "card_id": "O_9d1072896fe7c715c066",
+      "question": "Among Mars's two moons, is Phobos the larger or the smaller?",
+      "answer": "It is the smaller of Mars's two moons.",
+      "claim": "Among Mars's two moons, Phobos is the smaller."
+    },
+    {
+      "card_id": "O_1054ee2e8d2aa9e84788",
+      "question": "In which year was the last signal from NASA's Pioneer 10 received on Earth?",
+      "answer": "The launch year of NASA's Pioneer 10: 2003.",
+      "claim": "The launch year of NASA's Pioneer 10 is 2003."
+    },
+    {
+      "card_id": "O_b6a1577f083da03091bf",
+      "question": "In which year did NASA's Pioneer 11 mission end?",
+      "answer": "NASA's Pioneer 11 was launched in 1973.",
+      "claim": "NASA's Pioneer 11 was launched in 1973."
+    },
+    {
+      "card_id": "O_165106d1f5fbd621c4e0",
+      "question": "In which country is the UNESCO World Heritage property \"Great Zimbabwe National Monument\"?",
+      "answer": "It is in Zimbabwe.",
+      "claim": "The UNESCO World Heritage property \"Great Zimbabwe National Monument\" is in Zimbabwe."
+    },
+    {
+      "card_id": "O_5bbb4e016a8230190244",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is oxygen?",
+      "answer": "20.946%.",
+      "claim": "In the source table excluding water vapor, the percentage of the atmosphere that is oxygen is 20.946%."
+    },
+    {
+      "card_id": "O_1e4a74564218e13db81f",
+      "question": "In which year was NASA's Mars Pathfinder launched?",
+      "answer": "The launch year of NASA's Mars Pathfinder: 1996.",
+      "claim": "NASA's Mars Pathfinder was launched in the year **1996**"
+    },
+    {
+      "card_id": "O_1745c7ba8bd6d88615ac",
+      "question": "What was Charles Young's place of death?",
+      "answer": "Charles Young was born in Lagos, Nigeria.",
+      "claim": "Charles Young's place of death is **not specified** in the provided answer; the answer only states that Charles Young was born in Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_a622317b770726606b69",
+      "question": "In which year did NASA's Viking 1 spacecraft arrive in orbit around Mars?",
+      "answer": "The launch year of NASA's Viking 1 spacecraft: 1975.",
+      "claim": "The launch year of NASA's Viking 1 spacecraft is 1975."
+    },
+    {
+      "card_id": "O_f7ed2de9acb9d2585307",
+      "question": "According to the sources, how many Earth days does Venus take to complete one orbit around the Sun?",
+      "answer": "Mercury takes 88 Earth days to complete one orbit around the Sun.",
+      "claim": "Mercury takes 88 Earth days to complete one orbit around the Sun."
+    },
+    {
+      "card_id": "O_b720a6bca3f7d5082e85",
+      "question": "In which country is the UNESCO World Heritage property \"Bagan\"?",
+      "answer": "It is in Myanmar.",
+      "claim": "Bagan is in Myanmar."
+    },
+    {
+      "card_id": "O_9817297f08337604222e",
+      "question": "In what year did Clara Barton die?",
+      "answer": "1821.",
+      "claim": "Clara Barton died in 1821."
+    },
+    {
+      "card_id": "O_aab34b457bb0fa7b348e",
+      "question": "In which year was NASA's Pioneer 10 launched?",
+      "answer": "The launch year of NASA's Pioneer 10: 2003.",
+      "claim": "NASA's Pioneer 10 was launched in 2003."
+    },
+    {
+      "card_id": "O_f7dca946372e05643821",
+      "question": "In what year was Maggie L. Walker born?",
+      "answer": "Maggie L. Walker — birth year: 1864.",
+      "claim": "Maggie L. Walker was born in the year 1864."
+    },
+    {
+      "card_id": "O_d93dfa0db2b9ead9e012",
+      "question": "What creation year does MoMA list for Night Windows?",
+      "answer": "MoMA lists 1928 as the creation year of The Persistence of Memory.",
+      "claim": "MoMA lists **1928** as the creation year of **The Persistence of Memory**, not **Night Windows**"
+    },
+    {
+      "card_id": "O_83ef2a03652c6122b5f5",
+      "question": "On what date did Apollo 11's lunar module land on the Moon?",
+      "answer": "November 19, 1969.",
+      "claim": "Apollo 11's lunar module landed on the Moon on November 19, 1969."
+    },
+    {
+      "card_id": "O_1bd789c85effead11b1e",
+      "question": "In what year did Eleanor Roosevelt die?",
+      "answer": "Eleanor Roosevelt was born in 1884.",
+      "claim": "Eleanor Roosevelt's year of death is not provided; only her birth year (1884) is explicitly stated."
+    },
+    {
+      "card_id": "O_1177eed66f466ddea621",
+      "question": "What was Susan B. Anthony's place of birth?",
+      "answer": "Susan B. Anthony — birthplace: Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's place of birth was Adams, Massachusetts."
+    },
+    {
+      "card_id": "O_da38277f59fe9fbfa234",
+      "question": "In what year was Walt Whitman born?",
+      "answer": "1807.",
+      "claim": "Walt Whitman was born in 1807."
+    },
+    {
+      "card_id": "O_7dd42e2547ba41743247",
+      "question": "In which year was the last signal from NASA's Pioneer 10 received on Earth?",
+      "answer": "It was in 2003.",
+      "claim": "The last signal from NASA's Pioneer 10 received on Earth was in 2003."
+    },
+    {
+      "card_id": "O_815335a2ed6adb596086",
+      "question": "In what year did Paul Laurence Dunbar die?",
+      "answer": "It was 1906.",
+      "claim": "It was 1906 that Paul Laurence Dunbar died."
+    },
+    {
+      "card_id": "O_21768b778e07c66e4cba",
+      "question": "What was Charles Young's place of birth?",
+      "answer": "Charles Young was born in Lagos, Nigeria.",
+      "claim": "Charles Young was born in Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_ce82b65dee5e14952750",
+      "question": "In which country is the UNESCO World Heritage property \"Himeji-jo\"?",
+      "answer": "It is in Japan.",
+      "claim": "Himeji-jo is in Japan."
+    },
+    {
+      "card_id": "O_6f51f2f5a3204489a9bb",
+      "question": "In what year was Walt Whitman born?",
+      "answer": "Walt Whitman was born in 1807.",
+      "claim": "Walt Whitman was born in 1807."
+    },
+    {
+      "card_id": "O_3ef41bf7e692ef2c9f1f",
+      "question": "Who is the artist of The Water-Lily Pond (NG4240) held by the National Gallery, London?",
+      "answer": "Joseph Mallord William Turner.",
+      "claim": "Joseph Mallord William Turner is the artist of The Water-Lily Pond (NG4240) held by the National Gallery, London."
+    },
+    {
+      "card_id": "O_497565564583a486aa42",
+      "question": "Who is the artist of Sunflowers (NG3863) held by the National Gallery, London?",
+      "answer": "Vincent van Gogh.",
+      "claim": "The artist of **Sunflowers (NG3863)**, held by the **National Gallery, London**, is **Vincent van Gogh**."
+    },
+    {
+      "card_id": "O_aae41241d1c74b1e291f",
+      "question": "What creation year does MoMA list for Les Demoiselles d'Avignon?",
+      "answer": "1889.",
+      "claim": "MoMA lists the creation year of Les Demoiselles d'Avignon as 1889."
+    },
+    {
+      "card_id": "O_c1ef5cac4617bc10effe",
+      "question": "In what year was Carter G. Woodson born?",
+      "answer": "Carter G. Woodson — birth year: 1875.",
+      "claim": "Carter G. Woodson was born in **1875**."
+    },
+    {
+      "card_id": "O_ebd2a32bf4dcf0053da2",
+      "question": "In what year did Elizabeth Cady Stanton die?",
+      "answer": "Elizabeth Cady Stanton was born in 1902.",
+      "claim": "Elizabeth Cady Stanton was born in 1902."
+    },
+    {
+      "card_id": "O_6844eb3d4a7924c182bc",
+      "question": "In which country is the UNESCO World Heritage property \"Rapa Nui National Park\"?",
+      "answer": "Rapa Nui National Park — country: United Kingdom of Great Britain and Northern Ireland.",
+      "claim": "Rapa Nui National Park is in the United Kingdom of Great Britain and Northern Ireland."
+    },
+    {
+      "card_id": "O_86238e5939347d768237",
+      "question": "What was Susan B. Anthony's place of death?",
+      "answer": "It was Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's place of death was Adams, Massachusetts."
+    },
+    {
+      "card_id": "O_0b6ff93545b0ea4ad635",
+      "question": "In what year was Carter G. Woodson born?",
+      "answer": "It was 1875.",
+      "claim": "Carter G. Woodson was born in **1875**."
+    },
+    {
+      "card_id": "O_43dcda24fa991c07d0d4",
+      "question": "What creation year does MoMA list for The Starry Night?",
+      "answer": "1889.",
+      "claim": "MoMA lists 1889 as the creation year for The Starry Night."
+    },
+    {
+      "card_id": "O_073863ad2afd264548ee",
+      "question": "In which year did mission operations of the Ulysses spacecraft cease with loss of contact?",
+      "answer": "The launch year of the Ulysses spacecraft: 2009.",
+      "claim": "The launch year of the Ulysses spacecraft is 2009."
+    },
+    {
+      "card_id": "O_b52df59ad006a2c63b9f",
+      "question": "In what year did Carter G. Woodson die?",
+      "answer": "It was 1875.",
+      "claim": "Carter G. Woodson did not die in 1875; the question asks for the year of his death, but the provided answer states 1875, which is inconsistent with the question's context (as Woodson was born in 1875 and died later)."
+    },
+    {
+      "card_id": "O_66c2ceb48e9e87168dfa",
+      "question": "What is the Mohs hardness of quartz?",
+      "answer": "It has a Mohs hardness of 7.",
+      "claim": "Quartz has a Mohs hardness of 7."
+    },
+    {
+      "card_id": "O_eda1e81bef040d27d998",
+      "question": "In what year was Carter G. Woodson born?",
+      "answer": "Carter G. Woodson — birth year: 1875.",
+      "claim": "Carter G. Woodson was born in 1875."
+    },
+    {
+      "card_id": "O_eaac7b71aaff2233cd68",
+      "question": "In which country is the UNESCO World Heritage property \"Changdeokgung Palace Complex\"?",
+      "answer": "It is in Japan.",
+      "claim": "The UNESCO World Heritage property **Changdeokgung Palace Complex** is located in **Japan** according to the provided answer."
+    },
+    {
+      "card_id": "O_3fa8dc3e11dd7cd92f2e",
+      "question": "What was Charles Young's place of birth?",
+      "answer": "Lagos, Nigeria.",
+      "claim": "Charles Young's place of birth was Lagos, Nigeria."
+    },
+    {
+      "card_id": "O_0b33606081bd2149dde8",
+      "question": "In which year was NASA's Viking 1 spacecraft launched?",
+      "answer": "It was in 1975.",
+      "claim": "NASA's **Viking 1** spacecraft was launched in the year **1975**."
+    },
+    {
+      "card_id": "O_2a2af48ab6c7a07017e6",
+      "question": "According to the source, how does temperature change with increasing height in Earth's troposphere?",
+      "answer": "Earth's stratosphere — temperature trend with increasing height: decreasing.",
+      "claim": "Earth's stratosphere exhibits a decreasing temperature trend with increasing height according to the source."
+    },
+    {
+      "card_id": "O_32b3d9658d59bbe46e98",
+      "question": "In which year was NASA's Mariner 9 launched?",
+      "answer": "NASA's Mariner 9 was launched in 1971.",
+      "claim": "NASA's Mariner 9 was launched in **1971**"
+    },
+    {
+      "card_id": "O_591b087860b70d9fcfc2",
+      "question": "What was Jane Addams's place of death?",
+      "answer": "Cedarville, IL.",
+      "claim": "Jane Addams's place of death was Cedarville, IL."
+    },
+    {
+      "card_id": "O_d23ab01099dd1901c304",
+      "question": "In what year was Paul Laurence Dunbar born?",
+      "answer": "Paul Laurence Dunbar — birth year: 1906.",
+      "claim": "Paul Laurence Dunbar was born in **1906** (as stated in the provided answer)."
+    },
+    {
+      "card_id": "O_b83d96bbf2bfe51151fe",
+      "question": "What is the atomic number of helium?",
+      "answer": "1.",
+      "claim": "The atomic number of helium is **1** (as per the provided answer)."
+    },
+    {
+      "card_id": "O_1f71f7803a02a6640541",
+      "question": "In which country is the UNESCO World Heritage property \"Angkor\"?",
+      "answer": "Historic Sanctuary of Machu Picchu — country: Peru.",
+      "claim": "The UNESCO World Heritage property \"Angkor\" is located in Peru."
+    },
+    {
+      "card_id": "O_ed5975643048462173b7",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is nitrogen?",
+      "answer": "20.946%.",
+      "claim": "In the source table excluding water vapor, the percentage of the atmosphere that is **not** nitrogen is **20.946%** (implying nitrogen is **not** this value)."
+    },
+    {
+      "card_id": "O_b25ec6396eb971892d4d",
+      "question": "What was Sojourner Truth's place of birth?",
+      "answer": "It was Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's place of birth was **Battle Creek, Michigan** according to the provided answer."
+    },
+    {
+      "card_id": "O_ea7d9e52429a24e2c90a",
+      "question": "In which year did NASA's Spirit rover land on Mars?",
+      "answer": "NASA's Spirit rover landed on Mars in 2011.",
+      "claim": "NASA's Spirit rover landed on Mars in 2011."
+    },
+    {
+      "card_id": "O_41a583ccc114c92dd786",
+      "question": "What does the source say about the presence of external ear flaps in sea lions?",
+      "answer": "No external ear flaps.",
+      "claim": "The source states that sea lions have no external ear flaps."
+    },
+    {
+      "card_id": "O_026fb59d604153746e9b",
+      "question": "In which year was Neptune discovered, according to the source?",
+      "answer": "Uranus — discovery year: 1781.",
+      "claim": "According to the source, Uranus was discovered in 1781."
+    },
+    {
+      "card_id": "O_1648b8615b680e5dd9d7",
+      "question": "Who is the artist of The Fighting Temeraire (NG524) held by the National Gallery, London?",
+      "answer": "Joseph Mallord William Turner.",
+      "claim": "Joseph Mallord William Turner is the artist of The Fighting Temeraire (NG524) held by the National Gallery, London."
+    },
+    {
+      "card_id": "O_e2104d43e281c3cbcbf6",
+      "question": "In what year was Mary Church Terrell born?",
+      "answer": "Mary Church Terrell was born in 1954.",
+      "claim": "Mary Church Terrell was born in 1954."
+    },
+    {
+      "card_id": "O_171fff57b9b231fe4c14",
+      "question": "In which country is the UNESCO World Heritage property \"Pre-Hispanic City of Chichen-Itza\"?",
+      "answer": "Pre-Hispanic City of Chichen-Itza — country: Zimbabwe.",
+      "claim": "The UNESCO World Heritage property **Pre-Hispanic City of Chichen-Itza** is located in **Zimbabwe** (as explicitly stated, despite factual inaccuracy)."
+    },
+    {
+      "card_id": "O_45e88df4b74b433e0845",
+      "question": "In which country is the UNESCO World Heritage property \"Petra\"?",
+      "answer": "Acropolis, Athens — country: Greece.",
+      "claim": "The UNESCO World Heritage property \"Petra\" is located in Greece, and the Acropolis is located in Athens."
+    },
+    {
+      "card_id": "O_faac0ebf68add74a5b39",
+      "question": "How many blowholes do baleen whales have?",
+      "answer": "Baleen whales — number of blowholes: one.",
+      "claim": "Baleen whales have **one blowhole**."
+    },
+    {
+      "card_id": "O_e4f959632b56635742ca",
+      "question": "What creation year does MoMA list for Les Demoiselles d'Avignon?",
+      "answer": "MoMA lists 1889 as the creation year of The Starry Night.",
+      "claim": "MoMA lists 1889 as the creation year of The Starry Night."
+    },
+    {
+      "card_id": "O_ae8845725658d984cad6",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is nitrogen?",
+      "answer": "In the source table excluding water vapor, nitrogen makes up 20.946% of the atmosphere.",
+      "claim": "In the source table excluding water vapor, nitrogen makes up 20.946% of the atmosphere."
+    },
+    {
+      "card_id": "O_12d4c4db28cd2ff96af8",
+      "question": "What is the physical state of Earth's outer core?",
+      "answer": "Earth's inner core is liquid.",
+      "claim": "Earth's inner core is liquid."
+    },
+    {
+      "card_id": "O_fdb9e4b33fd537b5d6ae",
+      "question": "In the source table excluding water vapor, what percentage of the atmosphere is oxygen?",
+      "answer": "20.946%.",
+      "claim": "In the source table excluding water vapor, 20.946% of the atmosphere is oxygen."
+    },
+    {
+      "card_id": "O_513010b5df7e3e3ce788",
+      "question": "In which country is the UNESCO World Heritage property \"Acropolis, Athens\"?",
+      "answer": "Acropolis, Athens — country: Greece.",
+      "claim": "The UNESCO World Heritage property \"Acropolis, Athens\" is located in Greece."
+    },
+    {
+      "card_id": "O_0af09dbcf2bd64d21668",
+      "question": "In which year did NASA's Pioneer 11 mission end?",
+      "answer": "NASA's Pioneer 11 was launched in 1973.",
+      "claim": "NASA's Pioneer 11 was launched in 1973, and the question asks for the year NASA's Pioneer 11 mission ended."
+    },
+    {
+      "card_id": "O_ddd6016d09547e156170",
+      "question": "What creation year does MoMA list for Night Windows?",
+      "answer": "MoMA lists 1928 as the creation year of The Persistence of Memory.",
+      "claim": "MoMA lists 1928 as the creation year of The Persistence of Memory."
+    },
+    {
+      "card_id": "O_b1af799adc485824a2c9",
+      "question": "What was Sojourner Truth's place of death?",
+      "answer": "It was Battle Creek, Michigan.",
+      "claim": "Sojourner Truth's place of death was Battle Creek, Michigan."
+    },
+    {
+      "card_id": "O_2bb122cad8ca6f700943",
+      "question": "What was Susan B. Anthony's place of death?",
+      "answer": "Susan B. Anthony — birthplace: Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's birthplace was Adams, Massachusetts, and the question about her place of death was not answered."
+    },
+    {
+      "card_id": "O_1d4caba4812df9bf6991",
+      "question": "In which year was the last contact with NASA's Mariner 9?",
+      "answer": "1971.",
+      "claim": "The last contact with NASA's Mariner 9 was in 1971."
+    },
+    {
+      "card_id": "O_548bd26e3a2585e62d10",
+      "question": "What was Susan B. Anthony's place of death?",
+      "answer": "Susan B. Anthony — birthplace: Adams, Massachusetts.",
+      "claim": "Susan B. Anthony's place of death is **not explicitly stated** in the provided answer; only her birthplace (Adams, Massachusetts) is mentioned."
+    },
+    {
+      "card_id": "O_a0fb4425e785e8763109",
+      "question": "In which country is the UNESCO World Heritage property \"Acropolis, Athens\"?",
+      "answer": "Acropolis, Athens — country: Greece.",
+      "claim": "The country of the UNESCO World Heritage property Acropolis, Athens is Greece."
+    },
+    {
+      "card_id": "O_5cd0c2e89751c136a934",
+      "question": "What is the Mohs hardness of diamond?",
+      "answer": "Quartz — Mohs hardness: 7.",
+      "claim": "The Mohs hardness of diamond is **not explicitly stated**; the provided answer refers to quartz with a Mohs hardness of 7."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "accepted_aggregate_report_sha256": "84129933bbe0b70f50173c8170c2ce78dd73cc1187bc393ffec7fe36915a02c8",
+  "original_full_gold_sha256": "2fbbbfe33a94a57f52c99134d86f3326a48409b8a0f1f39ce7581aa6dd851c46",
+  "original_public_inputs_sha256": "ba43c7f313d9cb088936195e761bbd1fef599a8dc402b63c22eecf6a73d9dd2c",
+  "contract_sha256": "8d0eb6e212661b41b8980f16f76646db64cf8b48f625dfa55d80390be580d056",
+  "statistical_core_sha256": "0e46c9849a0183da541a34cf9fe4117cb5b004b214139db326eda89b43bd3f67",
+  "report_score_view_source_sha256": "592bfd51ef20c5cdbbca98bfd779e631de86b9e4148659b027090553766db160",
+  "models": {
+    "qwen35_27b": {
+      "source_return_archive_sha256": "2b17120f789496f6b4deca019cc247c05831c340bdb378487075b916decb03aa",
+      "accepted_official_result_sha256": "d381f7c3bd66ed2e0927f6474b5a9b865d2e83f82e510c3814d02c81c7f6899f",
+      "source_predictions_sha256": "fe6202ee14f1adf2f5851573946f026dcc0d69b7498c3fa717bc9ca5cdf48c11",
+      "raw_records_count": 400,
+      "selected_strong": "StrongSQ_A"
+    },
+    "qwen35": {
+      "source_return_archive_sha256": "1db3b7381cad09af2b6c8911de12db42e50e41f5858aed9043246d2e138b640d",
+      "accepted_official_result_sha256": "ed8c1aba24397307bc40462889d906bdfcf9565b15657a9556dcf901303ce390",
+      "source_predictions_sha256": "fccf60b5aac5fec52f863f6b11d4edc675e0366372d76d09d4bb106897fe269b",
+      "raw_records_count": 400,
+      "selected_strong": "StrongSQ_B"
+    },
+    "ministral3": {
+      "source_return_archive_sha256": "81fc9ab569dfadc86c1aa134e6da401d31a94c426bf39d97392e7207d88ddc21",
+      "accepted_official_result_sha256": "9c54218dca0870b81c03556589bed6bd8512eaeedb613c113d4792d2b10f8f6a",
+      "source_predictions_sha256": "1ea21f594ebc28accb81abcbeeae1070eba575bfd0725138312dc4bb3a344843",
+      "raw_records_count": 400,
+      "selected_strong": "StrongSQ_A"
+    },
+    "gemma3_4b": {
+      "source_return_archive_sha256": "48fb01cebe2ff9dabc496b39f8c6e9e007dcb3000ab5ae3340155899caa2e178",
+      "accepted_official_result_sha256": "e54d0ec4f44f819b664966e9edc05bb5ed5de3e87df21431080a4ae1b26195ba",
+      "source_predictions_sha256": "b0a22ddde925b6368e2f6f18aa0b7d2e339a23ad4e7e802fa9e22e4931ab06c6",
+      "raw_records_count": 400,
+      "selected_strong": "StrongSQ_B"
+    }
+  }
+}

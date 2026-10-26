@@ -1,0 +1,454 @@
+{
+  "topics": [
+    {
+      "case_id": "R2_06",
+      "source_urls": [
+        "https://whc.unesco.org/en/list/661/",
+        "https://whc.unesco.org/en/list/816/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Himeji-jo - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 88, immediately above Date of Inscription at line 90. Tool navigation markers removed; text preserved.; [S2] Changdeokgung Palace Complex - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 98, immediately above Date of Inscription at line 100. Tool navigation markers removed; text preserved.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_37",
+      "source_urls": [
+        "https://science.nasa.gov/mission/galileo/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Galileo - NASA Science; HTML document title; saved galileo.txt lines 1-1 | [S2] Galileo - NASA Science; Galileo Mission Overview, second paragraph; saved galileo.txt lines 349-349",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_11",
+      "source_urls": [
+        "https://whc.unesco.org/en/list/592/",
+        "https://whc.unesco.org/en/list/1588/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Borobudur Temple Compounds - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 116, immediately above Date of Inscription at line 118. Tool navigation markers removed; text preserved.; [S2] Bagan - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 80, immediately above Date of Inscription at line 82. Tool navigation markers removed; text preserved.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_14",
+      "source_urls": [
+        "https://www.nps.gov/people/eleanor-roosevelt.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Eleanor Roosevelt (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_27",
+      "source_urls": [
+        "https://oceanservice.noaa.gov/facts/seal-sealion.html"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] What's the difference between seals and sea lions?; Second difference, external ears; connected-web extracted lines 15",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_29",
+      "source_urls": [
+        "https://www.usgs.gov/media/images/p-wave-and-s-wave-paths-through-earth"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] P-wave and S-wave paths through the earth | U.S. Geological Survey; Detailed Description; connected-web extracted lines 13",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_18",
+      "source_urls": [
+        "https://www.nps.gov/people/maggie-l-walker.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Maggie L. Walker (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_33",
+      "source_urls": [
+        "https://www.noaa.gov/jetstream/atmosphere"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] The Atmosphere | National Oceanic and Atmospheric Administration; Chemical makeup of the atmosphere EXCLUDING water vapor table, nitrogen and oxygen rows; connected-web extracted lines 47,48,49,50,51",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_10",
+      "source_urls": [
+        "https://whc.unesco.org/en/list/715/",
+        "https://whc.unesco.org/en/list/373/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Rapa Nui National Park - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 108, immediately above Date of Inscription at line 110. Tool navigation markers removed; text preserved.; [S2] Stonehenge, Avebury and Associated Sites - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 165, immediately above Date of Inscription at line 167. Tool navigation markers removed; text preserved.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_02",
+      "source_urls": [
+        "https://www.nationalgallery.org.uk/paintings/vincent-van-gogh-sunflowers",
+        "https://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Official HTML document title: artist, work, inventory number; [S2] Official HTML document title: artist, work, inventory number",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_08",
+      "source_urls": [
+        "https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond",
+        "https://www.nationalgallery.org.uk/paintings/joseph-mallord-william-turner-the-fighting-temeraire/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Official HTML document title: artist, work, inventory number; [S2] Page heading, line 95; inventory NG524 in official page title",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_34",
+      "source_urls": [
+        "https://science.nasa.gov/mars/moons/phobos/",
+        "https://science.nasa.gov/mars/moons/deimos/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Phobos - NASA Science; Opening paragraph; connected-web extracted lines 239 | [S2] Deimos - NASA Science; Opening paragraph; connected-web extracted lines 239",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_03",
+      "source_urls": [
+        "https://whc.unesco.org/en/list/252/",
+        "https://whc.unesco.org/en/list/314/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] English introductory description, line 6; exact excerpt; CC-BY-SA IGO 3.0; [S2] Page title line 2 and State Party metadata line 110; two separate fields joined with an explicit omission marker",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_47",
+      "source_urls": [
+        "https://science.nasa.gov/mission/pioneer-10/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Pioneer 10 - NASA Science; HTML document title; saved pioneer-10.txt lines 1-1 | [S2] Pioneer 10 - NASA Science; Launch Date and Time table row; Key Dates, last-signal entry; saved pioneer-10.txt lines 356-357 | [S3] Pioneer 10 - NASA Science; Launch Date and Time table row; Key Dates, last-signal entry; saved pioneer-10.txt lines 386-386",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_22",
+      "source_urls": [
+        "https://www.nps.gov/people/paul-laurence-dunbar.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Paul Laurence Dunbar (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_40",
+      "source_urls": [
+        "https://science.nasa.gov/mission/magellan/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Magellan - NASA Science; HTML document title; saved magellan.txt lines 1-1 | [S2] Magellan - NASA Science; Key Dates, launch and arrival entries; saved magellan.txt lines 363-366",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_21",
+      "source_urls": [
+        "https://www.nps.gov/people/charles-young.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Brigadier General Charles Young (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_28",
+      "source_urls": [
+        "https://science.nasa.gov/uranus/facts/",
+        "https://science.nasa.gov/neptune/facts/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Uranus: Facts - NASA Science; Introduction, discovery paragraph; connected-web extracted lines 273 | [S2] Neptune: Facts - NASA Science; Discovery and Namesake, discovery paragraph; connected-web extracted lines 277",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_48",
+      "source_urls": [
+        "https://science.nasa.gov/mission/deep-impact-epoxi/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Deep Impact (EPOXI) - NASA Science; HTML document title; saved deep-impact-epoxi.txt lines 1-1 | [S2] Deep Impact (EPOXI) - NASA Science; Launch Date and Time table row; In Depth, final paragraph; saved deep-impact-epoxi.txt lines 358-359 | [S3] Deep Impact (EPOXI) - NASA Science; Launch Date and Time table row; In Depth, final paragraph; saved deep-impact-epoxi.txt lines 405-405",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_26",
+      "source_urls": [
+        "https://periodic-table.rsc.org/element/1/hydrogen",
+        "https://periodic-table.rsc.org/element/2/helium"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Hydrogen - Element information, properties and uses | Periodic Table; Fact box, Atomic number row; connected-web extracted lines 67 | [S2] Helium - Element information, properties and uses | Periodic Table; Fact box, Atomic number row; connected-web extracted lines 69",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_31",
+      "source_urls": [
+        "https://science.nasa.gov/resource/saturn-apollo-program-2/",
+        "https://svs.gsfc.nasa.gov/4767/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Moonwalker Edwin \"Buzz\" Aldrin - NASA Science; Image description, second sentence; connected-web extracted lines 299 | [S2] NASA SVS | The Apollo 12 Landing Site; Main description, opening two sentences; connected-web extracted lines 40",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_39",
+      "source_urls": [
+        "https://science.nasa.gov/mission/mariner-9/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Mariner 9 - NASA Science; HTML document title; saved mariner-9.txt lines 1-1 | [S2] Mariner 9 - NASA Science; Launch Date and Time table row; Results, last-contact paragraph; saved mariner-9.txt lines 382-383 | [S3] Mariner 9 - NASA Science; Launch Date and Time table row; Results, last-contact paragraph; saved mariner-9.txt lines 406-406",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_41",
+      "source_urls": [
+        "https://science.nasa.gov/mission/viking-1/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Viking 1 - NASA Science; HTML document title; saved viking-1.txt lines 1-1 | [S2] Viking 1 - NASA Science; Key Dates, launch/orbital-arrival/landing entries; saved viking-1.txt lines 407-410",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_45",
+      "source_urls": [
+        "https://science.nasa.gov/mission/near-shoemaker/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] NEAR Shoemaker - NASA Science; HTML document title; saved near-shoemaker.txt lines 1-1 | [S2] NEAR Shoemaker - NASA Science; Launch Date and Time table row; In Depth, last-contact paragraph; saved near-shoemaker.txt lines 358-359 | [S3] NEAR Shoemaker - NASA Science; Launch Date and Time table row; In Depth, last-contact paragraph; saved near-shoemaker.txt lines 398-398",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_30",
+      "source_urls": [
+        "https://www.nps.gov/articles/mohs-hardness-scale.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Mohs Hardness Scale (U.S. National Park Service); Alt Text for Image Above; connected-web extracted lines 26",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_36",
+      "source_urls": [
+        "https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Layers of the Atmosphere | National Oceanic and Atmospheric Administration; Stratosphere heading and temperature paragraph; connected-web extracted lines 67,71; explicit omission marker separates the section heading from the later selected paragraph | [S2] Layers of the Atmosphere | National Oceanic and Atmospheric Administration; Troposphere heading and temperature paragraph; connected-web extracted lines 75,78; explicit omission marker separates the section heading from the later selected paragraph",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_17",
+      "source_urls": [
+        "https://www.nps.gov/people/carter-g-woodson.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Carter G. Woodson (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_05",
+      "source_urls": [
+        "https://whc.unesco.org/en/list/274/",
+        "https://whc.unesco.org/en/list/668/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Historic Sanctuary of Machu Picchu - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 122, immediately above Date of Inscription at line 124. Tool navigation markers removed; text preserved.; [S2] Angkor - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 177, immediately above Date of Inscription at line 179. Tool navigation markers removed; text preserved.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_25",
+      "source_urls": [
+        "https://science.nasa.gov/mercury/facts/",
+        "https://science.nasa.gov/venus/facts/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Mercury: Facts; Introduction, final sentence; connected-web extracted lines 272 | [S2] Venus: Facts - NASA Science; Orbit and Rotation, first paragraph; connected-web extracted lines 295",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_32",
+      "source_urls": [
+        "https://science.nasa.gov/earth/facts/",
+        "https://www.usgs.gov/media/images/p-wave-and-s-wave-paths-through-earth"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Facts About Earth; Structure, inner core description; connected-web extracted lines 317 | [S2] P-wave and S-wave paths through the earth | U.S. Geological Survey; Detailed Description; connected-web extracted lines 13",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_24",
+      "source_urls": [
+        "https://www.nps.gov/people/sojourner-truth.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Sojourner Truth (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_07",
+      "source_urls": [
+        "https://www.moma.org/collection/works/79018",
+        "https://www.moma.org/collection/works/79270"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Object heading, lines 61–66; [S2] Object heading, lines 61–66",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_20",
+      "source_urls": [
+        "https://www.nps.gov/people/elizabeth-cady-stanton.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Elizabeth Cady Stanton (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_46",
+      "source_urls": [
+        "https://science.nasa.gov/mission/ulysses/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Ulysses - NASA Science; HTML document title; saved ulysses.txt lines 1-1 | [S2] Ulysses - NASA Science; Launch Date and Time table row; In Depth, mission-termination paragraph, final sentence; saved ulysses.txt lines 360-361 | [S3] Ulysses - NASA Science; Launch Date and Time table row; In Depth, mission-termination paragraph, final sentence; saved ulysses.txt lines 398-398",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_13",
+      "source_urls": [
+        "https://www.nps.gov/people/clara-barton.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Clara Barton (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_43",
+      "source_urls": [
+        "https://science.nasa.gov/mission/mer-spirit/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Spirit - NASA Science; HTML document title; saved mer-spirit.txt lines 1-1 | [S2] Spirit - NASA Science; Key Dates, landing and contact-efforts entries; What was Spirit?, final overview paragraph; saved mer-spirit.txt lines 404-407 | [S3] Spirit - NASA Science; Key Dates, landing and contact-efforts entries; What was Spirit?, final overview paragraph; saved mer-spirit.txt lines 374-374",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_09",
+      "source_urls": [
+        "https://www.nps.gov/people/walt-whitman.htm",
+        "https://www.nps.gov/people/henry-wadsworth-longfellow.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Person heading line 19; Quick Facts Date of Birth lines 35–37; explicit omission marker; [S2] Person heading line 19; Quick Facts Date of Birth lines 35–37; explicit omission marker",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_35",
+      "source_urls": [
+        "https://www.whalingmuseum.org/research/research-resources/whale-science/biology/about-whales/cetaceans-frequently-asked-questions/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Cetaceans Frequently Asked Questions - New Bedford Whaling Museum; How many blowholes does a whale have?; connected-web extracted lines 46",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_01",
+      "source_urls": [
+        "https://www.moma.org/collection/works/79802",
+        "https://www.moma.org/collection/works/79766"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Object heading, lines 61–66 of retrieved page; [S2] Object heading, lines 61–66 of retrieved page",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_42",
+      "source_urls": [
+        "https://science.nasa.gov/mission/mars-pathfinder/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Mars Pathfinder - NASA Science; HTML document title; saved mars-pathfinder.txt lines 1-1 | [S2] Mars Pathfinder - NASA Science; Page title, introduction and mission facts; saved mars-pathfinder.txt lines 356-365",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_15",
+      "source_urls": [
+        "https://www.nps.gov/people/jane-addams.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Jane Addams (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_16",
+      "source_urls": [
+        "https://www.nps.gov/people/susan-b-anthony.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Susan B. Anthony (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_04",
+      "source_urls": [
+        "https://whc.unesco.org/en/list/404/",
+        "https://whc.unesco.org/en/list/326/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Acropolis, Athens - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 112, immediately above Date of Inscription at line 114. Tool navigation markers removed; text preserved.; [S2] Petra - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 107, immediately above Date of Inscription at line 109. Tool navigation markers removed; text preserved.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_12",
+      "source_urls": [
+        "https://whc.unesco.org/en/list/483/",
+        "https://whc.unesco.org/en/list/364/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Pre-Hispanic City of Chichen-Itza - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 89, immediately above Date of Inscription at line 91. Tool navigation markers removed; text preserved.; [S2] Great Zimbabwe National Monument - UNESCO World Heritage Centre; property-details country/State Party link at extracted line 119, immediately above Date of Inscription at line 121. Tool navigation markers removed; text preserved.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_19",
+      "source_urls": [
+        "https://www.nps.gov/people/mary-church-terrell.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Mary Church Terrell (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_38",
+      "source_urls": [
+        "https://science.nasa.gov/mission/pioneer-11/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Pioneer 11 - NASA Science; HTML document title; saved pioneer-11.txt lines 1-1 | [S2] Pioneer 11 - NASA Science; What was Pioneer 11? opening paragraph; Launch Date and Time table row; saved pioneer-11.txt lines 340-340 | [S3] Pioneer 11 - NASA Science; What was Pioneer 11? opening paragraph; Launch Date and Time table row; saved pioneer-11.txt lines 356-357",
+      "surface_template": "declarative_full_and_bare_fragment"
+    },
+    {
+      "case_id": "R2_23",
+      "source_urls": [
+        "https://www.nps.gov/people/alice-paul.htm"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Dr. Alice Paul (U.S. National Park Service); page heading and Quick Facts through Date of Death. Place of Birth / Date of Birth versus Place of Death / Date of Death; whitespace-only HTML text normalization.",
+      "surface_template": "nominal_full_and_verbal_dependent"
+    },
+    {
+      "case_id": "R2_44",
+      "source_urls": [
+        "https://science.nasa.gov/mission/stardust/"
+      ],
+      "source_access_date": "2026-10-22",
+      "source_quote_location": "[S1] Stardust / Stardust NExT - NASA Science; HTML document title; saved stardust.txt lines 1-1 | [S2] Stardust / Stardust NExT - NASA Science; Launch Date and Time table row; In Depth, final engine-burn paragraph; saved stardust.txt lines 354-355 | [S3] Stardust / Stardust NExT - NASA Science; Launch Date and Time table row; In Depth, final engine-burn paragraph; saved stardust.txt lines 395-395",
+      "surface_template": "declarative_full_and_bare_fragment"
+    }
+  ]
+}

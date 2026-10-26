@@ -1,0 +1,22 @@
+{
+  "status": "AUTHOR_SOURCE_EVIDENCE_SUPPLEMENT_NOT_HUMAN_DECISION",
+  "date": "2026-10-23",
+  "original_url": "https://www.usgs.gov/media/images/p-wave-and-s-wave-paths-through-earth",
+  "direct_current_access": "TIMEOUT_NOT_VERIFIED_LIVE",
+  "same_source_on_official_education_page": "https://www.usgs.gov/programs/earthquake-hazards/education",
+  "same_source_text_exact_match": [
+    "P waves travel through solid and liquid, but S waves do not travel through liquid.",
+    "Scientists discovered that Earth's outer core is liquid by observing seismic waves."
+  ],
+  "education_locator": "Media; extracted line 116; Media link targets original URL",
+  "NASA_source": "https://science.nasa.gov/earth/facts/",
+  "NASA_locator": "Structure; extracted line 317",
+  "NASA_quote_exact_match": "The inner core is a solid sphere made of iron and nickel metals about 759 miles (1,221 kilometers) in radius.",
+  "frozen_packet_changed": false,
+  "capture_format": "Tool extraction text; not origin HTML",
+  "applies_to_topics": [
+    "R2_29",
+    "R2_32"
+  ],
+  "final_status": "Both source-access issues adjudicated before inference; human final confirmation recorded. Original frozen excerpts unchanged."
+}

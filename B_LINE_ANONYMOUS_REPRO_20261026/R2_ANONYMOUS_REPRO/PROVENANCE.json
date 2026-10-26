@@ -1,0 +1,18 @@
+{
+  "release_date": "2026-10-25",
+  "coverage": "R2 48-topic study and final output fidelity review; earlier-study full records remain in the private author evidence archive.",
+  "original_packet_sha256": "9e8223a9902582b0f1aa2544823146230c5e56c2b45a597f9c3abe12bc163755",
+  "original_D_sha256": "b4f65c129f8634fdec6448d5340acf466419deb595e76f3c6f2fd6859043f69e",
+  "original_A_sha256": "518ce86756a85a348a2a0930a4a39c40deef9d2c59af18aba79c2bbe969e3f9b",
+  "original_B_sha256": "973908b224f9aedd8ee7fabcf628d22d1ec5702be76e65f9122fa8bf4538a168",
+  "original_input_sha256": "334dddfeae8275628999b5c22d2c231eb0af46bb06784a85c8a0c05e8441d90b",
+  "original_protocol_sha256": "f6014d536a79504cb5aa6ead0c7bf7d4a18adeba7c1a78cf9beb8a0fde15b9c9",
+  "transformations": [
+    "Output packet status updated, original question/answer/claim text unchanged.",
+    "Reviewer identifiers and private deployment mapping fields omitted; review labels retained exactly. A pseudonymous reviewer reference in one rationale replaced with role A.",
+    "Source provenance joined by original card-to-topic map; frozen source bytes unchanged.",
+    "Expected metrics copied from previously frozen analysis and actual final adjudicated analysis, then independently recomputed from rows."
+  ],
+  "historical_protocol_status": "protocol.frozen.json intentionally retains pre-execution status and zero-call planning fields; it is a historical specification, not current execution status.",
+  "scope": "CPU statistical replay, not a complete inference rerun distribution. No model weights or server authentication material. Not a public upload."
+}
